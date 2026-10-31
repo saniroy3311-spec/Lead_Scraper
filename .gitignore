@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches and logs
+*.log
+.pytest_cache/
+.coverage
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Cloned reference repositories
+Agent-Reach/
+gods-eye-view/
+growth-hub-repo/
+temp_repo/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
