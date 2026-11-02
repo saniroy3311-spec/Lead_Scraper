@@ -1,0 +1,127 @@
+﻿post_no,shortcode,date_utc,media_type,is_video,title,asset,trading_type,indicators,cleaned_caption,spoken_transcript,raw_caption
+1,Da2mqDotWD2,2026-07-16 12:08:23,Video / Reel,True,Weakest mathematician,Equities & Financial Markets,Price Action & Strategy,Price Action & Market Structure,Weakest mathematician,me,"Weakest mathematician
+
+#math #studygram #student #university #gym"
+2,DbnhWPsDZyK,2026-08-04 12:04:07,Carousel (Sidecar),False,Quant math looks like one giant pile you have to swallow whole. I,Equities & Financial Markets,"Options Trading, Quantitative & Algorithmic",Stochastic,"Quant math looks like one giant pile you have to swallow whole. It isn’t. It’s a sequence, and the sequence is most of the difficulty.
+
+This is the order I’d follow if I started from zero today. Nine topics, from high school algebra up to calibrating a volatility surface. Foundations, calculus, linear algebra, probability, statistical inference, computational methods, optimization, stochastic processes, pricing.
+
+Three things in here that other roadmaps get wrong. Optimization needs nothing past linear algebra and belongs early, not in year three. Measure theory is the second pass through stochastic calculus, not the prerequisite for it. And Bayesian methods aren’t optional, because you never have the sample size the frequentist story assumes.
+
+The catch: reading all nine takes close to two years, and at the end of it you still have nothing to show anyone. Nobody gets hired for having read Shreve. Knowing the order is half of it. Applying it is the other half, and that’s the half that decides it.",,"Comment «ROADMAP» and I’ll send you the link, with a personalized version of this order and the exercises and projects for every topic on it.
+
+Quant math looks like one giant pile you have to swallow whole. It isn’t. It’s a sequence, and the sequence is most of the difficulty.
+
+This is the order I’d follow if I started from zero today. Nine topics, from high school algebra up to calibrating a volatility surface. Foundations, calculus, linear algebra, probability, statistical inference, computational methods, optimization, stochastic processes, pricing.
+
+Three things in here that other roadmaps get wrong. Optimization needs nothing past linear algebra and belongs early, not in year three. Measure theory is the second pass through stochastic calculus, not the prerequisite for it. And Bayesian methods aren’t optional, because you never have the sample size the frequentist story assumes.
+
+The catch: reading all nine takes close to two years, and at the end of it you still have nothing to show anyone. Nobody gets hired for having read Shreve. Knowing the order is half of it. Applying it is the other half, and that’s the half that decides it.
+
+Comment «ROADMAP» and I’ll send you the link, with a personalized version of this order and the exercises and projects for every topic on it.
+
+#quant #quantitativefinance #math #stochasticcalculus #coding"
+3,DZe1ER1gWx1,2026-06-12 10:00:28,Carousel (Sidecar),False,eigenvalues and eigenvectors,Equities & Financial Markets,Price Action & Strategy,Price Action & Market Structure,eigenvalues and eigenvectors,,eigenvalues and eigenvectors
+4,DfKKpgPNYLe,2026-10-31 12:52:16,Video / Reel,True,Mathematicians have their own periodic table. It lists every fini,Options,Options Trading,Price Action & Market Structure,"Mathematicians have their own periodic table. It lists every finite simple group, and proving the list is complete took about 100 mathematicians, 50 years and 15,000 pages.
+
+This week Axiom’s AI agents checked the entire proof in Lean in 24 days. The check caught a flawed step in a paper from 1986. The theorem itself still holds.
+
+So why does one proof need 15,000 pages? It comes down to how you prove a list has nothing missing.","Mathematicians have your own periodic table and proving it's complete to 15,000 pages. It lists the simple groups, the symmetries you can't break in the smaller ones. And every finite group is built from them like numbers are built from frames. Most of the table are tidy families that go on forever. Plus 26 groups that fit no pattern. About 100 mathematicians spend 50 years proving nothing is missing. In this week, AXIMS AI agent checked the whole proof in lean, where a computer verifies every set it took 24 days. It's that long because of how you prove a list is complete. Your picture the smallest, simple group that's missing and since it's a smallest, everything inside it is already on the list. You grab it by an element that undoes itself when you apply twice and proving one always exists to 255 pages on its own. Everything that commutes with that element forms a small group. So you know what it's made of. And they prove that this narrows the group down to finitely many options. So...","Mathematicians have their own periodic table. It lists every finite simple group, and proving the list is complete took about 100 mathematicians, 50 years and 15,000 pages.
+
+This week Axiom’s AI agents checked the entire proof in Lean in 24 days. The check caught a flawed step in a paper from 1986. The theorem itself still holds.
+
+So why does one proof need 15,000 pages? It comes down to how you prove a list has nothing missing.
+
+#math #mathematics #science #proof #stem"
+5,DfHxxjztOkR,2026-10-30 14:17:56,Video / Reel,True,The 4 repos I’d use before betting on Polymarket.,Equities & Financial Markets,Quantitative & Algorithmic,Price Action & Market Structure,"The 4 repos I’d use before betting on Polymarket.
+
+One gives you Polymarket’s order book for free, in hourly files. The one hour I pulled had over 72 million order book updates across 44,000 markets.
+
+Another replays that order book so you can test a strategy before it costs you anything. The example strategy that comes with it lost 99.8% of its money in the backtest.
+
+You don’t need a wallet or a private key to use any of them for research. That matters, because this year fake Polymarket bot repos on GitHub were caught stealing wallet keys.","One more, one more","Comment «POLY» and I’ll send you all 4 repos.
+
+The 4 repos I’d use before betting on Polymarket.
+
+One gives you Polymarket’s order book for free, in hourly files. The one hour I pulled had over 72 million order book updates across 44,000 markets.
+
+Another replays that order book so you can test a strategy before it costs you anything. The example strategy that comes with it lost 99.8% of its money in the backtest.
+
+You don’t need a wallet or a private key to use any of them for research. That matters, because this year fake Polymarket bot repos on GitHub were caught stealing wallet keys.
+
+Comment «POLY» and I’ll send you all 4 repos.
+
+#polymarket #quant #trading #coding #github"
+6,DfCl7nzNd27,2026-10-28 14:00:54,Video / Reel,True,Every optimizer is a trade-off between how much one step costs an,Equities & Financial Markets,Options Trading,Price Action & Market Structure,"Every optimizer is a trade-off between how much one step costs and how many steps you need. Gradient descent takes cheap steps and lots of them. Newton’s method takes expensive steps and usually far fewer of them. A lot of the methods in this video are ways of getting closer to Newton’s progress without paying Newton’s price.
+
+The list also mixes two different worlds. In machine learning you’re training on huge, noisy datasets, so cheap steps matter more than landing exactly on the minimum. In classical optimization you usually have constraints and need an accurate answer, so you’re happy to pay a lot per iteration. Putting them on one list means people from both sides are going to disagree with something.","BFGS. Atear. I first came across this when in your miracle optimization a few years ago, so basically use changes in the gradients to build a curvature information without ever calculating the Hessian. The catch is storing a full matrix which gets expensive when you have lots of variables. Radiant to sound Atear. And yeah, this is going to piss off some of the ammo people, but hear me out. I'm given it credit for being very simple. But on a badly conditioned problem you can spend forever zigzagging towards the minimum. To cast a gradient to sound. Yeah, that's also Atear. Adding to casting does not automatically move it up at here. It makes up that's much cheaper on large data sets but not yet a nice deal with. And if you want to get really close to the minimum, the noise becomes a problem. Now, there's me. See you, dear. I get the appeal when the rivet is already paying to calculate. But there are smooth, strictly common examples where it converges to a point that is an even stationary. And that can happen.","Every optimizer is a trade-off between how much one step costs and how many steps you need. Gradient descent takes cheap steps and lots of them. Newton’s method takes expensive steps and usually far fewer of them. A lot of the methods in this video are ways of getting closer to Newton’s progress without paying Newton’s price.
+
+The list also mixes two different worlds. In machine learning you’re training on huge, noisy datasets, so cheap steps matter more than landing exactly on the minimum. In classical optimization you usually have constraints and need an accurate answer, so you’re happy to pay a lot per iteration. Putting them on one list means people from both sides are going to disagree with something.
+
+#math #machinelearning #ai #optimization #quant"
+7,De91QfARRK7,2026-10-26 17:36:51,Video / Reel,True,"If I had one week until my math exam, here are the three things I",Equities & Financial Markets,Quantitative & Algorithmic,Price Action & Market Structure,"If I had one week until my math exam, here are the three things I’d do right now.
+
+One of them is a tool I built in Replit. I enter a problem I got wrong, it generates new versions with different numbers, and SymPy checks every answer in code.
+
+It’s the plan I’d follow with a week left before any math exam. Everything you need to run it yourself is in the resources.","If I had one week until my math exam here are the three things I do right now. First, on day one, list the topics and rank them by two things. How much of the exam are the worth and can you solve the questions? Start with the week topics worth and most marks. Something you already know doesn't deserve another afternoon. Second, do pass papers and exam conditions. Set a timer, close the solutions and mark yourself after using the official scheme and keep one recent paper and touch for a mockingly end of the week. Third, keep a mistake. For every wrong answer, write on why. Did you misunderstand the concept, choose the wrong method, or make an algebra slip? That works through the correction. I built mine in Reflit. I enter a problem I got wrong and it generates another version with different numbers. And for these calculation problems, simplify checks the answering code. And it brings them back over the next few days. So I have to solve them again without a solution open. By the end of the week, I can check it on still making the same mistakes. Comment.","Comment «EXAM» and I’ll send you the resources to follow this plan yourself.
+
+If I had one week until my math exam, here are the three things I’d do right now.
+
+One of them is a tool I built in Replit. I enter a problem I got wrong, it generates new versions with different numbers, and SymPy checks every answer in code.
+
+It’s the plan I’d follow with a week left before any math exam. Everything you need to run it yourself is in the resources.
+
+Comment «EXAM» and I’ll send you the resources to follow this plan yourself.
+
+@replit
+
+#replitpartner #math #study #exam #coding"
+8,De4MMZ3N3ti,2026-10-24 13:02:24,Video / Reel,True,"AI is writing more and more of the code at work, but school and j",Equities & Financial Markets,"Options Trading, Quantitative & Algorithmic",Price Action & Market Structure,"AI is writing more and more of the code at work, but school and job interviews still test you like it’s five years ago.
+
+I started coding in 2018 and wrote every line by hand for seven years. About a year ago I stopped, and I haven’t gone back. At Google, 75% of all new code is now AI-generated and approved by engineers, up from 50% last fall.
+
+Meanwhile my uni has an intro programming course where the exam is four hours and the only thing you can bring is a simple calculator. Meta and Google only started allowing AI in some interview rounds in the last year or so.","There is a really awkward gap in coding right now. At work, AI is writing more and more of the code, but in school and in job interviews, you're still mostly tested like it's five years ago. And a lot of people are only preparing for one of those two worlds. I started coding in 2018, and I wrote every single line by hand for six years. About a year ago, I stopped and I haven't gone back. And it's not just me. At school, I learned from writing half a phone you code about 75% and about six months. That's a paradigm shift. And the job is turning into directing the AI and checking what it gives you. But the tests haven't called up. At my university, there's an intro program and of course, where the exam is four hours long and the only thing you can bring is a simple calculator. And even meta and Google only started the allowing AI in some interview rounds in the last year or so. And that's the problem. Courses and hiring processes can take years to change. Meanwhile, Citadel is already hiring for what they're had of quants.","AI is writing more and more of the code at work, but school and job interviews still test you like it’s five years ago.
+
+I started coding in 2018 and wrote every line by hand for seven years. About a year ago I stopped, and I haven’t gone back. At Google, 75% of all new code is now AI-generated and approved by engineers, up from 50% last fall.
+
+Meanwhile my uni has an intro programming course where the exam is four hours and the only thing you can bring is a simple calculator. Meta and Google only started allowing AI in some interview rounds in the last year or so.
+
+Where do you think coding is heading? Comment below.
+
+#coding #programming #swe #ai #quant"
+9,De1lzKANMgn,2026-10-23 12:48:04,Video / Reel,True,The research side of a hedge fund comes down to four jobs. Findin,Equities & Financial Markets,"Options Trading, Quantitative & Algorithmic",Price Action & Market Structure,"The research side of a hedge fund comes down to four jobs. Finding the actual formula behind your data instead of a black box, modelling how one order triggers the next, checking if your best backtest beat the benchmark or just got lucky, and putting a real range around every prediction.
+
+Each of these repos does one of those jobs. They’re free, they run on a laptop, and the methods behind them come from published papers. One was built by an astrophysicist, another is maintained by a financial economist at Oxford.",.,"Comment «REPOS» and I’ll send you all 4.
+
+The research side of a hedge fund comes down to four jobs. Finding the actual formula behind your data instead of a black box, modelling how one order triggers the next, checking if your best backtest beat the benchmark or just got lucky, and putting a real range around every prediction.
+
+Each of these repos does one of those jobs. They’re free, they run on a laptop, and the methods behind them come from published papers. One was built by an astrophysicist, another is maintained by a financial economist at Oxford.
+
+Comment «REPOS» and I’ll send you all 4.
+
+#quant #finance #math #quantfinance #research"
+10,DewcSFftbGO,2026-10-21 12:52:08,Video / Reel,True,"In analysis you rarely compute things exactly. You bound them, an",Equities & Financial Markets,Options Trading,Price Action & Market Structure,"In analysis you rarely compute things exactly. You bound them, and these are the inequalities you do it with. This list is about how much work each one does once you’re actually writing a proof.
+
+Several of them come out of each other. Hölder is usually proved with Young’s inequality, Minkowski is proved with Hölder, and AM-GM falls out of Jensen applied to the logarithm. So a lot of this list depends on the rest of it.","Young's inequality. A tier. You've got a product you can't control, so you split it into powers you can. And that little epsilon version is especially useful in PDE estimates. Very exciting to look at, but very useful to have. Try and go to inequality. A tier as well. Half the time you're bounding an error, you're just splitting it up into smaller errors and then using this. And I know A might look low for this, but wait until we get to S. Markov's inequality. B tier. You give it an expectation and it gives you a probability round. Sometimes this bound tells you almost nothing, but you also gave it almost nothing. It should be serves inequality. Also be, it's mark of apply to square deviations. It's useful when you only know the variance, but I'm keeping those two together. Of course you swore for inequality. As tier. Inner products. Projections. Coverions bounds. You start recognizing the same inequality in completely different subjects. This is usually one of the first-","In analysis you rarely compute things exactly. You bound them, and these are the inequalities you do it with. This list is about how much work each one does once you’re actually writing a proof.
+
+Several of them come out of each other. Hölder is usually proved with Young’s inequality, Minkowski is proved with Hölder, and AM-GM falls out of Jensen applied to the logarithm. So a lot of this list depends on the rest of it.
+
+#math #mathematics #inequalities #quant #probability"
+11,Det1c1UjVvM,2026-10-20 12:29:24,Carousel (Sidecar),False,"These are five papers I’d read before trusting any factor, backte",Stocks,Quantitative & Algorithmic,Price Action & Market Structure,"These are five papers I’d read before trusting any factor, backtest or optimizer you build.
+
+One checks whether published factors actually replicate, using 153 factors across 93 countries. One asks how much those factors still earn if you only trade large stocks after 2005, and it came out in July 2026. One is a 22 question checklist for your backtests, written by Arnott, Harvey and Markowitz.
+
+The last two are about tools a lot of people use without questioning them: an LLM that has already seen the answers it’s being tested on, and a mean-variance optimizer that keeps betting on the wrong portfolios. All five are free to read.",,"Comment «PAPERS» and I’ll send you all five papers.
+
+These are five papers I’d read before trusting any factor, backtest or optimizer you build.
+
+One checks whether published factors actually replicate, using 153 factors across 93 countries. One asks how much those factors still earn if you only trade large stocks after 2005, and it came out in July 2026. One is a 22 question checklist for your backtests, written by Arnott, Harvey and Markowitz.
+
+The last two are about tools a lot of people use without questioning them: an LLM that has already seen the answers it’s being tested on, and a mean-variance optimizer that keeps betting on the wrong portfolios. All five are free to read.
+
+Comment «PAPERS» and I’ll send you all five papers.
+
+#quant #finance #investing #math #quantfinance"
+12,DerRi5UNM2w,2026-10-19 12:37:35,Video / Reel,True,You already know what this will require,Equities & Financial Markets,Price Action & Strategy,Price Action & Market Structure,You already know what this will require,,"You already know what this will require
+
+#math #studygram #student #university #darkacademia"

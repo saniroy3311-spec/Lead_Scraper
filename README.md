@@ -1,56 +1,66 @@
-# Lead Scraper & Business Intelligence Suite
+# Master Workspace Directory Guide
 
-Autonomous lead generation, multi-threaded enrichment, and business intelligence tool designed for scraping local businesses, clinics, gyms, and professional services across India.
-
----
-
-## 🎯 Features
-
-- **Google Maps & Local Directory Scraping**: Automated Playwright Chromium browser scraper extracts business names, categories, ratings, reviews, addresses, and maps URLs.
-- **Deep Web Intel & Email Extraction**: Multi-threaded web crawler extracts email addresses, social profiles (LinkedIn, Facebook, Instagram), and website statuses.
-- **Contact Standardization**: Formats and cleans Indian mobile numbers (`+91 ...`) and creates direct WhatsApp click-to-chat links (`wa.me/...`).
-- **Production-Ready Excel & CSV Export**: Formatted with professional styling, navy headers, auto-fitting column dimensions, and gridlines.
-- **Digital Opportunity Auditing**: Automatically identifies high-value digital marketing/web development pitches (e.g., missing websites, insecure HTTP, outdated subdomains).
+This workspace has been cleanly categorized and organized into **4 dedicated project directories**:
 
 ---
 
-## 📂 Key Datasets Generated
+## 📁 1. `01_Instagram_Trading_Intelligence/`
+> **Purpose**: The complete batch trading intelligence extraction engine, containing pure trading rules, setup parameters, spoken audio transcripts from video reels, and raw datasets scraped across 27 Instagram trading creators.
 
-| File Name | Niche & Region | Description |
-| :--- | :--- | :--- |
-| [`Singur_Nalikul_Haripal_Leads.xlsx`](Singur_Nalikul_Haripal_Leads.xlsx) | Dentists, Gyms, Derma (Hooghly) | 14 verified leads with 10-digit mobile numbers and digital audits. |
-| [`growth_hub_scraped_leads.csv`](growth_hub_scraped_leads.csv) | Dentists, Gyms, Derma (Hooghly) | Clean CSV formatted in Growth-Hub schema ready for CRM ingestion. |
-| [`Banjara_Hills_Verified_Business_Leads.xlsx`](Banjara_Hills_Verified_Business_Leads.xlsx) | Hyderabad Premium Market | 56 verified business leads across premium niches. |
-| [`singur_hooghly_gym_leads.csv`](singur_hooghly_gym_leads.csv) | Gyms (Singur) | Verified gyms with direct WhatsApp links and contact details. |
-| [`nalikul_haripal_gym_leads.csv`](nalikul_haripal_gym_leads.csv) | Gyms (Nalikul & Haripal) | Verified gyms with contact numbers and locations. |
-
----
-
-## 🛠️ Script Reference
-
-- `universal_business_scraper.py`: Playwright scraper for Google Maps places and directories.
-- `deep_intel_scraper.py`: Multi-threaded email and metadata extractor.
-- `clean_production_leads.py`: Cleans raw scraped datasets and strips out boilerplate.
-- `generate_target_leads.py`: Builds verified multi-speciality datasets into styled Excel and CSV files.
-- `build_excel_dossier.py`: Generates styled Excel workbooks with openpyxl.
+- **`Trading_Intelligence_Database/`**:
+  - `MASTER_TRADING_INTELLIGENCE_INDEX.md`: Master directory table of all 27 creators and 348 documented strategies.
+  - `{creator}/`: 25 individual creator folders containing:
+    - `{creator}_Trading_Intelligence.md`: Clean, numbered trading playbook (0 links, 0 social fluff).
+    - `{creator}_raw_posts.csv`: Complete raw metadata export.
+- **`Scraping_Engines/`**:
+  - `run_full_autonomous_batch.py`: Autonomous batch scraper with Whisper video voiceover transcription and auto-retry logic.
+  - `batch_trading_intelligence_scraper.py`: Core extraction engine.
+  - `generate_master_index.py`: Index generator and validator.
+- **`Caches/`**:
+  - `carousel_slides_cache.json`: Cached multi-slide carousels.
+  - `video_transcripts_cache.json`: Cached Whisper voiceover transcripts.
+- **`Archive_Exports/`**:
+  - Initial CSV, XLSX, and Markdown exports for Quantified Strategies.
 
 ---
 
-## 🚀 Getting Started
+## 📁 2. `02_Delta_Crypto_Backtest_Lab/`
+> **Purpose**: The algorithmic backtesting and quantitative strategy laboratory for Delta Exchange India (BTC/USD).
 
-### Prerequisites
+- **`Market_Data/`**:
+  - `delta_india_btcusd_15m.csv`: 15-minute candlestick historical data.
+  - `delta_india_btcusd_1h.csv`: 1-hour candlestick historical data.
+- **`Backtest_Results/`**:
+  - `delta_audited_monthly.csv` & `delta_audited_trades.csv`: Audited PnL distributions.
+  - `delta_backtest_monthly.csv` & `delta_backtest_trades.csv`: Backtest performance logs.
+- **`Backtest_Engines_And_Audits/`**:
+  - Auditing scripts (`audit_scaled.py`, `audit_true_htf.py`, `audit_waterfall.py`, `audit_winner.py`).
+  - Strategy engines (`true_htf_swing_engine.py`, `run_intraday_scalper.py`, `run_backtest_delta.py`).
+  - Signal tests (`test_vwap_scalper.py`, `test_smc_sweep.py`, `test_liquidity_reclaim.py`, `test_trend_breakout.py`, etc.).
+  - Regime optimizers (`tune_regime.py`, `tune_system.py`, `optimize_high_profit.py`).
 
-```bash
-pip install playwright pandas openpyxl beautifulsoup4 requests
-playwright install chromium
-```
+---
 
-### Running the Scraper
+## 📁 3. `03_Local_Business_Leads_Scraper/`
+> **Purpose**: The original lead generation and business scraping project for local businesses across Banjara Hills, Singur, Nalikul, and Haripal.
 
-```bash
-# Generate target leads for Hooghly (Singur, Nalikul, Haripal)
-python generate_target_leads.py
+- **`Lead_Datasets_And_Dossiers/`**:
+  - Verified business leads, derma clinics, gyms, and enriched contact lists (`.csv` and `.xlsx`).
+- **`Reports/`**:
+  - `COLD_CALLING_DOSSIER.md`: Cold calling scripts and phone-ready prospect sheets.
+  - `COMPREHENSIVE_BUSINESS_INTELLIGENCE_REPORT.md`: Comprehensive business audit report.
+- **`Scrapers_And_Pipelines/`**:
+  - `universal_business_scraper.py`: Core multi-platform scraper.
+  - `deep_intel_scraper.py`: Deep web email and phone scraper.
+  - `clean_production_leads.py`: Deduplication and verification script.
+  - `build_excel_dossier.py` & `build_google_sheet_import.py`: Spreadsheet builders.
 
-# Run universal scraper on custom queries
-python universal_business_scraper.py
-```
+---
+
+## 📁 4. `04_Sub_Repositories/`
+> **Purpose**: Standalone sub-repositories and agent tools.
+
+- `Agent-Reach/`
+- `gods-eye-view/`
+- `growth-hub-repo/`
+- `temp_repo/`

@@ -15,6 +15,7 @@ ENV/
 env/
 
 # Cloned reference repositories
+04_Sub_Repositories/
 Agent-Reach/
 gods-eye-view/
 growth-hub-repo/

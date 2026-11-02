@@ -1,0 +1,1555 @@
+﻿Post Index,Shortcode,Post URL,Post ID,Publish Date (UTC),Publish Date (Local),Media Type,Is Video,Likes Count,Comments Count,Hashtags Count,Hashtags,Mentions Count,Mentions,Tagged Users,Location,Location ID,Display Media URL,Video Media URL,Caption Text,Creator Username,Creator Full Name
+1,DeEiCQigU--,https://www.instagram.com/p/DeEiCQigU--/,4000472057790943166,2026-10-04 11:31:11,2026-10-04 17:01:11,Video / Reel,True,697,65,2,"#rulebasedtrading, #qqq",0,,,,,https://instagram.fccu1-2.fna.fbcdn.net/v/t51.82787-15/836406353_18092618237480533_318907026035233485_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ig_cache_key=NDAwMDQ3MjA1Nzc5MDk0MzE2NjE4MDkyNjE4MjMxNDgwNTMz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcxNi5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=mz540pVIj0gQ7kNvwF421mD&_nc_oc=AdoxU9HKXkv2pUyi9E_Sz9HJQs7t-ZXoL2A6obQNgRQVc-o8iMIh6GXmfk-jawXsv5c&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fccu1-2.fna&_nc_gid=uhjmw0a3TuXdrA9OsshtdA&_nc_ss=7320f&oh=00_AQSEbWnYE-QIYQKW0IKQg4VPz5So1J2EMWmS39fkIg-gMQ&oe=6AECBFA5,https://instagram.fccu1-2.fna.fbcdn.net/o1/v/t2/f2/m86/AQOjnd2YpnA3qNENWxSw4_9TT3ZdMT-O3H-OggCd3BYEgpgGZwSsqDBDUDMpThQ40C-_XyWPS8R2cPNl5DmaRqsxua2S9vqe7vGVDts.mp4?_nc_cat=106&_nc_oc=Adorf3zO-HeP9vKIFnPwSQ8r28RcCJV3KJ9oJnBpDJQDucgluJjknOhlxsL_IJ2KkMw&_nc_sid=5e9851&_nc_ht=instagram.fccu1-2.fna.fbcdn.net&_nc_ohc=Q83SJKeJXC4Q7kNvwEMwElJ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQUQuQzMuNzEyLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwOTI2MTgxMTE0ODA1MzMsImFzc2V0X2FnZV9kYXlzIjoyNywidmlfdXNlY2FzZV9pZCI6MTIzNzQsImR1cmF0aW9uX3MiOjE0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=7f535822a58111aa&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9DREZCQjQ5NkIyM0U0NzFFQTU0RDFGQURGRkE2Njc1MV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0EyN0U3NkM3OTIyRDQ1Q0Y5RDQ2NDdDMEYxQzk0MzFBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaqy7u5_cijQBUCKAJDMywXQCwAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdfAHZazBAQA&_nc_gid=uhjmw0a3TuXdrA9OsshtdA&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_ss=70580&oh=00_AQSIv_NVP4HWo61Hv_W2jQTNXQAgGGRnNaTTRPd2FMVIgw&oe=6AE8BF9B,"This QQQ RSI + EMA + VWAP strategy produced a 3.94 profit factor over more than 27 years of historical data.
+
+That number caught our attention, but the real question was whether combining the three indicators actually improved the underlying RSI setup.
+The final strategy produced 215 trades, a 78.6% win rate, and an average trade of +1.06%.
+
+Each indicator has a different job.
+RSI identifies the short-term pullback.
+The 100-day EMA checks whether the broader trend is still rising.
+The rolling VWAP condition looks for QQQ trading below its recent volume-weighted price.
+
+When all three conditions line up, the strategy buys QQQ at the next session’s open and exits once short-term momentum has recovered.
+
+We also compared it with RSI alone. The RSI-only version generated more trades, but the combined setup was more selective and produced a much stronger historical profit factor.
+The carousel shows the full rules, the historical equity curve, and the comparison between the simple and filtered versions.
+
+Historical tendency, not a forecast.
+
+ABOUT QUANTIFIED STRATEGIES
+Quantified Strategies is run by Håkan Samuelsson and Oddmund Groette, two former proprietary traders with decades of hands-on market experience.
+
+Since 2012, we have published evidence-based market research, backtested trading strategies, and educational resources for systematic traders. 
+Our research reaches millions of readers; our newsletter has 25,000+ subscribers, and our trading books have sold 30,000+ copies.
+
+Prefer deeper research? Join our Substack newsletter. (FREE)
+Link in bio.
+.
+.
+.
+.
+#rulebasedtrading #QQQ",quantifiedstrategies,Quantified Strategies
+2,DeOlQdtBIJc,https://www.instagram.com/p/DeOlQdtBIJc/,4003300977905271388,2026-10-08 09:11:08,2026-10-08 14:41:08,Video / Reel,True,5,0,4,"#rulebasedtrading, #backtesting, #tradingstrategies, #quantifiedstrategies",0,,,,,https://instagram.fccu1-2.fna.fbcdn.net/v/t51.82787-15/840022962_18093077186480533_2650054313139377940_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ig_cache_key=NDAwMzMwMDk3NzkwNTI3MTM4OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjM4NDAuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=DjGLrc9Hi-4Q7kNvwEqJqkO&_nc_oc=AdqqPlKm3dRKYuk1rlgWYXYEnIYfQ016M6dZpXFTk62wwp-uE1BJFEDXGbfpbpJeN4g&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fccu1-2.fna&_nc_gid=npC_a4vpz2tqXhNB84Ii9A&_nc_ss=7320f&oh=00_AQTpxFHXABCwDEsVUWWTn8xthjlqtuTuYb3qPu1mahPECg&oe=6AECB054,https://instagram.fccu1-2.fna.fbcdn.net/o1/v/t2/f2/m86/AQN9b79x04I_84Z6rb0k36tbTJDJdY0l0tKr4eEO4TC6HO3eItauZDVN9RKTqLQTQFm7U824nj4bP0YW7bx5wuTouXYFMV6mFZD4BBg.mp4?_nc_cat=108&_nc_oc=AdrAZggo2knupX_Mv4YUBrflPNAYHRvKVws8HJUSfi9d2fr4UnpqmRN095XcGJzQErk&_nc_sid=5e9851&_nc_ht=instagram.fccu1-2.fna.fbcdn.net&_nc_ohc=0sKJ5BQXbLMQ7kNvwGFzNXE&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQUQuQzMuMTI4MC5kYXNoX2Jhc2VsaW5lXzFfdjEiLCJ4cHZfYXNzZXRfaWQiOjI4NTQ4MTczMDExNTA2OTY5LCJhc3NldF9hZ2VfZGF5cyI6MjQsInZpX3VzZWNhc2VfaWQiOjEyMzc0LCJkdXJhdGlvbl9zIjo0NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=a319d29d964c9024&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9CQzIwMzVCMkY0Nzk0RjkxOUUxMzlGNTEyRkQzQzNGOV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzZCRkNCRUUyRUFEQzQ3MTZBRTMwQzhBMDhGQjA0RjI0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACay3LL1r5q2ZRUCKAJDMywXQEd1P3ztkWgYEmRhc2hfYmFzZWxpbmVfMV92MREAdfAHZazBAQA&_nc_gid=npC_a4vpz2tqXhNB84Ii9A&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_ss=70580&oh=00_AQTl99RDwK1gpqJEp4VaxRW9RO05M7L6shAnN5g95O3dPw&oe=6AE8D4D1,"Have you ever given up on a trading strategy after a few losses, only to start looking for another one?
+
+We believe there is a better way to approach trading.
+
+At Quantified Strategies, we focus on simple trading rules, historical backtesting, and a repeatable process.
+
+Our approach is straightforward:
+
+Idea → Backtest → Incubate → Trade
+
+It's about understanding what has worked historically, including the losing periods, before putting real money at risk.
+
+If you're interested in rule-based trading, you can learn more through the link in our bio.
+
+#RuleBasedTrading #Backtesting #TradingStrategies #QuantifiedStrategies",quantifiedstrategies,Quantified Strategies
+3,DdCNER3jUSW,https://www.instagram.com/p/DdCNER3jUSW/,3981802489217107094,2026-09-08 17:17:47,2026-09-08 22:47:47,Carousel (Sidecar),False,118,9,0,,0,,,,,https://instagram.fccu1-2.fna.fbcdn.net/v/t51.82787-15/800540043_18088854668480533_7393212737188822232_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ig_cache_key=Mzk4MTgwMjQ4MDY2MDc3MTcyMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA5Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=wcgS6EELVgEQ7kNvwH-RnDP&_nc_oc=AdpCXhaSsCVK6J8BWO_cCw7AP3myUaPz6Rqi6WGQq5mIxYE-GoO5ghNgH_TZCMAh6r4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fccu1-2.fna&_nc_gid=G2jyPF3UOAHBuPaeRYr1-g&_nc_ss=7320f&oh=00_AQQvmZ76ECx6BJXBocxFTGKcuyvLvTi6X2iJyACSDKrUYg&oe=6AECC60D,,"WILLIAMS %R TRADING STRATEGY – 81% WIN RATE – WILLIAMS PERCENT RANGE VS RSI 📉
+
+Williams %R can be a useful indicator. In this post, we explain how to build a trading strategy around Williams %R and then backtest it to find out whether the indicator actually works.
+
+Does it work? Our conclusion is that Williams %R appears to perform quite well.
+
+We backtest the Williams %R trading strategy on the S&P 500 (SPY) using the following trading rules:
+
+Entry takes place at the close when Williams %R falls below -90. We exit the position when today's close is above yesterday's high or when Williams %R closes above -30.
+
+When we optimize the lookback period, the strongest results, perhaps unsurprisingly, come from shorter periods. We tested lookback periods from two days up to 25 days. Every test produced a profit factor of at least two, except the 25-day period, which generated a profit factor of 1.9.
+
+The best-performing setup uses a two-day lookback period. This produces the equity curve shown below for SPY from its inception to today.
+
+Can this strategy be improved or modified? If you have any ideas, let us know in the comments 👇
+
+Enjoy this kind of research? Get more in our FREE Substack newsletter.
+Link in bio.",quantifiedstrategies,Quantified Strategies
+4,DfMJVnXF5Yi,https://www.instagram.com/p/DfMJVnXF5Yi/,4020629635125974562,2026-11-01 07:00:24,2026-11-01 12:30:24,Carousel (Sidecar),False,0,1,4,"#spytradingstrategy, #rsitradingstrategy, #backtestedstrategies, #systematictrading",0,,,,,https://instagram.fccu1-2.fna.fbcdn.net/v/t39.30808-6/882748407_1136148355599889_2488714589063653291_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=NDAyMDYyOTYxMTUzNzE3NjYxMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTEyMi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=VO86BQ9A1RwQ7kNvwGwzkaI&_nc_oc=AdrnTGhTRdk0pHqzIs3VK75Wl2ZCPT2u4ZqG8LTsRgEAKbe6sxZEwme51KLtJtYWer0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fccu1-2.fna&_nc_gid=0zvpysvITO1XPjywQDvGLw&_nc_ss=7320f&oh=00_AQTXDUKRVNov14sD3V7-em7PGbaKtDmblu6SSkoTD8PPbw&oe=6AECB712,,"Could this SPY trading strategy using RSI be one of the simplest rule-based setups worth testing? 📈
+
+Sometimes, a trading strategy doesn't need complicated indicators or dozens of conditions. Just clear rules backed by historical data.
+
+This carousel breaks down a simple RSI(2) mean reversion strategy for SPY using two trading rules:
+
+✅ Entry: Buy at today's close when RSI(2) falls below 15.
+
+✅ Exit: Close the position when today's closing price exceeds yesterday's high.
+
+The historical backtest shows an upward-trending equity curve from 1993 onward, with the portfolio equity reaching approximately $1.47 million in the shared results.
+
+But remember, an attractive historical equity curve doesn't guarantee future returns. Transaction costs, drawdowns, and changing market conditions all matter.
+
+💡 The takeaway: A good trading strategy doesn't have to trade every day. What matters is having a repeatable edge that can be tested, measured, and evaluated alongside other strategies in a diversified portfolio.
+
+Save this carousel for your next SPY strategy research session!
+
+ABOUT QUANTIFIED STRATEGIES
+
+Quantified Strategies is run by Håkan Samuelsson and Oddmund Groette, two former proprietary traders with over 25 years of hands-on market experience.
+
+Since 2012, we have published evidence-based market research, backtested trading strategies, and educational resources for systematic traders. Our research reaches millions of readers, our newsletter has 25,000+ subscribers, and our trading books have sold 30,000+ copies.
+
+🚀 Want more backtested trading strategies, research, trading rules, and practical education?
+
+Join our Skool community for access to our growing library of systematic trading resources.
+
+👉 Join through the link in bio!
+
+#SPYTradingStrategy #RSITradingStrategy #BacktestedStrategies #SystematicTrading",quantifiedstrategies,Quantified Strategies
+5,DfKpL1VDoHt,https://www.instagram.com/p/DfKpL1VDoHt/,4020206750464377325,2026-10-31 17:00:38,2026-10-31 22:30:38,Video / Reel,True,1,0,0,,0,,,,,https://instagram.fccu1-2.fna.fbcdn.net/v/t51.82787-15/878413810_18096939212480533_2526081079138405529_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=NDAyMDIwNjc1MDQ2NDM3NzMyNTE4MDk2OTM5MjA5NDgwNTMz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEwODAuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzIifQ%3D%3D&_nc_ohc=qH3SKuPMoRQQ7kNvwE-qcTp&_nc_oc=AdpFPuctwH8fLexEfICDX-lPARzwdSy5sxNRFKVcvdN25UC0XMSOVsInjooXy18QdoU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fccu1-2.fna&_nc_gid=kiEszYXyetY_-WZhkJ-MqA&_nc_ss=7320f&oh=00_AQQkJIa5ZCxP1iuviJQwPa3Dc4mMyHjfG3WfBkI42OQA8A&oe=6AECB697,https://instagram.fccu1-2.fna.fbcdn.net/o1/v/t2/f2/m86/AQOEp4c4JGiAbLeP0VMyVuHN9biPlfPDb3JEuSwJrw95faiE0EDGSFtKclRl6T5ib4IZly0h3dt53B1csWLLwD3zC98RTW70kpDJo2E.mp4?_nc_cat=103&_nc_oc=AdrMrlNkVVUhSYOzbxQc5z6IG5S678Z18W7_iT6AbLrUG8dDFHwGqTrOj8Db4OCaHAY&_nc_sid=5e9851&_nc_ht=instagram.fccu1-2.fna.fbcdn.net&_nc_ohc=Q8z1W3MieZ0Q7kNvwHNDHQs&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwOTY5MzkwNDE0ODA1MzMsImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MjMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=6e474499e85012ae&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8wMTFCNDVEODUwRjY0MUREOTlDODBFNTJCNzE2QTk4Nl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzlGMDhFNTM2Q0FCODRBNjlBQ0Y2MUFCQ0YwOTNDQTdCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaq_bbxvsSlQBUCKAJDMywXQDc5FocrAgwYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=kiEszYXyetY_-WZhkJ-MqA&_nc_ss=70580&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTfeAGs68qs_T0CRioYyUkUL_c5zIuVP_ODCeTxFeqsSA&oe=6AE8B254,"Swing Trader Strategy (Backtest & Trading Rules)
+
+If you are interested in Rule-Based Trading, we would love to have you in our Skool community (Link in bio)",quantifiedstrategies,Quantified Strategies
+6,DfKpMITDW2I,https://www.instagram.com/p/DfKpMITDW2I/,4020206770831846792,2026-10-31 17:00:02,2026-10-31 22:30:02,Carousel (Sidecar),False,5,2,5,"#adx, #tradingstrategy, #backtesting, #systematictrading, #quantifiedstrategies",0,,,,,https://instagram.fccu1-2.fna.fbcdn.net/v/t51.82787-15/883300038_18096934898480533_7507792177419782130_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ig_cache_key=NDAyMDE5MzE2NTMwNjU5NzM2OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTEyMi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=yCzJrfWf0W4Q7kNvwGgAez9&_nc_oc=AdrBohCUxVvez4GMG1HxBArhWNpjav2kxzD6X1-kbbR10CPJxG0vL6kEHoTlOtt3AUY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fccu1-2.fna&_nc_gid=S5-XS4US5dmMCtF1bOU9vQ&_nc_ss=7320f&oh=00_AQS8Qnp8hSf2Xo79Uf510R8CMJ5utxBnam6-SBC9PIdcBg&oe=6AECD2C8,,"📊 Less time in the market. Better trades? The ADX backtest has a catch.
+
+Adding an ADX filter to the article’s SPY mean-reversion model changed the results:
+⏱️ Time in market: 24% → 15%
+📈 Profit factor: 2.15 → 2.40
+📉 Annual return: 9% → 7%
+
+That is the trade-off: a higher profit factor did not mean a higher total return.
+
+ADX measures trend strength. It does not tell you whether prices are going up or down. The research found it more useful alongside another signal than as a complete system.
+
+Swipe through the 7 slides for the crossover rules, the filter comparison, and a checklist for testing it yourself. Save this for your next strategy review.
+
+Would you accept a lower annual return for less time in the market? Tell us why below.
+
+ABOUT QUANTIFIED STRATEGIES
+Run by Håkan Samuelsson and Oddmund Groette, Quantified Strategies has published trading research and backtested strategies since 2012.
+
+🚀 Explore more research and rule-based trading education in our Skool community: skool.com/rulebasedtrading
+
+Source: https://www.quantifiedstrategies.com/adx-trading-strategy/
+
+Educational only. Historical backtests are hypothetical and do not guarantee future results. Costs, slippage and overfitting can change outcomes. The article does not disclose the full second-indicator signal.
+
+#ADX #TradingStrategy #Backtesting #SystematicTrading #QuantifiedStrategies",quantifiedstrategies,Quantified Strategies
+7,DfKl3TQkp1T,https://www.instagram.com/p/DfKl3TQkp1T/,4020192145352858963,2026-10-31 16:31:29,2026-10-31 22:01:29,Video / Reel,True,1,2,2,"#rulebasedtrading, #quantifiedstrategies",0,,,,,https://instagram.fccu1-2.fna.fbcdn.net/v/t51.82787-15/881716871_18096934727480533_1595353470953728268_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ig_cache_key=NDAyMDE5MjE0NTM1Mjg1ODk2MzE4MDk2OTM0NzI0NDgwNTMz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcxNi5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=ghy6Kd_VcbAQ7kNvwEE5cfA&_nc_oc=AdpCRMJjtZYzShqKDEOa5I7LE-21H_661PoSWmdL9eGKK3xwCH5jGdQOPdxxrnhb_rk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fccu1-2.fna&_nc_gid=yzjQ-zLht0ABPQc4zfAWgw&_nc_ss=7320f&oh=00_AQRWa1oFsZixRXin3S0ime29Fyj1irNqvvMgkXafoZJmCQ&oe=6AECC5D2,https://instagram.fccu1-2.fna.fbcdn.net/o1/v/t2/f2/m86/AQM_pEIb86elpFuAXFg8lqqcCjvYpGkiitFxoRQSnMrrVZZj08zzxIeXVJ0rRzicTCzCD_h4vdgwrkfoWrrpLeyF3VvIQj1QCxjFM-I.mp4?_nc_cat=103&_nc_oc=AdrcnqIaakdz2hf2p-FgofzdCFKR4PgprJBVllfy1lBzi8_SymtzkhrL-v6BEvl5guQ&_nc_sid=5e9851&_nc_ht=instagram.fccu1-2.fna.fbcdn.net&_nc_ohc=76XHk2RCWcIQ7kNvwGifV6g&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzEyLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwOTY5MzQ1Nzc0ODA1MzMsImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=4cf1d53c28657909&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9DMTE2NjZFRDc5MEM0QTFGQTQyNDBBMTM1RTBGNUJBMl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0ZBMjlBNjUzRkU5NzRFQ0NBOTE2MjRERDMxNUNEOTFDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaqjZ3QncSlQBUCKAJDMywXQCgAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=yzjQ-zLht0ABPQc4zfAWgw&_nc_ss=70580&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTKkYT1Mb9V2qwz7YsLHH-3YFKSIR3nlO1qnVUYsmzGFw&oe=6AE8B4B8,"📉 8 Trades a Year? The Power of Multi-Strategy Portfolio Design
+
+What if you didn't need to watch charts all day or chase every market move? Instead of searching for a single high-frequency edge, building a multi-strategy portfolio of non-correlated, rule-based systems can significantly improve risk-adjusted performance.
+
+💡 Rethinking Trade Volume vs. Edge Quality
+The Core Question: The goal of systematic trading isn't ""How many trades can I take?""—it is ""How effectively do my trading strategies complement each other?""
+
+Low-Frequency Value: A setup generating only 8 high-conviction trades per year preserves cash reserves and capital availability for other active market strategies.
+
+📊 Portfolio Diversification & Correlation Basics
+Uncorrelated Edges: Combining strategies that trigger under different market conditions (e.g., trend following + mean reversion) helps offset isolated equity declines.
+
+Drawdown Smoothing: When strategy drawdowns occur at different times, the aggregate portfolio equity curve exhibits lower volatility and reduced max drawdown.
+
+Risk Contribution: Evaluate strategies by their contribution to the total portfolio variance rather than judging their individual trade frequency in isolation.
+
+🔍 Key Lessons for Systematic Traders
+Incubation Discipline: Forward test frozen strategy rules on fresh market data for 3 to 6 months before live deployment to confirm out-of-sample edge.
+
+💡 Key Takeaway
+High trade frequency does not guarantee portfolio growth. A well-designed portfolio combines distinct, low-correlation rules to stabilize equity curves while reducing emotional drag.
+
+ABOUT QUANTIFIED STRATEGIES
+
+Run by former proprietary traders Håkan Samuelsson and Oddmund Groette, Quantified Strategies has published evidence-based research and backtested strategies since 2012. Our newsletter has 25,000+ subscribers, and our trading books have sold 30,000+ copies.
+
+🚀 Want a more disciplined, evidence-driven trading approach?
+
+Join our Skool community for backtested strategies, quantitative research, and systematic risk management.
+
+👉 Link in bio!
+
+#RuleBasedTrading #QuantifiedStrategies",quantifiedstrategies,Quantified Strategies
+8,DfKiFi3GJsh,https://www.instagram.com/p/DfKiFi3GJsh/,4020175531991931681,2026-10-31 15:58:10,2026-10-31 21:28:10,Carousel (Sidecar),False,4,2,4,"#futurestrading, #nqfutures, #tradingstrategies, #quantifiedstrategies",0,,,,,https://instagram.fccu1-2.fna.fbcdn.net/v/t39.30808-6/861652721_1135384232342968_1218767322969435119_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ig_cache_key=NDAyMDE3NTUxMTg4NDQ1NTkwNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTEyMi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=oX7mVv-C_AoQ7kNvwFjtXYX&_nc_oc=Ado_iOUjjbePMf_c9cZuiIueJ5NzfCjOT08tR66Zx91cky7uSjeoW6LIpMZdB5LgajU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fccu1-2.fna&_nc_gid=Ar8UhgoGvXNoQdqAAVVGug&_nc_ss=7320f&oh=00_AQSowGIUCqFtapZeskcDkFSn3gDIWThWT8iWvEytWasptQ&oe=6AECCC4D,,"🚨 NQ Futures Gap Day Trading Strategy: 64% Win Rate Over 10 Years! Are you missing out on a simple, rule-based trading setup backed by real historical data?
+
+What if your trading strategy required just 60 minutes a day, with no overnight positions?
+
+📊 Here's what our NQ Futures Gap Day backtest revealed:
+
+✅ 157 historical trades analyzed
+✅ 64% historical win rate
+✅ 2.0+ profit factor
+✅ 60-minute holding period
+✅ 10 years of backtested market data
+✅ Simple 2-rule setup
+✅ No overnight exposure
+
+The strategy focuses on a mean-reversion edge during the first hour of trading, when strong markets that gap higher can sometimes experience a pullback.
+
+No guesswork. No emotional trading. Just predefined rules, historical testing, and a systematic approach.
+
+👉 Swipe through all 6 slides to discover the trading setup, the data behind it, and the key takeaways.
+
+📌 Save this carousel for your next trading strategy research session!
+
+ABOUT QUANTIFIED STRATEGIES
+
+Quantified Strategies is run by Håkan Samuelsson and Oddmund Groette, two former proprietary traders with over 25 years of hands-on market experiences.
+
+Since 2012, we have published evidence-based market research, backtested trading strategies, and educational resources for systematic traders. Our research reaches millions of readers, our newsletter has 25,000+ subscribers, and our trading books have sold 30,000+ copies.
+
+🚀 Want access to more rule-based trading strategies, backtests, and systematic trading education?
+
+Join our Skool community today — link in bio!
+
+Historical backtested performance does not guarantee future trading results.
+
+#FuturesTrading #NQFutures #TradingStrategies #QuantifiedStrategies",quantifiedstrategies,Quantified Strategies
+9,DfKfAMuAocn,https://www.instagram.com/p/DfKfAMuAocn/,4020161970480252711,2026-10-31 15:31:39,2026-10-31 21:01:39,Video / Reel,True,2,2,2,"#backtesting, #tradingdiscipline",0,,,,,https://instagram.fccu1-2.fna.fbcdn.net/v/t51.82787-15/882243237_18096926276480533_6063146895942230130_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ig_cache_key=NDAyMDE2MTk3MDQ4MDI1MjcxMTE4MDk2OTI2MjczNDgwNTMz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcxNi5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=1So6OZGUMCwQ7kNvwGcUyfJ&_nc_oc=AdpsgRIQGIIoiEnLFaj2Ecagkl7jE5WNZFyEXH8KkbiNBwZTmclCWpCWAdFfHAMrE7A&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fccu1-2.fna&_nc_gid=NcyKJc9pzbIGNSRK2taBDQ&_nc_ss=7320f&oh=00_AQQJ5bVuOVua5cIqAa7hk_6Qa-hv5nOtFr4QbbJMHe0Juw&oe=6AECB526,https://instagram.fccu1-2.fna.fbcdn.net/o1/v/t2/f2/m86/AQOK-YgGuln4tG-33xmEgYtppdzhvzGtZaZ_jlmlNg3sLDzVhY5vKZsGQhBBbIQK4Qz6IBapR5wB3Q9e5TM_NXm4gtP2OYDcNQxfXWs.mp4?_nc_cat=103&_nc_oc=AdpbzZNc9rj1nwAu-i6WQqKcfj5vL6wo2T9EPiQiFPXuaAf_3OwLtkjZ_MJsR_nfbeQ&_nc_sid=5e9851&_nc_ht=instagram.fccu1-2.fna.fbcdn.net&_nc_ohc=CU_be10yInUQ7kNvwH3XKc5&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzEyLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwOTY5MjYwOTM0ODA1MzMsImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=58073e923aed4ccc&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC85QTI1NjM4OUM5MDA0QUYxODZCQzExMEQyMkIyRjUwNF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzUzQkVDQTM5QTNFQTQzQTI4M0Y1ODYxODM5NjBDRjA0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaqyaC13sOlQBUCKAJDMywXQCgAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=NcyKJc9pzbIGNSRK2taBDQ&_nc_ss=70580&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTEyALi7m_sx3KbJieUeJFCM2Nfnh5qIGY4xq3_7DlcAA&oe=6AE8C12C,"⏳ Patience in Backtesting: The Underrated Virtue of Systematic Trading
+How often do traders abandon a valid strategy before giving its rules a fair evaluation? Success in rule-based trading isn't about constant activity—it's about adhering to a tested process and avoiding emotional execution during quiet market regimes.
+
+📌 4 Core Pillars of Systematic Patience
+Rules Over Frequency: Clear, objective entry and exit parameters matter far more than trade count.
+
+Filter Confirmation: Waiting for complete setup alignment eliminates impulsive, non-systematic entries.
+
+Disciplined Waiting: Staying in cash during low-opportunity windows preserves capital for high-probability setups.
+
+Process Consistency: Risk management and strict rule adherence dictate long-term performance, not short-term trade outcomes.
+
+🔍 Key Lessons for Systematic Portfolio Managers
+Portfolio Synergy: Low-frequency strategies remain highly valuable if their risk-adjusted returns and drawdown profiles complement active portfolio models.
+
+Multi-Strategy Smoothing: Combining non-correlated strategies across different asset classes and holding periods helps smooth equity curves, though diversification cannot eliminate risk.
+
+Out-of-Sample Incubation: Monitor frozen strategy rules on fresh market data for 3 to 6 months (or longer) prior to capital deployment to verify out-of-sample stability.
+
+💡 Key Takeaway
+Higher trade volume does not make a superior system. In systematic trading, patience and strict process execution are often your greatest competitive edges.
+
+ABOUT QUANTIFIED STRATEGIES
+
+Run by former proprietary traders Håkan Samuelsson and Oddmund Groette, Quantified Strategies has published evidence-based research and backtested strategies since 2012. Our newsletter has 25,000+ subscribers, and our trading books have sold 30,000+ copies.
+
+🚀 Want a more disciplined, evidence-driven trading approach?
+
+Join our Skool community for backtested strategies, quantitative research, and systematic risk management.
+
+👉 Link in bio!
+
+#Backtesting #TradingDiscipline",quantifiedstrategies,Quantified Strategies
+10,DfKbfGxCEwl,https://www.instagram.com/p/DfKbfGxCEwl/,4020146502206245925,2026-10-31 15:01:43,2026-10-31 20:31:43,Video / Reel,True,3,0,0,,0,,,,,https://instagram.fccu1-2.fna.fbcdn.net/v/t51.82787-15/874590660_18096921935480533_3668295723145274467_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=NDAyMDE0NjUwMjIwNjI0NTkyNTE4MDk2OTIxOTMyNDgwNTMz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjE5MjAuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=UWTqjmeZJKgQ7kNvwG44-HD&_nc_oc=Adqb8epfXAZxxROxH2tOo61-43IRCED7cJWW-j2t-JKGZJvLFzXdSDYPT5LRYaT2-8A&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fccu1-2.fna&_nc_gid=zhkf-eWuV_N1vR9lHFKU7A&_nc_ss=7320f&oh=00_AQSlPnY5mVfBJBUxmhMF_GYnMlND4kXIMBVuBgDOeKvOcg&oe=6AECB775,https://instagram.fccu1-2.fna.fbcdn.net/o1/v/t2/f2/m86/AQN8utmlEDast8urBgWSQk0SP5T9S42G0L0naIbCFnGnkcjpt2FwNqviACTr3th5i2pWXYXf-C4V6rXrhPuAQaMjFao_VXDryPHS41Q.mp4?_nc_cat=109&_nc_oc=Adpq6N1a9HKZIOAFXhoveWQtwsAVl8O6O91Zpm4LkOZ1op3kYr_-75a6d07I9yM9ki8&_nc_sid=5e9851&_nc_ht=instagram.fccu1-2.fna.fbcdn.net&_nc_ohc=ny4kfq8BIhkQ7kNvwH_3wzj&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuMTI4MC5kYXNoX2Jhc2VsaW5lXzFfdjEiLCJ4cHZfYXNzZXRfaWQiOjE4MDk2OTIxNjM4NDgwNTMzLCJhc3NldF9hZ2VfZGF5cyI6MCwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjE4MSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=1ab10709b6e921c5&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC80OUFEOTZGQzYzOEU0MUFGODRDQTdBRjU1QzBEOTgwNF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzlEMjUzQjc2REVERjQzNEY5Qjg5MkQzOTBFMEVGRkM1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaqqtGcvcOlQBUCKAJDMywXQGamZmZmZmYYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=zhkf-eWuV_N1vR9lHFKU7A&_nc_ss=70580&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRn_yYP9ET0qkSOIoBJ84_yOAiMQ0jQihLHmTFQXWKcUQ&oe=6AE8CC3A,"JETS ETF Strategy: Can Holiday Timing Beat the Market?
+
+Can a simple airline stock seasonal trading strategy find an edge around major U.S. holidays? 
+
+We examine whether airline stocks tend to perform differently before major holidays and put the idea to the test using the JETS ETF. 
+
+If you are interested in Rule-Based Trading, we would love to have you in our Skool community (Link in bio)",quantifiedstrategies,Quantified Strategies
+11,DfKYIRxEdJL,https://www.instagram.com/p/DfKYIRxEdJL/,4020131739330531915,2026-10-31 14:31:29,2026-10-31 20:01:29,Video / Reel,True,3,2,2,"#200daymovingaverage, #backtestedstrategies",0,,,,,https://instagram.fccu1-2.fna.fbcdn.net/v/t51.82787-15/882391259_18096916133480533_3056668180770200258_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ig_cache_key=NDAyMDEzMTczOTMzMDUzMTkxNTE4MDk2OTE2MTMwNDgwNTMz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcxNi5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=lrQTUpxBZE0Q7kNvwHm-YNv&_nc_oc=AdqmEHjhVBPboTd6YGr_QgcEKq4aHAKRITj7enChDOtEDQtq0RFnKkE1XpyD-JMgIgk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fccu1-2.fna&_nc_gid=Wk5camAzzMl8Ra_woCyr2Q&_nc_ss=7320f&oh=00_AQQoi-sD9IAlMc8G0uQjSEmVgSIfX8uRfRLQEVRR1HCc1A&oe=6AECBEA6,https://instagram.fccu1-2.fna.fbcdn.net/o1/v/t2/f2/m86/AQOjzJc88-V8ivsAs7OlSlm7NkPkx_ajt_xolAWyM9hQiwMQSSV2t614d4oR5bFJYp9i0PSeCaCyeenBDP1LRCV7a5OIAbNanQvfu00.mp4?_nc_cat=101&_nc_oc=Adpxce0E_xBwlofbwzahFSLYDVdQFU8IqeiLRfeUSunIQdi4cf-w5U5TgRsYjsCHnCA&_nc_sid=5e9851&_nc_ht=instagram.fccu1-2.fna.fbcdn.net&_nc_ohc=8j796mvf31oQ7kNvwGAJxED&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzEyLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwOTY5MTU5NTM0ODA1MzMsImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=67dc68ee15720d28&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC82NkQ4MkZCOEYxOTE0NzRCQUE3RDIxODJERTAxQjlEMF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzI5MTYzODU5NTU0MTQ1QjNBRDNDMkU2NDI4RThCRUJBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaqzf_uksOlQBUCKAJDMywXQCgAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=Wk5camAzzMl8Ra_woCyr2Q&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_ss=70580&oh=00_AQRxQHWO04Vehqm9ZUFaZxP6B_OuX_OtS226r4YtbgIExQ&oe=6AE8BDF6,"📉 The 200-Day Moving Average Strategy: Simplicity vs. Trend Edge
+Have you been overcomplicating your trading setups while ignoring one of Wall Street's most fundamental indicators? A simple two-rule trend-following model shows how basic quantitative rules capture long-term structural trends while avoiding catastrophic market crashes.
+
+📌 Strategy Setup & Rules
+Market: S&P 500 Index
+
+Rule 1 (Entry): Buy (or re-enter) at the market close when the S&P 500 closes above its 200-day moving average.
+
+Rule 2 (Exit): Sell and move to cash at the market close when the S&P 500 closes below its 200-day moving average.
+
+📊 Historical Backtest Highlights (1960–Present)
+
+Initial Capital: $100,000
+
+Ending Equity: $307,742
+
+Core Function: Acts as an automatic regime-filter, keeping capital deployed during long-term bull markets and liquid during prolonged bear markets.
+
+🔍 Key Lessons for Systematic Traders
+Drawdown Containment: The true edge of the 200-day MA is not maximizing yield, but mitigating major tail risk and catastrophic drawdowns (e.g., 2000–2002, 2008).
+
+Whipsaw Friction: In choppy, sideways markets, frequent false breakdowns cause minor losses (""whipsaws"") and execution friction.
+
+Execution Realism: Trend-following rules lag price turns by design. Always factor in transaction costs, slippage, and tax efficiency when evaluating long-term trend models.
+
+💡 Key Takeaway
+You don't need complex indicator stacks to protect capital. A strict 200-day moving average rule provides an objective trend filter that keeps you on the right side of major market cycles.
+
+ABOUT QUANTIFIED STRATEGIES
+
+Run by former proprietary traders Håkan Samuelsson and Oddmund Groette, Quantified Strategies has published evidence-based research and backtested strategies since 2012. Our newsletter has 25,000+ subscribers, and our trading books have sold 30,000+ copies.
+
+🚀 Want a more disciplined, evidence-driven trading approach?
+
+Join our Skool community for backtested strategies, quantitative research, and systematic risk management.
+
+👉 Link in bio!
+
+#200DayMovingAverage #BacktestedStrategies",quantifiedstrategies,Quantified Strategies
+12,DfKUnnvgWmp,https://www.instagram.com/p/DfKUnnvgWmp/,4020116301044345257,2026-10-31 14:00:50,2026-10-31 19:30:50,Video / Reel,True,5,0,3,"#heikinashi, #tradingstrategy, #backtesting",0,,,,,https://instagram.fccu1-2.fna.fbcdn.net/v/t51.82787-15/876792314_18096909146480533_3114568337795589698_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ig_cache_key=NDAyMDExNjMwMTA0NDM0NTI1NzE4MDk2OTA5MTQzNDgwNTMz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=LhPubkahx_wQ7kNvwEO7ifM&_nc_oc=AdpuCTye8OdG_s0WMePCDqH8-S-9jdv9cPs6ZqJxjS1tlWzeIg9mRdOGS_yXv9udjuI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fccu1-2.fna&_nc_gid=52IeIpsbIUN_uDoIEEa1xQ&_nc_ss=7320f&oh=00_AQTzfaPlRhglP7T1za5o-sGQ-q-j50XR3lA0WRlrBuY59A&oe=6AECB5FF,https://instagram.fccu1-2.fna.fbcdn.net/o1/v/t2/f2/m86/AQOk956QROhIMuGKRUYjlWsZ81jIFaItdSdyl_6HOjd6tYR_YEVQaYDFtPD4tk-gMcolK-N5Jp9v-QsbZ6ZCgfHNtc5nN4ByUki2zw0.mp4?_nc_cat=106&_nc_oc=AdrnYoohasiUeUpYGQuIivwx3r_8N8ivDP2ar7dlOj7WMmwbqgbQlvu8diKBCNEwKtk&_nc_sid=5e9851&_nc_ht=instagram.fccu1-2.fna.fbcdn.net&_nc_ohc=m9VOzqNShVgQ7kNvwHZ76y1&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwOTY5MDg5NjY0ODA1MzMsImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=31566e839f843789&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8xQkFCMTY0QzU4RjI0Rjc3QjkwRUIyNjY5MjQ4NkQxOV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzMzMTcxRDREMjY3MzRCNEQ4MkZFOEQ0OUFDNDhCMENGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaqqtbn3sKlQBUCKAJDMywXQDAAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=52IeIpsbIUN_uDoIEEa1xQ&_nc_ss=70580&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQ4BRFdLF5By7bqr3P2lwwrMhtcl07PSkO3ZJlI4enfkA&oe=6AE8AD1F,"Does the Heikin Ashi trading strategy actually help traders capture trends, or does it just make charts look smoother? 📊
+
+If you’ve ever exited a position early because of confusing price movements, you know how difficult it can be to stay with a trend.
+
+Heikin Ashi, which translates to “average bar” in Japanese, uses modified candle calculations to smooth out price fluctuations. This makes market trends easier to recognize and can help reduce some of the noise found in traditional candlestick charts.
+
+However, smoother candles don't automatically translate into better trading performance.
+
+That's why I put this strategy through historical backtesting to examine how it performs beyond its visual appeal.
+
+Remember, past backtest results are not a promise of future performance.
+
+#heikinashi  #tradingstrategy  #backtesting",quantifiedstrategies,Quantified Strategies
+13,DfKRRetCRtP,https://www.instagram.com/p/DfKRRetCRtP/,4020101585371208527,2026-10-31 13:31:33,2026-10-31 19:01:33,Video / Reel,True,18,2,2,"#qqqtrading, #rsistrategy",0,,,,,https://instagram.fccu1-2.fna.fbcdn.net/v/t51.82787-15/883558912_18096904829480533_5135102163819098899_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ig_cache_key=NDAyMDEwMTU4NTM3MTIwODUyNzE4MDk2OTA0ODI2NDgwNTMz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcxNi5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=GVNixYKo3_0Q7kNvwF-fyJd&_nc_oc=AdrWlUp6xp7UNh3QFx4nN4ULhuEZgm54MtNZn0z0eJrX9ijHgufeUFIQ5UNeqaA8BAM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fccu1-2.fna&_nc_gid=-zX587pcDeR_K8XNEPsaCQ&_nc_ss=7320f&oh=00_AQT_BfrFNf4tf6Fzunc5Ege10HMbL7a3NLNQcdidFTmc8Q&oe=6AECCE5B,https://instagram.fccu1-2.fna.fbcdn.net/o1/v/t2/f2/m86/AQO57W4hy26OBw1XGF3sUUpVZFJ8NQ2nmkSRxvTCoRxPlP4XHBgtMfX5VMuUhnhuI1su54op5KyrJjfSeOWEfCyAF5vWkFRN0gsH_D0.mp4?_nc_cat=100&_nc_oc=Ado1d62a1_4OKouhoPKbASPkarY7D2f72N769hzGFx4mMJWJqY7Fve61P2zaWPqr-jA&_nc_sid=5e9851&_nc_ht=instagram.fccu1-2.fna.fbcdn.net&_nc_ohc=LhWohbrpqEYQ7kNvwHGwuV2&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzEyLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwOTY5MDQ1NTk0ODA1MzMsImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=355dec0c173dafff&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC85N0REMEZCNUU5Rjk0NDMwQUMxQUNEOEZDRTA3QUE1Rl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzBDRkRDRkVBQUJFNzQzMjdCNjVFQjhDODUxMzYxN0U1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaqu-r8vcKlQBUCKAJDMywXQCwAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=-zX587pcDeR_K8XNEPsaCQ&_nc_ss=70580&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTd10_TNrxwiz3li34C4SCywGcz540Au3byeDpBYK2cFg&oe=6AE8C0DD,"📈 QQQ Triple Filter Strategy: RSI + EMA + VWAP Edge
+Can combining three classic tools outperform single-indicator setups? Integrating RSI with EMA trend direction and rolling VWAP volume pricing produced a robust mean-reversion filter on QQQ.
+
+📊 Historical Backtest Performance (QQQ)
+
+Total Completed Trades: 215
+Historical Win Rate: 79.5%
+Profit Factor: 3.54
+Average Gain / Trade: 0.94%
+Maximum Drawdown: 9.1%
+Cumulative Profit: $202,507
+
+📌 Strategy Setup & The 3 Filters
+
+Filter 1 (RSI): Pinpoints short-term oversold momentum drops.
+
+Filter 2 (EMA): Ensures entries align strictly with broader trend direction.
+
+Filter 3 (Rolling VWAP): Evaluates price relative to institutional volume-weighted averages.
+
+Execution Goal: Combine momentum, trend, and volume pricing to eliminate low-conviction signals.
+
+🔍 Key Lessons for Systematic Traders
+Multi-Filter Synergy: Standalone RSI underperformed this multi-indicator model. Layering trend and volume filters dramatically increased selectiveness and profit factor.
+
+Quality Over Frequency: 215 trades over the backtest window provided high capital efficiency, freeing funds for non-correlated portfolio strategies.
+
+Overfitting vs. Robustness: Extra indicators can risk curve-fitting. Always validate logic on unseen data, account for transaction costs, and incubate frozen rules for 3 to 6 months.
+
+💡 Key Takeaway
+Adding volume-weighted and trend confirmation to classic RSI signals reduces noise, lowers drawdowns to 9.1%, and significantly boosts trade expectancy.
+
+ABOUT QUANTIFIED STRATEGIES
+
+Run by former proprietary traders Håkan Samuelsson and Oddmund Groette, Quantified Strategies has published evidence-based research and backtested strategies since 2012. Our newsletter has 25,000+ subscribers, and our trading books have sold 30,000+ copies.
+
+🚀 Want a more disciplined, evidence-driven trading approach?
+
+Join our Skool community for backtested strategies, quantitative research, and systematic risk management.
+
+👉 Link in bio!
+
+#QQQTrading #RSIStrategy",quantifiedstrategies,Quantified Strategies
+14,DfKNzEvDPCS,https://www.instagram.com/p/DfKNzEvDPCS/,4020086301763891346,2026-10-31 13:01:18,2026-10-31 18:31:18,Video / Reel,True,1,0,0,,0,,,,,https://instagram.fccu1-2.fna.fbcdn.net/v/t51.82787-15/883300508_18096900050480533_7931887387803347663_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=NDAyMDA4NjMwMTc2Mzg5MTM0NjE4MDk2OTAwMDQ0NDgwNTMz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEwODAuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=_WKH5YFbpsoQ7kNvwFhJ2A0&_nc_oc=AdoUY4jUsV8EscX_NFaNsF0CkTmNcND-2-2P2pRO8axe61qOMAUgIz23DJu7Aw95_Us&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fccu1-2.fna&_nc_gid=GMkCOVP0xGHCV4KSjNnMPQ&_nc_ss=7320f&oh=00_AQQsX2ZIfUYrtpdsSmsC7sj5DzYRxPkbfdGsLj_J9sZOxA&oe=6AECA361,https://instagram.fccu1-2.fna.fbcdn.net/o1/v/t2/f2/m86/AQOt2DVGusJawX5bQtoWSd8mnO7Cwx0h9as3UTbF1s98e8rvW1ZlA4crb39g6qiH7vM9E2TSZBvMb8oxeUFyWS7ygNBIDm6lV0bA06Q.mp4?_nc_cat=100&_nc_oc=AdrlKOi--UhF7QA5f67VBqN063Tdu5thbPUhau9fZ6PvuDvGR0ZEWIT--_oSFxos_44&_nc_sid=5e9851&_nc_ht=instagram.fccu1-2.fna.fbcdn.net&_nc_ohc=99Meoe45F-wQ7kNvwG70Dhx&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwOTY4OTk4ODg0ODA1MzMsImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MjUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=32fa1517f9e8b2cd&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9FOTk5QzJCMUI1MDI0NzNBOEM4NUYyMEYzQkFCMTlGMV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzY5NjJFQkRCNUEwRjQwQTZCRDgzRUQ0ODQyMkNBQ0FDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaqhJyWm8KlQBUCKAJDMywXQDl3S8an754YEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=GMkCOVP0xGHCV4KSjNnMPQ&_nc_ss=70580&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRXe5oHNWSgM40Jj19WhL99VtrD-CtsfcPCxpkAOZPbrw&oe=6AE8C0AD,"Martingale Trading Strategy - Gambling (Rules & Backtest)
+
+If you are interested in Rule-Based Trading, we would love to have you in our Skool community (Link in bio)",quantifiedstrategies,Quantified Strategies
+15,DfKNwARiSW3,https://www.instagram.com/p/DfKNwARiSW3/,4020086090815317431,2026-10-31 13:00:28,2026-10-31 18:30:28,Carousel (Sidecar),False,4,1,4,"#tradingpsychology, #systematictrading, #riskmanagement, #quantifiedstrategies",0,,,,,https://instagram.fccu1-2.fna.fbcdn.net/v/t39.30808-6/877881861_1135389402342451_8672729055586583318_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ig_cache_key=NDAyMDA4NjA3Njg4MTgzMTQxNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTEyMi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=4Dt4gR6V8p8Q7kNvwHCAw44&_nc_oc=AdryoLsFRhskci3DkKKI1QjxYjTeNzkgfh65pBs2f9IjaIs_luLLLvSetCA5Ym1k9_E&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fccu1-2.fna&_nc_gid=4vSN-w9rUS9qGC27BfcorA&_nc_ss=7320f&oh=00_AQSEwmdCm0VnQSIgfAWkEOX9QSMU5SAbrITif7NtV_yq2A&oe=6AECD2C1,,"Trading psychology can make or break your long-term progress. But what if the key to better trading decisions is simply learning to slow down?
+
+Legendary trader Larry Hite reminds us that trading is a marathon, not a sprint.
+
+Successful systematic trading isn't about chasing every opportunity. It's about following a plan, managing risk, and staying consistent through market ups and downs.
+
+📊 In this carousel, we explore:
+
+✅ Why patience matters in trading
+✅ How a process-first mindset helps reduce emotional decisions
+✅ Why protecting your capital comes first
+✅ 5 practical habits for disciplined trading
+✅ The importance of focusing on long-term results
+
+One lesson worth remembering: a good trading strategy doesn't need to trade every day.
+
+We look for different trading edges across markets, assets, and styles. Combining complementary strategies can help smooth portfolio returns when their drawdowns occur at different times, although diversification cannot eliminate risk.
+
+We also prefer to monitor strategies on fresh data with unchanged rules before committing capital. Patience matters in research, too.
+
+👉 Swipe through the carousel and save these lessons for your trading journey.
+
+ABOUT QUANTIFIED STRATEGIES
+Quantified Strategies is run by Håkan Samuelsson and Oddmund Groette, two former proprietary traders with over 25 years of hands-on market experiences.
+
+Since 2012, we have published evidence-based market research, backtested trading strategies, and educational resources for systematic traders. Our research reaches millions of readers, our newsletter has 25,000+ subscribers, and our trading books have sold 30,000+ copies.
+
+📩 Want more backtested trading strategies, evidence-based market research, and practical insights into systematic trading?
+
+Subscribe to our Substack, Quantified Strategies, through the link in bio.
+
+#TradingPsychology #SystematicTrading #RiskManagement #QuantifiedStrategies",quantifiedstrategies,Quantified Strategies
+16,DfKKZSdG8Qr,https://www.instagram.com/p/DfKKZSdG8Qr/,4020071335649330219,2026-10-31 12:31:16,2026-10-31 18:01:16,Video / Reel,True,2,1,2,"#spytrading, #rulebasedtrading",0,,,,,https://instagram.fccu1-2.fna.fbcdn.net/v/t51.82787-15/883558780_18096895268480533_7062288127406265578_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ig_cache_key=NDAyMDA3MTMzNTY0OTMzMDIxOTE4MDk2ODk1MjY1NDgwNTMz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcxNi5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=sUcZCBt3c7sQ7kNvwHmpcd6&_nc_oc=AdoII0Ji4w_plcrKDZiAes8wxOBwt_04sI28xbjj0FdZ5tBQl2BHpoP5sFafr6xn4Gc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fccu1-2.fna&_nc_gid=gZiGR6xvY-xRIaeeQyttmQ&_nc_ss=7320f&oh=00_AQR52Wj4xRTgkBxIO5FSNif_h5KvwRwnt74mrZlmeD_Q9g&oe=6AECBEDA,https://instagram.fccu1-2.fna.fbcdn.net/o1/v/t2/f2/m86/AQMmzv89sOeUZ_XIZsnMNqA3yBAbd7xZyFIDkG74sg5HBbNKaXpriJ7TdeYsXsxK3_tY5sHVDvF6DIazL6vw8PdF2-FNnDmrOGewnwM.mp4?_nc_cat=111&_nc_oc=AdqBOyqiMWKIXtNlIY1gjP-KrePt5PRQgFvt5J-hmQrKjur2t3M07StJYZoDlS6Il9M&_nc_sid=5e9851&_nc_ht=instagram.fccu1-2.fna.fbcdn.net&_nc_ohc=pguL8l4SO7MQ7kNvwHB3BXh&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzEyLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwOTY4OTUxMTU0ODA1MzMsImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=e9f0c94def63d53f&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8wNjhDMDM3RTAyQTA0RjY3OTI5RDQ1M0EwMEM1OUNEMF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzY1MTRDMEY4NDE1RDQwM0VBRjU4RDVDMkZDMENDQTFBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaqt6rO98GlQBUCKAJDMywXQCgAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=gZiGR6xvY-xRIaeeQyttmQ&_nc_ss=70580&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQcCGs090sd7l_0wWPPzx-JBhLddzM9slKO0coWERq16w&oe=6AE8C574,"📈 SPY Intraday Strategy: Simple Rules, 75% Historical Win Rate
+Can simple intraday rules outperform complex technical indicators? This SPY setup demonstrates how aligning straightforward market conditions creates a robust statistical edge without indicator clutter.
+
+📊 Historical Backtest Performance (1998–Present)
+Market: SPY (S&P 500 ETF)
+
+Win Rate: 75%
+
+Profit Factor: 2.3
+
+Maximum Drawdown: 23%
+
+Historical Profile: Upward equity curve growth, including natural periods of flat performance across multi-decade regimes.
+
+📌 Strategy Mechanics & Setup
+Execution Logic: Purely systematic intraday entries and exits with zero subjective discretion.
+
+Core Philosophy: Combines basic market structure conditions rather than complex, over-optimized technical indicators.
+
+🔍 Key Lessons for Systematic Traders
+Simplicity Prevents Curve-Fitting: Straightforward entry filters often hold up better across decades of historical data than heavily optimized indicator stacks.
+
+Portfolio Synergies: Low-frequency intraday setups free up capital while serving as non-correlated diversifiers against overnight equity risk.
+
+Forward Incubation: Monitor frozen rules on fresh market data for 3 to 6 months to verify out-of-sample execution integrity before allocating live capital.
+
+💡 Key Takeaway
+Complex systems are not required to generate a quantitative edge. Combining clean market structure conditions can yield high win rates and strong profit factors.
+
+ABOUT QUANTIFIED STRATEGIES
+
+Run by former proprietary traders Håkan Samuelsson and Oddmund Groette, Quantified Strategies has published evidence-based research and backtested strategies since 2012. Our newsletter has 25,000+ subscribers, and our trading books have sold 30,000+ copies.
+
+🚀 Want a more disciplined, evidence-driven trading approach?
+
+Join our Skool community for backtested strategies, quantitative research, and systematic risk management.
+
+👉 Link in bio!
+
+#SPYTrading #RuleBasedTrading",quantifiedstrategies,Quantified Strategies
+17,DfKDiSyFZOH,https://www.instagram.com/p/DfKDiSyFZOH/,4020041168150958983,2026-10-31 11:31:30,2026-10-31 17:01:30,Video / Reel,True,6,0,2,"#rulebasedtrading, #algorithmictrading",0,,,,,https://instagram.fccu1-2.fna.fbcdn.net/v/t51.82787-15/881108345_18096887054480533_3643129151001449346_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=NDAyMDA0MTE2ODE1MDk1ODk4MzE4MDk2ODg3MDUxNDgwNTMz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcxNi5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=ypxgnC3uLlwQ7kNvwE9KYyo&_nc_oc=Adp052vknztYsM3_I2NKRrdHbrOpEOFYmMoE6Gbs3ozkN_FN9biDto4OSEyo69Ai2qg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fccu1-2.fna&_nc_gid=03RkUCTIaJGRjtmy7ofznQ&_nc_ss=7320f&oh=00_AQQusdFskOWjxj7ZkDw_9zKtXWTeZIIi8K7xd1e78gk8wg&oe=6AECD73B,https://instagram.fccu1-2.fna.fbcdn.net/o1/v/t2/f2/m86/AQOTE15CIsoNcxpsLGuAX67SwGYeftsQiTkRcuAWuTPNIGyJ965TFs8nEEpcJoPdZL6CbatQS9PXOTK5IqXPbGJzkUnuiXbREULPHRI.mp4?_nc_cat=104&_nc_oc=AdrEZyOq1jC1xBiXbe8Pn9yEbO_9XrnCWVqU_XjN5V08RIxT_wtqhu_lp7FpzrpzvLk&_nc_sid=5e9851&_nc_ht=instagram.fccu1-2.fna.fbcdn.net&_nc_ohc=L367HMNguVkQ7kNvwGykLbP&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzEyLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwOTY4ODY5MjU0ODA1MzMsImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=f312983b0d670041&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8xOEMxNERDMEE0RkE0ODA5OTI1MTc2RTVFQTQwQUI0OF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzU1QzY4QkMwOTNEMDRFN0U5OEQ0RTExN0VBNUNCMzYzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaqyd7LusGlQBUCKAJDMywXQCgAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=03RkUCTIaJGRjtmy7ofznQ&_nc_ss=70580&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_enc=UlQbMFZUIo5GKvhgFHr2E8y_vKWxpgj925N0HnRNPdMOb91L_Lyi5OpI5lAdIu2yCNAeIjsxqolMSzwK8NKBYYwcKLNPABPvKCZ8vLajCz7uJMgO_R0-Vds1zA0&oh=00_AQTheRgkpdQsv1B1YZwfmaWOXATFUK9kGaUJ8PrOAMIdsA&oe=6AE8B1CD,"📈 20 Rule-Based Trading Strategies Every Serious Trader Should Explore
+Relying on market predictions creates uncertainty. Systematic trading replaces guesswork with objective rules, statistical backtests, and proven risk management across varied market regimes.
+
+📊 Key Historical Backtest Findings
+Williams %R: 76.4% Win Rate | 2.61 Profit Factor | 288 Trades
+
+Fibonacci Reversal: 83.87% Win Rate
+
+Seasonal ROC/ROC: 8.17 Profit Factor
+
+Morning Momentum Long: 64.4% Win Rate | 3.01 Profit Factor
+
+Stochastic Strategy: 73.8% Win Rate | 393 Trades
+
+IBS Mean Reversion: 73.1% Win Rate | 631 Trades
+
+📌 Core Strategy Categories
+Mean Reversion: IBS and Williams %R setups capturing short-term dip opportunities.
+
+Momentum & Intraday: Morning momentum setups capitalizing on early-session trend continuation.
+
+Seasonal Patterns: Exploiting recurring calendar and momentum ROC anomalies.
+
+🔍 Key Lessons for Systematic Traders
+Beyond High Win Rates: High win rates alone do not guarantee net gains—trade frequency, profit factor, max drawdown, and execution friction are equally critical.
+
+Evidence Over Hype: Evaluate strategies using clear historical testing rather than subjective predictions or market noise.
+
+Portfolio Diversity: Combining non-correlated setups across mean reversion, momentum, and seasonality helps stabilize equity curves.
+
+ABOUT QUANTIFIED STRATEGIES
+
+Run by former proprietary traders Håkan Samuelsson and Oddmund Groette, Quantified Strategies has published evidence-based research and backtested strategies since 2012. Our newsletter has 25,000+ subscribers, and our trading books have sold 30,000+ copies.
+
+🚀 Want a more disciplined, evidence-driven trading approach?
+
+Join our Skool community for backtested strategies, quantitative research, and systematic risk management.
+
+👉 Link in bio!
+
+#RuleBasedTrading #AlgorithmicTrading",quantifiedstrategies,Quantified Strategies
+18,DfJ9L30DYSQ,https://www.instagram.com/p/DfJ9L30DYSQ/,4020013239085401232,2026-10-31 10:35:02,2026-10-31 16:05:02,Carousel (Sidecar),False,8,1,4,"#daytrading, #qqq, #backtesting, #systematictrading",0,,,,,https://instagram.fccu1-2.fna.fbcdn.net/v/t51.82787-15/880889144_18096751325480533_937797760253084746_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=NDAxOTM5OTE4MDU4MTQ0NjgxOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTEyMi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=v0kqWH_kjtEQ7kNvwEY1pyh&_nc_oc=AdrsGCYV3lx571AqEBvdXD_AKU30nJ8gndNFd58xL4v3u4Bi326JdQuRRjL5SRcf0vI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fccu1-2.fna&_nc_gid=K0vJPoODH9i9lj740j4Hyg&_nc_ss=7320f&oh=00_AQSQWaya_HmtFbvzN9IojfQH19ZXtAY2jzyG8cJ4fneOsw&oe=6AECBED0,,"A QQQ day trading strategy with over 27+ years still produced some surprisingly strong historical numbers.
+
+Using 5-minute QQQ data from 1999–2026, the backtest produced a 3.01 profit factor after modeled commission and slippage, a 64.9% win rate, about $52,475 in net profit, a $256 average trade, and roughly $2,615 maximum closed-trade drawdown on a $100,000 position.
+
+The bigger lesson is that a strategy does not need to trade every day to be useful. We look for different rule-based edges across assets, markets, and trading styles, then judge each strategy by what it contributes to the portfolio, not just by trade count.
+
+If different strategies struggle at different times, combining them may help smooth returns and reduce dependence on one setup. Lower portfolio risk may allow modest leverage, but leverage also magnifies losses.
+
+We also aim to incubate promising strategies by keeping the rules unchanged and monitoring them on new data before committing capital. For a lower-frequency strategy, that may take 3–6 months or longer. Incubation is not proof of future profitability.
+
+Historical backtests are research, not forecasts.
+
+ABOUT QUANTIFIED STRATEGIES
+Quantified Strategies is run by Håkan Samuelsson and Oddmund Groette, two former proprietary traders with over 25 years of hands-on trading experience, including time living and trading professionally in the US and Scandinavia.
+
+Since 2012, we have published evidence-based market research, backtested trading strategies, and educational resources for systematic traders. Our research reaches millions of readers, our newsletter has 25,000+ subscribers, and our trading books have sold 30,000+ copies.
+
+For more backtested trading strategies, evidence-based market research, strategy ideas, and practical insights into systematic and rule-based trading, subscribe to Quantified Strategies on Substack. Link in bio.
+
+#DayTrading #QQQ #Backtesting #SystematicTrading",quantifiedstrategies,Quantified Strategies
+19,DfJ5JTrjdat,https://www.instagram.com/p/DfJ5JTrjdat/,4019995470663112365,2026-10-31 10:00:25,2026-10-31 15:30:25,Carousel (Sidecar),False,2,1,4,"#rulebasedtrading, #backtesting, #tradingstrategies, #systematictrading",0,,,,,https://instagram.fccu1-2.fna.fbcdn.net/v/t39.30808-6/864830524_1135232412358150_6698382401674086154_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=NDAxOTk5NTQ0OTIxMzQwMTI1NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTEyMi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=1wuxDCmKaNIQ7kNvwGQLyIo&_nc_oc=AdqxjXt2vlOuGEYnaWApxXo3bY9dq-a2eeoe97t3mswBDnAa9A4bw_rxi0xRJQhwuF4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fccu1-2.fna&_nc_gid=Bnyi002tvqr9wTucNRiRmw&_nc_ss=7320f&oh=00_AQSULNLvbaTHhuG7dKlK70bYTWQHDzTdEica5JMPCr_ccg&oe=6AECB0E4,,"Can a Risk On, Risk Off Strategy help manage drawdowns without constantly buying and selling?
+
+This rule-based trading strategy uses a simple idea: hold risk assets when they're trending, and switch to defensive assets when the trend weakens or prices become too stretched.
+
+We backtested this approach using SPY, GLD, and IEF.
+
+Here's what the historical backtest showed:
+
+📊 9.2% annualized return (CAGR)
+📉 18% maximum drawdown
+✅ 44% win rate
+📈 2.75% average gain per trade
+🎯 Profit factor of 3
+🔎 Just 141 trades
+
+A strategy doesn't need hundreds of trades to be worth studying.
+
+We look for different trading edges across markets and assets. Combining complementary strategies with drawdowns at different times may help smooth portfolio returns, although diversification cannot eliminate losses.
+
+Before allocating capital, we also aim to monitor strategies with unchanged rules on fresh data. This incubation period may take 3–6 months or longer and doesn't guarantee future success.
+
+These are historical backtest results, not predictions of future performance.
+
+ABOUT QUANTIFIED STRATEGIES
+Quantified Strategies is run by Håkan Samuelsson and Oddmund Groette, two former proprietary traders with over 25 years of hands-on market experiences.
+
+Since 2012, we have published evidence-based market research, backtested trading strategies, and educational resources for systematic traders. Our research reaches millions of readers, our newsletter has 25,000+ subscribers, and our trading books have sold 30,000+ copies.
+
+Curious about more strategies like this? Subscribe to our Substack, Quantified Strategies, through the link in bio for backtested trading strategies, evidence-based market research, fresh strategy ideas, and practical insights into systematic and rule-based trading.
+
+#RuleBasedTrading #Backtesting #TradingStrategies #SystematicTrading",quantifiedstrategies,Quantified Strategies
+20,DfJk7RnD5Di,https://www.instagram.com/p/DfJk7RnD5Di/,4019906545437348066,2026-10-31 07:03:45,2026-10-31 12:33:45,Carousel (Sidecar),False,4,1,4,"#quantifiedstrategies, #systematictrading, #tradingstrategies, #backtesting",0,,,,,https://instagram.fccu1-2.fna.fbcdn.net/v/t39.30808-6/872988978_1135188009029257_3968018794365475556_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ig_cache_key=NDAxOTkwNjUyNDExMzQ3ODkyNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTEyMi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Dd-JJnI9s6EQ7kNvwHZeA2-&_nc_oc=Adrh__N6qqsl_xl3n46UzMijcs9wSv_8Fnx-65CcTYq_MeBVdDR1kNfCYzSxcoSiZp0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fccu1-2.fna&_nc_gid=4xSQS6TcOAXdyCqJbvB3Mg&_nc_ss=7320f&oh=00_AQR81nwkWQRYe4JaJu_c4FhzcMx4ErSJTkouBqcEK2-PpQ&oe=6AECCF0F,,"🚨 8 trades a year could be all you need to build a systematic trading portfolio. Still think you need to trade every day to see results?
+
+Most traders chase more setups, more signals, and more opportunities. But what if the real edge comes from combining a few carefully selected, backtested trading strategies?
+
+📊 Here's what matters:
+
+✅ A trading strategy doesn't need hundreds of trades to add value.
+
+✅ Different strategies can perform well under different market conditions.
+
+✅ Combining uncorrelated strategies may help smooth portfolio performance.
+
+✅ Focus on risk management, diversification, and long-term consistency instead of trading frequency.
+
+The goal isn't to trade MORE. It's to build a portfolio where every strategy has a purpose.
+
+Swipe through the carousel to see how a portfolio of just 8 annual trades could work. 👉
+
+ABOUT QUANTIFIED STRATEGIES
+
+Quantified Strategies is run by Håkan Samuelsson and Oddmund Groette, two former proprietary traders with over 25 years of hands-on market experiences.
+
+Since 2012, we have published evidence-based market research, backtested trading strategies, and educational resources for systematic traders. Our research reaches millions of readers, our newsletter has 25,000+ subscribers, and our trading books have sold 30,000+ copies.
+
+🚀 Want to learn how to build your own rule-based trading portfolio?
+
+Join our Skool community for systematic trading insights, backtested strategies, and practical portfolio-building education.
+
+👉 Link in bio to join the community!
+
+#QuantifiedStrategies #SystematicTrading #TradingStrategies #Backtesting",quantifiedstrategies,Quantified Strategies
+21,DfIEZgWiCyt,https://www.instagram.com/p/DfIEZgWiCyt/,4019482012338891949,2026-10-30 17:00:45,2026-10-30 22:30:45,Video / Reel,True,4,0,0,,0,,,,,https://instagram.fccu1-2.fna.fbcdn.net/v/t51.82787-15/878353936_18096775340480533_2023075646191141943_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ig_cache_key=NDAxOTQ4MjAxMjMzODg5MTk0OTE4MDk2Nzc1MzM3NDgwNTMz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEwODAuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=yr58Pv4BldYQ7kNvwE4nYzY&_nc_oc=AdqqNpIAEG-4ut43gC4YkskWF1j8vvU-DjSLeOKt23U_sYMvKtVsBj9zLWHXm61EoFs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fccu1-2.fna&_nc_gid=fyDQq6qrDL327Qhky_VRgg&_nc_ss=7320f&oh=00_AQQR66BjmwJPqoSIoDSHkcBRCDEo068MA9R_nFjesZqJLQ&oe=6AECC23E,https://instagram.fccu1-2.fna.fbcdn.net/o1/v/t2/f2/m86/AQNUyPysgPcd2IilWgkQAEDbIDGci8WoMRVmiQ3u5amEbRDhWXOKdvvnWlZM80Ho59jW46p7Mwy-Ih0f9cY2gZ0zuJi0v4HwlBx_ScU.mp4?_nc_cat=103&_nc_oc=AdqXLfUf2RP8q77X_IgtNYEhI1bcaaSC8ql22k9CnSNXZ6emnRbhmW2xVxkdhkb8CEU&_nc_sid=5e9851&_nc_ht=instagram.fccu1-2.fna.fbcdn.net&_nc_ohc=C9dk5m0ArisQ7kNvwF_zD69&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwOTY3NzUxODQ0ODA1MzMsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MjIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=e8ed7ff3bbf338a7&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC83RjE4QkEyQkVFRjg0NkRGOTZFRTc2ODcxN0UyQzkxQ192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzNGMzI5QTY2M0E5NzQ0QzE5MkEwNjcyODQ4NjE5Q0U1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaq5JuH-rqlQBUCKAJDMywXQDbMzMzMzM0YEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=fyDQq6qrDL327Qhky_VRgg&_nc_ss=70580&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQC3fd357-td8jgOG9goQmecdycE092YSClUn1yRSSodg&oe=6AE8E004,"Rubber Band Strategy (Rules+Backtest)
+
+If you are interested in Rule-Based Trading, we would love to have you in our Skool community (Link in bio)",quantifiedstrategies,Quantified Strategies
+22,DfIBENVALKV,https://www.instagram.com/p/DfIBENVALKV/,4019467354663596693,2026-10-30 16:31:15,2026-10-30 22:01:15,Video / Reel,True,4,2,2,"#rulebasedtrading, #tradingstrategies",0,,,,,https://instagram.fccu1-2.fna.fbcdn.net/v/t51.82787-15/865096155_18096771611480533_6602150098255706463_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=NDAxOTQ2NzM1NDY2MzU5NjY5MzE4MDk2NzcxNjA4NDgwNTMz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcxNi5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=vO1687wcOwAQ7kNvwEUn1U6&_nc_oc=AdpCS_73XoLHR5YcUZjQRsVte3AF0xSQBvbl6QSwShFCMsl2w76lZ0yf-Xj83OpjJb4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fccu1-2.fna&_nc_gid=lxYys8ohiDSJP8PbO3RyQA&_nc_ss=7320f&oh=00_AQRmaVGTyVuGL9bW9vq1oZYspAC0JmjBnW4UF9bB5NPDBw&oe=6AECAC0F,https://instagram.fccu1-2.fna.fbcdn.net/o1/v/t2/f2/m86/AQMPyxv2RUKOn53qL2UBZldJZRYDc4PukMGH5vCMv4eJcqIjPcwC876hbyFKZczRMBSiXcOFSVO3AJUMGGoYJQohVXg_v7bwOLT_49U.mp4?_nc_cat=105&_nc_oc=Adoo5hcDkfmI8J2L-ncqN5giyWObWzB9OpfbQxcJcxnvaM_oDJIvWqtw25PVD4XFngg&_nc_sid=5e9851&_nc_ht=instagram.fccu1-2.fna.fbcdn.net&_nc_ohc=_n0ciOQxwtoQ7kNvwGCBcDU&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzEyLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwOTY3NzE0Njc0ODA1MzMsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=1d176c74fba27b5f&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC82QkYyQjYyQUE5RkQ0NzMxOEZEQjk4MkRBNTk1RkU3OF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzdFQTlGRUVENTAxMzQ4OTk5MDQwQ0UzMDNDQzFDQzMyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaqt7Su3rqlQBUCKAJDMywXQCgAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=lxYys8ohiDSJP8PbO3RyQA&_nc_ss=70580&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQOtiA-i578FjmThqjFKdrF8j6oMd5w69QP_Vw7w0kN3A&oe=6AE8D87E,"📈 Larry Connors’ R3 Strategy: Simple, Rule-Based ETF Mean Reversion
+Introduced in High Probability ETF Trading (2009), Larry Connors’ R3 Strategy demonstrates how simple rules can capture short-term oversold pullbacks within long-term uptrends across liquid ETFs.
+
+📌 Strategy Setup & Rules
+Trend Filter: Close price must be above its 200-day moving average.
+
+Oversold Setup: 2-day RSI displays an unusually low, extreme oversold reading.
+
+Entry: Buy at the market close when conditions align.
+
+Exit: Sell at the market close when the 2-day RSI rises above 70.
+
+📊 Historical Backtest Highlights (SPY & ETF Basket)
+Tested Universe: Basket of 20 highly liquid ETFs.
+
+Equity Curve Growth: SPY compounded equity grew from $100,000 to $270,396 through 2020.
+
+System Characteristics: Low trade frequency focusing strictly on extreme pullback setups.
+
+🔍 Key Lessons for Systematic Traders
+Quality Over Volume: Low-frequency strategies provide powerful diversification without clogging capital required for higher-frequency models.
+
+Portfolio Synergies: Combining non-correlated mean-reversion rules across assets helps smooth drawdowns during market shifts.
+
+Forward Incubation: Monitor unchanged rules on live market data for 3 to 6 months prior to committing real capital.
+
+💡 Key Takeaway
+Keeping setups simple with a 200-day moving average and extreme 2-day RSI readings creates a robust, reproducible mean-reversion edge.
+
+ABOUT QUANTIFIED STRATEGIES
+
+Run by former proprietary traders Håkan Samuelsson and Oddmund Groette, Quantified Strategies has published evidence-based research and backtested strategies since 2012. Our newsletter has 25,000+ subscribers, and our trading books have sold 30,000+ copies.
+
+🚀 Want a more disciplined, evidence-driven trading approach?
+
+Join our Skool community for backtested strategies, quantitative research, and systematic risk management.
+
+👉 Link in bio!
+
+#RuleBasedTrading #TradingStrategies",quantifiedstrategies,Quantified Strategies
+23,DfH_bNCFK8c,https://www.instagram.com/p/DfH_bNCFK8c/,4019460138801082140,2026-10-30 16:16:49,2026-10-30 21:46:49,Carousel (Sidecar),False,4,1,4,"#backtesting, #tradingstrategies, #systematictrading, #rulebasedtrading",0,,,,,https://instagram.fccu1-2.fna.fbcdn.net/v/t39.30808-6/866623564_1134625572418834_1919901237891110212_n.jpg?stp=c0.0.1080.1349a_dst-jpg_e35_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ig_cache_key=NDAxOTQ2MDEyNDM3MjY2NDQzOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=rgP0Sw_sph0Q7kNvwFmQ0Ej&_nc_oc=Adq5xdcf010AyCgeeurEDXnuRemdkp0hB2pV2XeGYsauEtCLGzsldXkP1g_MeEWDr00&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fccu1-2.fna&_nc_gid=Sf5zCqo3YMJLKzVhZ9tXUw&_nc_ss=7320f&oh=00_AQQ42wQndsWLLv0aEp2DWphAX24ZSKIA3AU4DM11gkkEaA&oe=6AECD3FF,,"Patience in backtesting is a trading skill that many traders overlook. 📊 But why does waiting matter so much in rule-based trading?
+
+A backtested trading strategy needs more than a promising setup. It needs clear rules, enough historical data, and the discipline to follow a predefined plan without rushing into trades.
+
+This carousel explores how patience can improve your trading process:
+
+✅ Wait for the right setup instead of forcing trades.
+✅ Avoid changing strategy rules after a few disappointing results.
+✅ Follow predefined entry and exit conditions.
+✅ Focus on consistency, discipline, and risk management.
+
+At Quantified Strategies, we believe a strategy doesn't need to trade every day to contribute to a portfolio. We research different edges across markets, assets, and trading styles, looking at how strategies work together rather than judging them by trade count alone.
+
+We also aim to monitor promising strategies with unchanged rules on new data before committing capital. This incubation period may take 3–6 months or longer and does not guarantee future profitability.
+
+Patience isn't about doing nothing. It's about knowing when your rules tell you to act.
+
+ABOUT QUANTIFIED STRATEGIES
+Quantified Strategies is run by Håkan Samuelsson and Oddmund Groette, two former proprietary traders with over 25 years of hands-on market experiences.
+
+Since 2012, we have published evidence-based market research, backtested trading strategies, and educational resources for systematic traders. Our research reaches millions of readers, our newsletter has 25,000+ subscribers, and our trading books have sold 30,000+ copies.
+
+Want more backtested trading strategies, evidence-based market research, strategy ideas, and practical insights into systematic and rule-based trading?
+
+Subscribe to our Substack, Quantified Strategies, through the link in bio.
+
+#Backtesting #TradingStrategies #SystematicTrading #RuleBasedTrading",quantifiedstrategies,Quantified Strategies
+24,DfH6My4jxZa,https://www.instagram.com/p/DfH6My4jxZa/,4019437158418814554,2026-10-30 15:31:28,2026-10-30 21:01:28,Video / Reel,True,5,1,2,"#tradingdiscipline, #tradingstrategies",0,,,,,https://instagram.fccu1-2.fna.fbcdn.net/v/t51.82787-15/873785887_18096762950480533_1741511221923825455_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=NDAxOTQzNzE1ODQxODgxNDU1NDE4MDk2NzYyOTUzNDgwNTMz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcxNi5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=brn5wOiljUsQ7kNvwEw5Z90&_nc_oc=Adr9ANx8AIeIRk0S4NAWr_LpdSejGh7rkCXGEGQMr3OPM9BNFnxHb3ntaMc0ZARlI7A&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fccu1-2.fna&_nc_gid=3trPnumqb6TYCxKLGrbWXQ&_nc_ss=7320f&oh=00_AQR_LNK0941VHFo3jaqbV_eXrOYqfQC5l6z_9Pb9Qe6puA&oe=6AECA387,https://instagram.fccu1-2.fna.fbcdn.net/o1/v/t2/f2/m86/AQPq5SxwjfOvL7SRAFye-YfKnJyMVZgu_1Es9IgE1IyRPnTXhm8JpuYKIzAz7_sDOtgtxBmmJYdlreDetPGK4y33ADPSGw2E7EyvSOg.mp4?_nc_cat=105&_nc_oc=AdquIPar6WsOxAKJ720v9NuK5ZwHn1SCLz6-yG3fkNE1HjaNdXQTwmn8wuu76SsUl38&_nc_sid=5e9851&_nc_ht=instagram.fccu1-2.fna.fbcdn.net&_nc_ohc=RrZE0xxqZHMQ7kNvwETxgDV&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzEyLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwOTY3NjI4MDk0ODA1MzMsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=d6d8546c8780c97f&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9COTU2QzFEMUMxQzU0MTRFQjg2RjY3N0NDQjQ1N0ZEMV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzMzNUI2MTlCMjMyQjQyQ0ZCOEI5RDU5RTEzMTIzQTc2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaq1b_tnbqlQBUCKAJDMywXQCgAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=3trPnumqb6TYCxKLGrbWXQ&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_ss=70580&oh=00_AQS_o3b_OIOtuudYC7KRjH51daC8J41YQEnwFIM2tsQsag&oe=6AE8BA9E,"📊 Trading Discipline: Why Winning Can Be More Dangerous Than Losing
+Are you making one of the most overlooked mistakes in trading? As market veteran Mark Minervini emphasizes, winning streaks can breed overconfidence—leading traders to abandon the exact risk management rules that made them successful.
+
+📌 5 Rules to Master Trading Discipline
+Control Position Sizing: Resist the urge to oversize positions during a winning streak.
+
+Respect Your Plan: Stick to proven parameters regardless of recent profits or elevated confidence.
+
+Maintain Emotional Neutrality: Treat profits and losses with equal psychological detachment.
+
+Journal Your Performance: Regularly review execution logs to ensure zero drift from strategy rules.
+
+Prioritize Process Over Outcome: Long-term consistency comes from repeatable execution, not single trade gains.
+
+🔍 Key Lessons for Systematic Traders
+The Overconfidence Trap: Risk discipline often lapses after wins rather than losses. Overexposure during peak confidence causes severe equity drawdowns.
+
+Systematic Edge Protection: Rule-based execution removes post-win euphoria, preserving backtested statistical advantages across market cycles.
+
+ABOUT QUANTIFIED STRATEGIES
+
+Run by former proprietary traders Håkan Samuelsson and Oddmund Groette, Quantified Strategies has published evidence-based research and backtested strategies since 2012. Our newsletter has 25,000+ subscribers, and our trading books have sold 30,000+ copies.
+
+🚀 Want a more disciplined, evidence-driven trading approach?
+
+Join our Skool community for backtested strategies, quantitative research, and systematic risk management.
+
+👉 Link in bio!
+
+#TradingDiscipline #TradingStrategies",quantifiedstrategies,Quantified Strategies
+25,DfH2rrIDhv7,https://www.instagram.com/p/DfH2rrIDhv7/,4019421688206597115,2026-10-30 15:01:39,2026-10-30 20:31:39,Video / Reel,True,7,0,3,"#qqq, #vwapstrategy, #daytrading",0,,,,,https://instagram.fccu1-2.fna.fbcdn.net/v/t51.82787-15/880112438_18096759584480533_8503597945881835978_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=NDAxOTQyMTY4ODIwNjU5NzExNTE4MDk2NzU5NTgxNDgwNTMz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjE5MjAuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=pwyXTkCqutsQ7kNvwGphCQt&_nc_oc=Adr-LPA8Csip8WCI59bisbpsTxfAwiQvFa5pGTBzOS3kIfR-Duk4pJj36LwOUXTKcQc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fccu1-2.fna&_nc_gid=e0ENOitX2pooLGvRy52Trw&_nc_ss=7320f&oh=00_AQS2vTIEfoV2cnjNzpSrMMSRWfuHDYl2v7KAw4HdriuoHA&oe=6AECD826,https://instagram.fccu1-2.fna.fbcdn.net/o1/v/t2/f2/m86/AQNFgz3Ynj511UBbZTSK40iaZin5LjkSttC9rtfDS5XBDkwU41ouxILjD6bFzPxX-h1X1EgJHLj7zHpEPFISvWTQMSxXTMxvFh4Gwig.mp4?_nc_cat=108&_nc_oc=AdpS_L63rpRMI8MgAVP8gXCLFXRBLNPRp5vFe1J4tFpHhq75KSwg3QgZL9zawzjA0LM&_nc_sid=5e9851&_nc_ht=instagram.fccu1-2.fna.fbcdn.net&_nc_ohc=_iJclU6kfRQQ7kNvwFbdDr0&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuMTI4MC5kYXNoX2Jhc2VsaW5lXzFfdjEiLCJ4cHZfYXNzZXRfaWQiOjE4MDk2NzU4ODU1NDgwNTMzLCJhc3NldF9hZ2VfZGF5cyI6MSwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjE1MiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=cbbf2f9218f9e8c5&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9BNjRGQzI2MkM2QUY0N0E2QkI1NDQzRDI4QjM1MzE2RF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0E5MEQzRDgyMTAwNzQ1MkFBNzg3REIzOUMyMURBMjc0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaq09WygLqlQBUCKAJDMywXQGMFHrhR64UYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=e0ENOitX2pooLGvRy52Trw&_nc_ss=70580&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQRkkzmPxkRCnP4XnG4kF9cYiO1vYgdIgUVpRwuT-rW1Q&oe=6AE8B4F9,"This VWAP Strategy Won 81% of Trades in a 27-Year Backtest 
+
+The QQQ VWAP Rebound Strategy produced an impressive historical win rate, but how much does that result change when trading costs are included? 📊 We examine this QQQ day trading strategy across roughly 27 years of historical data and explore what profit factor, drawdown, and execution costs can tell us about a strategy’s real potential.
+
+#qqq  #vwapstrategy  #daytrading",quantifiedstrategies,Quantified Strategies
+26,DfHzVMFAClD,https://www.instagram.com/p/DfHzVMFAClD/,4019406948901333315,2026-10-30 14:31:26,2026-10-30 20:01:26,Video / Reel,True,2,1,2,"#spytradingstrategy, #quantitativetrading",0,,,,,https://instagram.fccu1-2.fna.fbcdn.net/v/t51.82787-15/874881069_18096753887480533_4615815384076852118_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ig_cache_key=NDAxOTQwNjk0ODkwMTMzMzMxNTE4MDk2NzUzODg0NDgwNTMz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcxNi5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=SSC5C_u4WEsQ7kNvwFnfuUm&_nc_oc=Adqr7C97DTMncNGFe8NedsvDQz6wJLkdIdBfKf15-tohrm6_w7egewlBA6OWHAbpMo4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fccu1-2.fna&_nc_gid=2bUXOyK1pYdPFtgU1A9gUA&_nc_ss=7320f&oh=00_AQRdav0RATKtGZDiHNjno_rGfXVrE4UQ1lYtY3RprVwljw&oe=6AECA22F,https://instagram.fccu1-2.fna.fbcdn.net/o1/v/t2/f2/m86/AQP_y7umkAMjgcyTgIxLCvWV_J_ve6tl8fYl0aoJBElkEuWwwggISmjE4j-xdukCwJ7zDP27nKJEUfzUiSFsKsy8YeXXrNTxGUeME6A.mp4?_nc_cat=100&_nc_oc=AdozbiGU9tWn35Fn6nWHwFVG_cGPx3eJAJxUkxC9uCGvCFPpZSqtUOyYIAro_SMGpjM&_nc_sid=5e9851&_nc_ht=instagram.fccu1-2.fna.fbcdn.net&_nc_ohc=Q7Ere8TilA8Q7kNvwEYUzyL&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzEyLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwOTY3NTM3MjU0ODA1MzMsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=7e621821154364cd&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9BRjc3NTlBRTQxOTk0NzMzOEUxQkU2RDNFRTRGOTE5NF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzdGQjg1RUJBODRBRDRFMTQ4MDM1Qzk2OTE3MjM2NDQyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaq-aiW2rmlQBUCKAJDMywXQCgAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=2bUXOyK1pYdPFtgU1A9gUA&_nc_ss=70580&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRKmSr3aM_N8Vi7hxbzuSOAvG6-qUt5kfuIICa4hauUPQ&oe=6AE8D5C9,"📊 SPY Order Flow Strategy: Order Flow Imbalance (OFI) Reversals
+Can two consecutive down days combined with early morning order flow data reveal high-probability short-term reversals that traditional price action misses?
+
+📌 Strategy Setup & Rules
+Market Context: SPY experiences 2 consecutive declining trading days (distinguishing between 1, 2, and 3-day market pullbacks).
+
+Order Flow Filter: Order Flow Imbalance (OFI) weakens during the 9:30 AM to 10:00 AM ET opening window.
+
+Entry Execution: Enter long near the market close at 3:59 PM ET.
+
+Exit Execution: Close the position at the following trading day's close.
+
+📊 Performance & Research Context
+Metric Note: Qualitative research model highlighting order flow mechanics; numerical win rate and drawdown data require strict backtest validation prior to live deployment.
+
+Core Advantage: Isolates microstructure buying/selling imbalances during key execution windows rather than relying solely on lagged chart indicators.
+
+🔍 Key Lessons for Systematic Traders
+Microstructure Insights: Combining macro multi-day price drops with intraday order flow imbalance filters out false reversal setups.
+
+Selective Edge: Strategies do not need high trade frequency to add portfolio value; non-correlated setups help smooth equity curves across different regimes.
+
+Forward Incubation: Monitor frozen rules on fresh market data for 3 to 6 months prior to live capital allocation to ensure out-of-sample stability.
+
+💡 Key Takeaway
+Integrating Order Flow Imbalance into classic multi-day dip setups provides a systematic layer of confirmation, helping traders filter short-term market noise.
+
+ABOUT QUANTIFIED STRATEGIES
+
+Run by former proprietary traders Håkan Samuelsson and Oddmund Groette, Quantified Strategies has published evidence-based research and backtested strategies since 2012. Our newsletter has 25,000+ subscribers, and our trading books have sold 30,000+ copies.
+
+🚀 Want a more disciplined, evidence-driven trading approach?
+
+Join our Skool community for backtested strategies, quantitative research, and systematic risk management.
+
+👉 Link in bio!
+
+#SPYTradingStrategy #QuantitativeTrading",quantifiedstrategies,Quantified Strategies
+27,DfHv1DnDw2q,https://www.instagram.com/p/DfHv1DnDw2q/,4019391546646269354,2026-10-30 14:01:00,2026-10-30 19:31:00,Video / Reel,True,4,0,3,"#rulebasedtrading, #larryconnors, #tradingstrategies",0,,,,,https://instagram.fccu1-2.fna.fbcdn.net/v/t51.82787-15/860781542_18096749240480533_1542353546133557846_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ig_cache_key=NDAxOTM5MTU0NjY0NjI2OTM1NDE4MDk2NzQ5MjM0NDgwNTMz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyODAuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=f1rkCFc7DDcQ7kNvwEC-spU&_nc_oc=AdoiPIqRH5k5JpP6zLyy2do3ohy-2TZDAlV5gky4dGLcnr1IvZlw8zF_BGvsbcmM7mA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fccu1-2.fna&_nc_gid=lkCwjjSPxm6kRcZ8R111WQ&_nc_ss=7320f&oh=00_AQQaolS_J_wLII1UgrLEHNP2Rk2qF_4MqK5JiAX9w2eBIQ&oe=6AECCAF7,https://instagram.fccu1-2.fna.fbcdn.net/o1/v/t2/f2/m86/AQNvzFqqDjabNno-jf2QgyqbaKD8tmO5bte6ChiEySN9ykMyWWnybTixdag5XvAEgSN2Ocaq7118S2f4tBbRFAZblBFL4cq1U2jridw.mp4?_nc_cat=105&_nc_oc=AdorFlZyjVtHG_XOxUNat4dCwdwlt5dMzSsnYarcL2kM00HY9ReiQZ_NwvxPjlL6sgw&_nc_sid=5e9851&_nc_ht=instagram.fccu1-2.fna.fbcdn.net&_nc_ohc=oohghbSpOzkQ7kNvwEo-2ga&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuMTI4MC5kYXNoX2Jhc2VsaW5lXzFfdjEiLCJ4cHZfYXNzZXRfaWQiOjE4MDk2NzQ5MDQyNDgwNTMzLCJhc3NldF9hZ2VfZGF5cyI6MSwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjEwNCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=e0c26cd37b965c47&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8zRDlDNUQ4M0U3QkE0MkJCQjNFN0YyNDFDRjcyQkMwRV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0RCRUIyMkEwODY5RTQ5REVCNEM3RTY3MzU1RDc2MjNEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaq1qGkt7mlQBUCKAJDMywXQFn90vGp--cYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=lkCwjjSPxm6kRcZ8R111WQ&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_ss=70580&oh=00_AQQbpUrYBx1n2xmpilAoZglQFxhRT0D1pHNlqq5barFtIg&oe=6AE8C06E,"Multiple Days Up (MDU) and Multiple Days Down (MDD) — a concept explored by Larry Connors.
+
+Understanding consecutive market movements can offer valuable insights into short-term price behavior and rule-based trading opportunities.
+
+Interested in learning more about systematic trading strategies and practical market research? Join our Skool community, Rule-Based Trading!
+
+Link in bio.
+
+#rulebasedtrading  #larryconnors  #tradingstrategies",quantifiedstrategies,Quantified Strategies
+28,DfHseGaD9T3,https://www.instagram.com/p/DfHseGaD9T3/,4019376774961943799,2026-10-30 13:31:29,2026-10-30 19:01:29,Video / Reel,True,3,1,2,"#vixtrading, #backtestedtradingstrategies",0,,,,,https://instagram.fccu1-2.fna.fbcdn.net/v/t51.82787-15/875104236_18096743696480533_1449151178238878593_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=NDAxOTM3Njc3NDk2MTk0Mzc5OTE4MDk2NzQzNjkzNDgwNTMz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcxNi5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=QkSZayoE0OMQ7kNvwHqSVei&_nc_oc=AdpckA-lglSxQwkP_KXGRzzpHLQ9udf0nzDbLbDvBPB5xgfA5Q8T5HXPFkjU53GXI38&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fccu1-2.fna&_nc_gid=9380H80LysoS3We17JU-iw&_nc_ss=7320f&oh=00_AQSBNWz1F-tsyB1nkpbP_p4FWsCFs8pcktNs4aQMkyWZTg&oe=6AECA5C9,https://instagram.fccu1-2.fna.fbcdn.net/o1/v/t2/f2/m86/AQPQqV4JG8T7-nAfwDqyiKB8COBeTNyZOQCohOWM6Yw0QS86l7Qe9gXGff9oxBnu3PCsU_W8U2liXyQzeVJ41Xfs_ISPW9mQIGPOT4g.mp4?_nc_cat=109&_nc_oc=AdoARv6pR-NO_zI28LNDIBl2Kwgh9ayGdNMTKNFaCYAAS04NIKCIRngIwsblKn3TYCQ&_nc_sid=5e9851&_nc_ht=instagram.fccu1-2.fna.fbcdn.net&_nc_ohc=5mWKoSrhaPwQ7kNvwEYCMFy&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzEyLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwOTY3NDM1NDk0ODA1MzMsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=c09863587ba6d314&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8zQUNEMEVGMEIwNUU0QjlGQjc5RjMyNTQzQjgxOTE3Ql92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzlDNzk3NTdDRTNDQzQyODVCOUVEQUYzOTlEQUQ0QUNCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaqud2tjrmlQBUCKAJDMywXQCgAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=9380H80LysoS3We17JU-iw&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_ss=70580&oh=00_AQTdTyAtAvNo4S_3unv04Qey44P1MwDoA1BUsupYGAlZvA&oe=6AE8B016,"📈 2 VIX Trading Strategies: 77% & 75% Historical Win Rates
+Instead of creating fear, can market volatility signal systematic buying opportunities? We backtested two distinct VIX-based trading models on SPY (S&P 500 ETF) to evaluate performance, capital efficiency, and drawdown risk.
+
+📊 Historical Backtest Comparison (SPY)
+Strategy 1 — VIX Breakout:
+
+Completed Trades: 252
+Win Rate: 77%
+Avg Gain / Trade: 0.75%
+Profit Factor: 2.5
+Annualized Return (CAGR): 5.5%
+Market Exposure: 10%
+Maximum Drawdown: 23%
+Strategy 2 — VIX Mean Reversion:
+Completed Trades: 328
+Win Rate: 75%
+Avg Gain / Trade: 0.50%
+Profit Factor: 2.0
+Annualized Return (CAGR): 5.2%
+Market Exposure: 13%
+Maximum Drawdown: 23%
+
+🔍 Key Lessons for Systematic Traders
+High Exposure Efficiency: Generating over 5% CAGR while remaining in cash 87% to 90% of the time allows idle capital to earn yield or support non-correlated strategies.
+
+Dual Volatility Perspectives: Both expansion (breakout) and contraction (mean-reversion) in the VIX can produce strong systematic edges in large-cap equities.
+
+Execution Considerations: High win rates help smooth short-term equity curves, but volatility trades require factoring in slippage and options/ETF execution friction.
+
+💡 Key Takeaway
+Quantifying the VIX transforms market panic into systematic rules, delivering strong win rates and high capital efficiency with minimal time in the market.
+
+ABOUT QUANTIFIED STRATEGIES
+
+Run by former proprietary traders Håkan Samuelsson and Oddmund Groette, Quantified Strategies has published evidence-based research and backtested strategies since 2012. Our newsletter has 25,000+ subscribers, and our trading books have sold 30,000+ copies.
+
+🚀 Want a more disciplined, evidence-driven trading approach?
+
+Join our Skool community for backtested strategies, quantitative research, and systematic risk management.
+
+👉 Link in bio!
+
+#VIXTrading #BacktestedTradingStrategies",quantifiedstrategies,Quantified Strategies
+29,DfHp86KDkkH,https://www.instagram.com/p/DfHp86KDkkH/,4019365697972750599,2026-10-30 13:09:41,2026-10-30 18:39:41,Video / Reel,True,2,0,0,,0,,,,,https://instagram.fccu1-2.fna.fbcdn.net/v/t51.82787-15/880255724_18096741536480533_2672882902910938474_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=NDAxOTM2NTY5Nzk3Mjc1MDU5OTE4MDk2NzQxNTMwNDgwNTMz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEwODAuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=rQm3UQ0RjWcQ7kNvwEFBkuG&_nc_oc=AdoAaGZg2mlZcISLUL-lppKxfPBf03K9t2IdhojFLMzGF0mwbIU4SvAkbdeTz3AsWew&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fccu1-2.fna&_nc_gid=n7OiomukaGUVFuYJmri7Iw&_nc_ss=7320f&oh=00_AQQ8yTsXS4LqPzts-Hijgu5gyRF-4TCxVIDvcZ-LOvwcGQ&oe=6AECB991,https://instagram.fccu1-2.fna.fbcdn.net/o1/v/t2/f2/m86/AQNBLutUISYWYJDnZv6moZKVVnDxZiKmO5o6AzdvFLky25DkjSl7nwoc7IeKEvfnZ8bYsUq1DCzdu73SWkwm1Q0Rm-vxCS2uBybOaAQ.mp4?_nc_cat=104&_nc_oc=AdpFfrDQSnXULrGO16kGZWvRlq_xPQEX9hyyZjFjHHVkrIEj7mplFsepiiEmKzturds&_nc_sid=5e9851&_nc_ht=instagram.fccu1-2.fna.fbcdn.net&_nc_ohc=uVWMrV8FkkQQ7kNvwHGBBWF&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwOTY3NDEzMDI0ODA1MzMsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MjcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=1976366026bf853f&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC85QzQ0QzI4RThFOTM0REQwODNDRDgzRjc3QkExMUU2MV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0U0QjQ1RjNCM0U5NjQ0OUFBQzBCOTlEMDBCMTgzMDIyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaquunO_bilQBUCKAJDMywXQDs6HKwIMScYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=n7OiomukaGUVFuYJmri7Iw&_nc_ss=70580&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSCtxGEgA8MQaDMcksWpXu14Z3LN5YEld8vZG7FL4cxGg&oe=6AE8DE8D,"Coppock Curve Trading Strategy (Backtest & Rules) 
+
+If you are interested in Rule-Based Trading, we would love to have you in our Skool community (Link in bio)",quantifiedstrategies,Quantified Strategies
+30,DfHpVoblF8f,https://www.instagram.com/p/DfHpVoblF8f/,4019362998879805215,2026-10-30 13:03:49,2026-10-30 18:33:49,Carousel (Sidecar),False,6,4,4,"#200daymovingaverage, #tradingstrategies, #sp500, #quantifiedstrategies",0,,,,,https://instagram.fccu1-2.fna.fbcdn.net/v/t39.30808-6/862953712_1134459345768790_5802571317718276071_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=NDAxOTM2Mjk3NzYxNDcwNTQ5Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTEyMi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=RT30Fb2wd1EQ7kNvwEZZ5uH&_nc_oc=Adox9pM-9VO1grn5MyfOpslk8K4sEyO2zxZ1sniTcOK1Bgj8SP_K04opXHh_Qcmt7bs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fccu1-2.fna&_nc_gid=GIoJHYDRnuvR0nllsiDWRA&_nc_ss=7320f&oh=00_AQSvKgH5_1uLcyEUX3fu1pCzBQkt2jUO808Jl5nichYwGA&oe=6AECC50D,,"🚨 The 200-Day Moving Average Strategy could change how you approach the stock market. Are you missing one of the simplest rule-based trading strategies?
+
+What if just TWO rules could help you navigate market trends without relying on emotions or predictions? 📈
+
+Our S&P 500 backtest explores a simple trend-following strategy:
+
+✅ BUY when the S&P 500 closes above its 200-day moving average.
+
+✅ EXIT when the S&P 500 closes below its 200-day moving average.
+
+📊 Starting with $100,000 in 1960, our historical example shows an ending equity of $307,742.
+
+But here's the catch: Even simple trading systems come with risks, including whipsaws, false signals, and periods of underperformance.
+
+Swipe through all 6 slides to discover the rules, backtest results, equity curve, and key takeaways.
+
+🔗 Want more data-driven trading strategies? Join our Skool community for backtests, systematic trading education, and actionable trading rules. Link in bio!
+
+ABOUT QUANTIFIED STRATEGIES
+
+Quantified Strategies is run by Håkan Samuelsson and Oddmund Groette, two former proprietary traders with over 25 years of hands-on market experiences.
+
+Since 2012, we have published evidence-based market research, backtested trading strategies, and educational resources for systematic traders. Our research reaches millions of readers, our newsletter has 25,000+ subscribers, and our trading books have sold 30,000+ copies.
+
+#200DayMovingAverage #TradingStrategies #SP500 #QuantifiedStrategies",quantifiedstrategies,Quantified Strategies
+31,DfHnvZgjYgO,https://www.instagram.com/p/DfHnvZgjYgO/,4019355973470488590,2026-10-30 12:49:51,2026-10-30 18:19:51,Carousel (Sidecar),False,6,1,7,"#qqqtrading, #rsistrategy, #backtesting, #quantifiedstrategies, #systematictrading, #algotrading, #vwap",0,,,,,https://instagram.fccu1-2.fna.fbcdn.net/v/t51.82787-15/880214311_18096739385480533_5413629585782340103_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ig_cache_key=NDAxOTM1NTk2MTEwNTY1NTE1OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTEyMi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Q75O9jReZkgQ7kNvwEtguV7&_nc_oc=Adq3K__e7GPnBsCCBWImQFyrWDxhWN03M-kw15scER0s4b7bEikwcsOjWlF4qVEPLYc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fccu1-2.fna&_nc_gid=DdLv0bWHJtjBjEzE3abwrw&_nc_ss=7320f&oh=00_AQQmSo3Z1EZVF5rgjbk1miTnjQpBPsKIobQKqh6-9wqjng&oe=6AECD6CF,,"The RSI + EMA + VWAP strategy delivered a 3.54 profit factor and a 79.5% win rate in our QQQ backtest. Three simple indicators produced stronger historical results together than RSI alone.
+
+📌 THE 3 FILTERS
+
+1️⃣ RSI: Identifies short-term momentum and oversold conditions.
+
+2️⃣ EMA: Filters trades based on the broader price trend.
+
+3️⃣ Rolling VWAP: Compares QQQ's price with recent volume-weighted pricing.
+
+The goal? Combine momentum, trend, and price location to filter out weaker trading signals.
+
+📊 BACKTEST RESULTS
+
+✅ 215 trades
+✅ 79.5% win rate
+✅ 3.54 profit factor
+✅ 0.94% average gain per trade
+✅ 9.1% maximum drawdown
+✅ $202,507 cumulative profit
+
+📈 WHY IS THIS INTERESTING?
+
+RSI alone performed worse in this historical test. Adding EMA and VWAP produced more selective entries, a higher profit factor, and better overall results.
+
+BUT IS 215 TRADES ENOUGH?
+
+A strategy doesn't need to trade every day to be useful. A lower-frequency system can still add value to a portfolio when combined with other strategies that have different return drivers and low correlations.
+
+Portfolio performance matters more than trade count alone.
+
+THE BIGGER LESSON
+
+More indicators don't automatically mean better strategies. Extra filters can also lead to overfitting.
+
+The real test is whether the logic remains robust on unseen data and after realistic trading costs.
+
+Historical performance does not guarantee future results.
+
+👉 More rule-based strategies, code, and backtests in our Skool community. Link in bio.
+
+ABOUT QUANTIFIED STRATEGIES
+
+Founded by former proprietary traders Håkan Samuelsson and Oddmund Groette, we've published systematic trading research since 2012. Our newsletter has 25,000+ subscribers, and our trading books have sold 30,000+ copies.
+
+#QQQTrading #RSIStrategy #Backtesting #QuantifiedStrategies #SystematicTrading #AlgoTrading #VWAP",quantifiedstrategies,Quantified Strategies
+32,DfHlmnfner3,https://www.instagram.com/p/DfHlmnfner3/,4019346573918857975,2026-10-30 12:31:29,2026-10-30 18:01:29,Video / Reel,True,4,3,2,"#backtesting, #rulebasedtrading",0,,,,,https://instagram.fccu1-2.fna.fbcdn.net/v/t51.82787-15/878071359_18096736505480533_1146460916965489410_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=NDAxOTM0NjU3MzkxODg1Nzk3NTE4MDk2NzM2NDk5NDgwNTMz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcxNi5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=JCjHduCoAtkQ7kNvwH67muR&_nc_oc=Adr4zFriANpsLIxKaWZcY7f4utf6xVYptlRwIDIEbrLPKzyr_bqH8_I4hcnsKaADzZE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fccu1-2.fna&_nc_gid=zi8r8ZHfcE46JUlMzXBCig&_nc_ss=7320f&oh=00_AQT2zWx5Z1DiRQwXmNaD5auU7jpATBGDKFNeqbL7JbEaNw&oe=6AECC169,https://instagram.fccu1-2.fna.fbcdn.net/o1/v/t2/f2/m86/AQM8qd1fFaYWLA0dfr_Zf4by-hGPxFBXBm_bbFkOsw9938tfdj5nmnHgsNQZXkm-2uUD54epDGq5FsauSQst8xA8x--45znZPpPeDio.mp4?_nc_cat=101&_nc_oc=AdrvSONJ5JJw8d4bwjIk9QgRBMI0W-RhdV1Ax0we5Ooxti_8L-Ep82_Oh1vYxOnMnX0&_nc_sid=5e9851&_nc_ht=instagram.fccu1-2.fna.fbcdn.net&_nc_ohc=r5iHOEhwORsQ7kNvwGmsIcx&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzEyLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwOTY3MzYzNjE0ODA1MzMsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=778684a01c17fbc5&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8zQjMwQjZEODhFRTg0QTI0Qjg0MTVCNDhGODA0MUUxOV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzU5MTZDQUIzMUYzNzQ1QUE5MkM5MTkxNzEyMTRDMjU3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaqhdzm2LilQBUCKAJDMywXQCgAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=zi8r8ZHfcE46JUlMzXBCig&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_ss=70580&oh=00_AQS5h00vrGDzrVtmYNQG3UbuwNcRCHresSKbvpCk0StM3w&oe=6AE8C1FE,"📈 Why Backtesting Changes Everything: Trade Evidence Over Emotion
+It is easy to believe in a trading idea when looking at a cherry-picked chart. But before putting real capital at risk, you must ask: How does the strategy perform across years of diverse market conditions? Backtesting provides objective, evidence-based answers.
+
+📌 5 Essential Evaluation Metrics
+Entry Rules: Precise, objective conditions that trigger a position.
+
+Exit Rules: Pre-defined mechanics for taking profits or cutting losses.
+
+Win Rate: The historical percentage of winning trades versus losing trades.
+
+Risk vs. Reward: Average profit per winning trade relative to average loss per losing trade.
+
+Maximum Drawdown: The largest peak-to-trough decline during the backtest period.
+
+🔍 Key Lessons for Systematic Portfolio Managers
+Portfolio Contribution First: Strategy quality isn't measured by high trade frequency. Low-frequency setups that experience drawdowns at different times provide high diversification value.
+
+Data-Driven Execution: Testing rules against historical market data eliminates emotional decision-making, revenge trading, and discretionary guesswork.
+
+Out-of-Sample Incubation: Monitor unchanged strategy rules on fresh, live market data for 3 to 6 months prior to committing real capital.
+
+💡 Key Takeaway
+Backtesting does not guarantee future profitability, but it lays the foundation for disciplined risk management. Test your assumptions, measure the downside, and let quantitative evidence guide your capital allocation.
+
+ABOUT QUANTIFIED STRATEGIES
+
+Run by former proprietary traders Håkan Samuelsson and Oddmund Groette, Quantified Strategies has published evidence-based research and backtested strategies since 2012. Our newsletter has 25,000+ subscribers, and our trading books have sold 30,000+ copies.
+
+🚀 Want a more disciplined, evidence-driven trading approach?
+
+Join our Skool community for backtested strategies, quantitative research, and systematic risk management.
+
+👉 Link in bio!
+
+#Backtesting #RuleBasedTrading",quantifiedstrategies,Quantified Strategies
+33,DfHgUfTDdEI,https://www.instagram.com/p/DfHgUfTDdEI/,4019323337935016200,2026-10-30 11:45:01,2026-10-30 17:15:01,Single Photo,False,4,1,0,,0,,,,,https://instagram.fccu1-2.fna.fbcdn.net/v/t51.82787-15/879780544_18096730670480533_3866330877504194876_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ig_cache_key=NDAxOTMyMzMzNzkzNTAxNjIwMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTAyNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=9WtoXXXiKRgQ7kNvwHaSi3A&_nc_oc=AdrEn5vXb1dts5gEWuLPsbty2eMnB2k7OGQwmHQ1xUhLAXZAfE3elzwBrE2ZDFd4nrY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fccu1-2.fna&_nc_gid=zIZ70-fjB16rHX2XbbHVxQ&_nc_ss=7320f&oh=00_AQT0lisPfoOlosZc3iJ-nd3ISf0lxeu3xrI_39NsUgaygg&oe=6AECB398,,"Can you learn backtesting in 30 days? Probably not. 😄
+
+But here are 30 things worth thinking about along the way. Just a fun visual, not a step-by-step course.",quantifiedstrategies,Quantified Strategies
+34,DfHevHJDWxF,https://www.instagram.com/p/DfHevHJDWxF/,4019316371330264133,2026-10-30 11:31:28,2026-10-30 17:01:28,Video / Reel,True,3,1,2,"#williamspercentr, #rulebasedtrading",0,,,,,https://instagram.fccu1-2.fna.fbcdn.net/v/t51.82787-15/877507659_18096729182480533_4355835239816321845_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=NDAxOTMxNjM3MTMzMDI2NDEzMzE4MDk2NzI5MTc5NDgwNTMz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcxNi5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=TlF_brcEiPcQ7kNvwElLG5t&_nc_oc=Adoo0cRqOaabBXFMU5SERMgn9ikjtjbv-XLA9VitbulSRArkBqZxiOd6bbcAJ8gJR3I&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fccu1-2.fna&_nc_gid=DZKY4N8bFNjkhg2RZ4wsZg&_nc_ss=7320f&oh=00_AQTvSW4Hb5b9peOvSxjPBGpfY2kzodfcbM6VwYiZl5HW3g&oe=6AECCE34,https://instagram.fccu1-2.fna.fbcdn.net/o1/v/t2/f2/m86/AQMOrcJhc_ZejmCkDu4EYeU752M6kmTvS_7F2by6DSvaFfw8NPuCU3_uoHsRlVSnZVJG0wKM6grt3MCTG1MF79c32I0C-JvMMNPukkA.mp4?_nc_cat=106&_nc_oc=Adpe2Mx7tMDKAcNjSEuywNRgFla92wkD3p1rgYsJj-sfShRG4vld4IqHzplSuBn3GY4&_nc_sid=5e9851&_nc_ht=instagram.fccu1-2.fna.fbcdn.net&_nc_ohc=WoC7iwvJGx4Q7kNvwELScY_&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzEyLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwOTY3MjkwMzU0ODA1MzMsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=d01cb8151843b4b3&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9FRjRFRjRDNzk1MkQ0MEY3OTkxMDg2RTMwNTNDMUQ2Nl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzM1Rjk4Q0QyQzYxNzRGQjBCRjEzQzlFOUFDN0UyRkZFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaq94ycorilQBUCKAJDMywXQCgAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=DZKY4N8bFNjkhg2RZ4wsZg&_nc_ss=70580&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSv9MB8-ktXjpM7joovTWRrSy6lSqvaFG8btU4ZCahLnQ&oe=6AE8CF93,"🚨 Williams %R Strategy: 95/101 Nasdaq Stocks Show Profit Factor > 1
+Can a simple 2-period Williams %R setup show a broad historical mean-reversion edge? We backtested identical rules across 101 Nasdaq-100 stocks using ~10 years of daily data with zero stock-specific optimization.
+
+📌 Strategy Setup & Execution
+Indicator: Williams %R with 2-period setting.
+
+Entry Signal: Buy at the market close when Williams %R closes below -90 (closing near bottom of 2-day range).
+
+Exit Signal: Close at market close when price exceeds yesterday's high OR Williams %R rises above -30.
+
+📊 Historical Backtest Highlights (101 Nasdaq-100 Stocks)
+Overall Breadth: 95 / 101 stocks achieved a Profit Factor > 1.0.
+
+High Efficiency: 58 stocks > 1.5 Profit Factor; 26 stocks > 2.0 Profit Factor.
+
+Median Stats: 1.57 Profit Factor | 66.5% Win Rate | 0.64% Avg Gain per trade.
+
+Top Performers:
+
+Apple (AAPL): 3.08 Profit Factor | 72.1% Win Rate | 1.19% Avg Gain (165 trades).
+
+Microsoft (MSFT): 3.03 Profit Factor.
+
+Monolithic Power Systems (MPWR): 1.80% Avg Gain per trade.
+
+🔍 Key Lessons for Systematic Traders
+Broad Robustness: Consistency across 95% of an index proves a robust underlying behavioral edge rather than isolated curve-fitting.
+
+Close Execution Critical: Delaying entries to the next open degraded Profit Factor in 78 of 101 stocks (Apple was a rare exception, rising to 3.36).
+
+Research Caveats: Index constituent backtests carry survivorship bias—always adjust for historical index changes, commissions, and slippage.
+
+💡 Key Takeaway
+Short-term range compression identified by Williams %R(2) creates a powerful, widespread mean-reversion edge across mega-cap tech stocks.
+
+ABOUT QUANTIFIED STRATEGIES
+
+Run by former proprietary traders Håkan Samuelsson and Oddmund Groette, Quantified Strategies has published evidence-based research and backtested strategies since 2012. Our newsletter has 25,000+ subscribers, and our trading books have sold 30,000+ copies.
+
+🚀 Want a more disciplined, evidence-driven trading approach?
+
+Join our Skool community for backtested strategies, quantitative research, and systematic risk management.
+
+👉 Link in bio!
+
+#WilliamsPercentR #RuleBasedTrading",quantifiedstrategies,Quantified Strategies
+35,DfHT9Kzlguq,https://www.instagram.com/p/DfHT9Kzlguq/,4019268958826138538,2026-10-30 09:56:58,2026-10-30 15:26:58,Carousel (Sidecar),False,10,2,4,"#spytrading, #backtestedstrategies, #systematictrading, #quantifiedstrategies",0,,,,,https://instagram.fccu1-2.fna.fbcdn.net/v/t39.30808-6/878366451_1134283279119730_7289115855663788571_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ig_cache_key=NDAxOTI2ODkzNjQzNjk0MTAxNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTEyMi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Rd07DYa5Q-0Q7kNvwHa9YRM&_nc_oc=AdrrfYvi1McR8SNVnc-fs68kIsJC1WelKaWWzlDFvfzZU9nwT3VNY0OY39oISYhg5U8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fccu1-2.fna&_nc_gid=QGDr2lpdJav17mjmBrY7Rg&_nc_ss=7320f&oh=00_AQQo2SGguOWOoCDoWvRPGeKP7d6H0waIuRAfHb1LMluaSQ&oe=6AECC11B,,"A simple SPY intraday strategy with a 75% historical win rate? Sometimes the most interesting trading edges come from combining simple market conditions.
+
+This rule-based trading setup has been backtested using historical data going back to 1998.
+
+The carousel highlights:
+✅ 75% historical win rate
+✅ 2.3 profit factor
+✅ 23% maximum drawdown
+✅ A long-term equity curve showing historical growth
+
+The key lesson? You don't always need complicated indicators. Sometimes, the advantage comes from waiting for several simple conditions to align.
+
+We also believe a strategy doesn't need to trade every day to deserve a place in a portfolio. What matters is how different trading edges work together, especially during drawdowns.
+
+Before committing capital, we aim to monitor strategies with unchanged rules on new data, often for 3–6 months or longer. Historical performance is never a guarantee of future results.
+
+ABOUT QUANTIFIED STRATEGIES
+Quantified Strategies is run by Håkan Samuelsson and Oddmund Groette, two former proprietary traders with over 25 years of hands-on market experiences.
+
+Since 2012, we have published evidence-based market research, backtested trading strategies, and educational resources for systematic traders. Our research reaches millions of readers, our newsletter has 25,000+ subscribers, and our trading books have sold 30,000+ copies.
+
+Want more practical trading ideas? Subscribe to our Substack, Quantified Strategies, for backtested trading strategies, evidence-based market research, and insights into systematic and rule-based trading.
+
+Find the subscription link in our bio!
+
+#SPYTrading #BacktestedStrategies #SystematicTrading #QuantifiedStrategies",quantifiedstrategies,Quantified Strategies
+36,DfG_vcNCvnC,https://www.instagram.com/p/DfG_vcNCvnC/,4019180054503946690,2026-10-30 07:00:20,2026-10-30 12:30:20,Carousel (Sidecar),False,9,2,4,"#rulebasedtrading, #tradingstrategies, #backtesting, #quantifiedstrategies",0,,,,,https://instagram.fccu1-2.fna.fbcdn.net/v/t39.30808-6/876210255_1134170842464307_1849963273072166175_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=NDAxOTE3OTk5MTA4NjAwOTUwOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTEyMi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=boPKDiY7p1sQ7kNvwF6MQ2Y&_nc_oc=AdpvkQWri-e6lcnyBqUYKWdveOtYsz_ly9PDV7WtS4BAp4XV__1b5pINyePAMb8tsVo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fccu1-2.fna&_nc_gid=sbxpiFHlwdNxgGvVNr6UgA&_nc_ss=7320f&oh=00_AQTsoDGpbBh7ibzxfDp1ecV0s3pyCluTjwhZRrUUbAwf-w&oe=6AECCE6D,,"🚨 20 Rule-Based Trading Strategies You Don't Want to Miss! 📈
+
+What if your next trading edge is hiding in a strategy you've never tested?
+
+We've analyzed 20 rule-based trading strategies, including mean reversion, momentum, and intraday setups, to uncover what historical backtesting reveals.
+
+📊 Here are some standout results:
+
+✅ Williams %R — 76.4% win rate | 2.61 profit factor
+
+✅ Fibonacci Reversal — 83.87% win rate
+
+✅ Seasonal ROC/ROC — 8.17 profit factor
+
+✅ Morning Momentum Long — 64.4% win rate | 3.01 profit factor
+
+✅ IBS Mean Reversion — 73.1% win rate | 631 trades
+
+These aren't predictions or guaranteed profits. They're historical backtest results that show why systematic trading, clear entry rules, and data-driven decision-making matter.
+
+👉 Swipe through all 6 slides to explore the strategies, trading indicators, entry conditions, and performance statistics.
+
+💡 Stop guessing. Start testing.
+
+ABOUT QUANTIFIED STRATEGIES
+
+Quantified Strategies is run by Håkan Samuelsson and Oddmund Groette, two former proprietary traders with over 25 years of hands-on market experiences.
+
+Since 2012, we have published evidence-based market research, backtested trading strategies, and educational resources for systematic traders. Our research reaches millions of readers, our newsletter has 25,000+ subscribers, and our trading books have sold 30,000+ copies.
+
+🚀 Want more rule-based trading strategies?
+
+Join our Skool community for trading research, proven backtesting methods, strategy ideas, educational resources, and a community of systematic traders.
+
+🔗 Join today — link in bio!
+
+#RuleBasedTrading #TradingStrategies #Backtesting #QuantifiedStrategies",quantifiedstrategies,Quantified Strategies
+37,DfFfmtGgU_L,https://www.instagram.com/p/DfFfmtGgU_L/,4018757241707515851,2026-10-29 17:00:40,2026-10-29 22:30:40,Video / Reel,True,3,0,0,,0,,,,,https://instagram.fccu1-2.fna.fbcdn.net/v/t51.82787-15/868288508_18096622058480533_8700103607943490438_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ig_cache_key=NDAxODc1NzI0MTcwNzUxNTg1MTE4MDk2NjIyMDUyNDgwNTMz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEwODAuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=pafuQS27_7kQ7kNvwHNs1aP&_nc_oc=AdowpAvW3ohaZmwIgLwqcoNnjcbdfvw37JS3ZVyRRK8YJ1Y7WhbPJhidRyHJLdZzvZY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fccu1-2.fna&_nc_gid=VdnyiujwQj8gRncBbErbPg&_nc_ss=7320f&oh=00_AQQCsbIVp_2dZwWL0rvT2kMKFgJMCfA2voJvwR_bYEwosg&oe=6AECC3E3,https://instagram.fccu1-2.fna.fbcdn.net/o1/v/t2/f2/m86/AQMwiOS3ooEtHCho8gBk54FXd56ZBHv5iKPGARiMXZPwHRhA0oEdCgBhfjU2OKfzVoryx1jq0i92zYSHfAyp8OBrtrLUEx9C0yVkI9k.mp4?_nc_cat=103&_nc_oc=AdpFoMQ9qeo_XSWDT2W1yWvgg_Nk-G0rDYKxtfqtZxjwT1cu6XfL46NqC_5rZOEAjuI&_nc_sid=5e9851&_nc_ht=instagram.fccu1-2.fna.fbcdn.net&_nc_ohc=SVHgXYF7VTgQ7kNvwH1K0w0&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwOTY2MjE4MTg0ODA1MzMsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MjYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=e668acc8b03ea863&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9FNjVDMzlBNTU5MTI0Q0IwODEyMEJFRTQzNjk1RUU2MF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0FGMkI5NzEyNjg0RDREM0I5NjI0REMyNTMwOTA1MkY5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaqnoCyg7KlQBUCKAJDMywXQDoo9cKPXCkYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=VdnyiujwQj8gRncBbErbPg&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_ss=70580&_nc_enc=UoyuKMuteomIKkCXPwBmgkCsKDUiiGj8L5_DxgqtOgcgJXoEgi8UmY2WToFPVJhgBQ3Jtiae4gtfTGxwR4UaExmXiMOWxfMUum7XehtSIRnBieLU1_LM-kw3eaI&oh=00_AQSgPjaBnfLk3cC612dryT8jktlIO8VKIdVZWobHFehyrg&oe=6AE8C370,"Warren Buffet 1962 Interview
+
+If you are interested in Rule-Based Trading, we would love to have you in our Skool community (Link in bio)",quantifiedstrategies,Quantified Strategies
+38,DfFcRbgiURp,https://www.instagram.com/p/DfFcRbgiURp/,4018742585568347241,2026-10-29 16:31:15,2026-10-29 22:01:15,Video / Reel,True,6,1,2,"#goldtradingstrategy, #backtestedstrategies",0,,,,,https://instagram.fccu1-2.fna.fbcdn.net/v/t51.82787-15/870286504_18096617441480533_8338541232351015848_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ig_cache_key=NDAxODc0MjU4NTU2ODM0NzI0MTE4MDk2NjE3NDM4NDgwNTMz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcxNi5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=03_oKOXgCGcQ7kNvwGP6THK&_nc_oc=AdpBwbYXHoCfrsdrh1F5riemyvNlkreFgx2jw22XIiXppVkR79jH-78FeozapCZReqU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fccu1-2.fna&_nc_gid=kMjDBdB0cBWSNVVN7hSTNw&_nc_ss=7320f&oh=00_AQQht6h2tybRFtZuQcThersuPnFn83kmWRTE3WAon1PJkA&oe=6AECD62F,https://instagram.fccu1-2.fna.fbcdn.net/o1/v/t2/f2/m86/AQMZKafGsQnp-qbzQk2fWJPExQLYHKmfeQg1jBH0WR_p4RmPovqkmA8Vmus5YufM5uVT3thT0hf7INkd_qYyuvNLCTW6gFbhyuDDh-U.mp4?_nc_cat=110&_nc_oc=AdpxNAB2h3Qa-CLdz-BQvLkk_mqwWrKJ3nz5iBJkNQHOcPIWqmkCPLnLzdFMP3wMCOs&_nc_sid=5e9851&_nc_ht=instagram.fccu1-2.fna.fbcdn.net&_nc_ohc=kcnNAH_p65gQ7kNvwFPXFM9&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzEyLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwOTY2MTczMDY0ODA1MzMsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=620587e0034b5b4e&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC82MjNBNkZDQUREQTk0ODI5ODZBNzlBMDUwNzg2RUI5QV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzFCOEVGNDc3Nzc4QzRGQ0Q5RDMyRUNEQjExQUVDRjY4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaq_oLj4bGlQBUCKAJDMywXQCgAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=kMjDBdB0cBWSNVVN7hSTNw&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_ss=70580&oh=00_AQSiMuXEgrUymLBQEr6XvCFbFOXO7N-teFXV-NnXSnbKYg&oe=6AE8C5FB,"🥇 3-Day Gold Strategy: High Efficiency with 7.36% Exposure
+Can a gold strategy generate consistent returns while sitting in cash over 92% of the time? This short-term setup proves that market exposure time matters more than trade frequency.
+
+📊 Historical Backtest Performance
+
+Total Completed Trades: 203
+Win Rate: 62%
+Average Gain / Trade: 0.35%
+Profit Factor: 1.97
+Annualized Return (CAGR): 3.22%
+Maximum Drawdown: 9.85%
+Market Exposure: 7.36% (Average trade duration: ~3 days)
+
+🔍 Key Lessons for Systematic Traders
+Extreme Capital Efficiency: Staying out of the market 92.64% of the time drastically reduces capital lockup and overnight tail-risk exposure.
+
+Portfolio Synergies: Low-exposure gold strategies free up margin to deploy across non-correlated equities and momentum models during inactive windows.
+
+Drawdown Containment: Keeping max drawdown under 10% provides exceptional risk-adjusted stability for multi-asset portfolios.
+
+Forward Incubation: Monitor frozen rules on live data for 3 to 6 months prior to capital allocation to verify out-of-sample edge stability.
+
+💡 Key Takeaway
+You don't need continuous market presence to extract profits. Short holding windows with strict parameters deliver high efficiency while keeping capital available for other edges.
+
+ABOUT QUANTIFIED STRATEGIES
+
+Run by former proprietary traders Håkan Samuelsson and Oddmund Groette, Quantified Strategies has published evidence-based research and backtested strategies since 2012. Our newsletter has 25,000+ subscribers, and our trading books have sold 30,000+ copies.
+
+🚀 Want a more disciplined, evidence-driven trading approach?
+
+Join our Skool community for backtested strategies, quantitative research, and systematic risk management.
+
+👉 Link in bio!
+
+#GoldTradingStrategy #BacktestedStrategies",quantifiedstrategies,Quantified Strategies
+39,DfFaMUClngH,https://www.instagram.com/p/DfFaMUClngH/,4018733437859297287,2026-10-29 16:12:59,2026-10-29 21:42:59,Carousel (Sidecar),False,13,3,4,"#tradingstrategies, #meanreversion, #backtesting, #systematictrading",0,,,,,https://instagram.fccu1-2.fna.fbcdn.net/v/t39.30808-6/874973861_1133627739185284_8345264090708312409_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ig_cache_key=NDAxODczMzQyMTY1MjUzNTA0MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTEyMi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Z783YBpYuiUQ7kNvwHphpik&_nc_oc=AdqTcu7BfEEti1h_5aTgtFa8HcBmEVS_wRuGBnqrXvMmcpI_I1BD0zb7Z0hFugSbXIg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fccu1-2.fna&_nc_gid=L2wuTq5aClkiRrCqMG_bEQ&_nc_ss=7320f&oh=00_AQTHpLMMLl-uuYtD-_4okrpGrow-kkoYcIpLJrzCicEb5g&oe=6AECC7F0,,"Larry Connors’ R3 Strategy is a simple mean reversion trading strategy, but does it still deserve a place in a systematic trading portfolio?
+
+Originally published in 2009, the R3 strategy uses just a few rules:
+
+✅ Price must close above its 200-day moving average.
+✅ The 2-day RSI must decline for three consecutive days, starting from a reading below 60.
+✅ The 2-day RSI must fall below 10.
+✅ Enter at the close when all conditions are met.
+✅ Exit at the close when the 2-day RSI rises above 70.
+
+Our historical SPY backtest shows a compounded equity curve growing from approximately $100,000 to $270,396 through 2020.
+
+These are historical backtest results, not a prediction of future returns.
+
+Here's what matters: a strategy doesn't need to trade every day to be useful.
+
+We combine different trading edges across markets and styles, focusing on how each strategy contributes to the overall portfolio. Strategies with different drawdown patterns may help smooth portfolio returns, although diversification cannot eliminate risk.
+
+Before allocating capital, we also prefer monitoring unchanged rules on fresh data.
+
+ABOUT QUANTIFIED STRATEGIES
+Quantified Strategies is run by Håkan Samuelsson and Oddmund Groette, two former proprietary traders with over 25 years of hands-on market experiences.
+
+Since 2012, we have published evidence-based market research, backtested trading strategies, and educational resources for systematic traders. Our research reaches millions of readers, our newsletter has 25,000+ subscribers, and our trading books have sold 30,000+ copies.
+
+Want more backtested trading strategies, evidence-based market research, practical strategy ideas, and systematic trading insights?
+
+Subscribe to our Substack, Quantified Strategies, through the link in bio.
+
+#TradingStrategies #MeanReversion #Backtesting #SystematicTrading",quantifiedstrategies,Quantified Strategies
+40,DfFVaQSCWqq,https://www.instagram.com/p/DfFVaQSCWqq/,4018712405663640234,2026-10-29 15:31:29,2026-10-29 21:01:29,Video / Reel,True,3,0,2,"#triplersi, #algorithmictrading",0,,,,,https://instagram.fccu1-2.fna.fbcdn.net/v/t51.82787-15/874884241_18096607868480533_1979466038813358032_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=NDAxODcxMjQwNTY2MzY0MDIzNDE4MDk2NjA3ODY1NDgwNTMz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcxNi5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=ST_7PW7bgCMQ7kNvwENp_9U&_nc_oc=AdqZX9WYLVNZb3NAbcP13Lkmt2k7P9SQcvS_OT5TuZAbkEdKCPIMUtNjX1jgX3tVKdY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fccu1-2.fna&_nc_gid=5EuDtHDfqIHtm-nsPYV2gw&_nc_ss=7320f&oh=00_AQSmaM6oyQ2egbpOWCiD7NbJty3K3pPYXhtW9Fqb_-HR_g&oe=6AECA74E,https://instagram.fccu1-2.fna.fbcdn.net/o1/v/t2/f2/m86/AQMi71nxkdKievJYWBYLRC3EjACaHUympta5GEkZVky7a3x7jsZbBNgtRDG0FQLlglKpYAigsutycWzzc7KQha5C7C2_XgNQizqK8F0.mp4?_nc_cat=103&_nc_oc=Adq9qpdw4sMaOIB30Og0MesgOLAk-tKhIxQYxgcksBy-xrBD88xP52wlYDjM6dvPP90&_nc_sid=5e9851&_nc_ht=instagram.fccu1-2.fna.fbcdn.net&_nc_ohc=aWa7-HU_JuYQ7kNvwGrSw5C&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzEyLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwOTY2MDc3MTU0ODA1MzMsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=a8a0495cd9042231&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC84MTgyNDhGRkE2MDU0NjE0OUMwQzJGREQwNjNFNkM1OV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0YxRDU0NjBGMzQ3ODQ4MkZBQjJDMjVGQzZGNDE1QTVEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaqz6qomrGlQBUCKAJDMywXQCgAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=5EuDtHDfqIHtm-nsPYV2gw&_nc_ss=70580&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTF2NYDiQtIl8JUXYRo16JhzVyOSO3JS-AVquLPFElbJQ&oe=6AE8B3AC,"🚨 Triple RSI Strategy: 90% Historical Win Rate
+
+A modified Triple RSI mean-reversion setup delivered a 90% historical win rate trading SPY. How do these rules capture high-probability S&P 500 rebounds, and what should systematic traders keep in mind?
+
+📌 Strategy Setup & Rules
+Trend Filter: Closing price must be above its 200-day moving average.
+
+RSI Conditions:
+
+5-day RSI is below 30.
+5-day RSI has declined for 3 consecutive days.
+5-day RSI was below 60 three trading days ago.
+Entry: Buy SPY at the market close when all conditions align.
+Exit: Sell at the market close when 5-day RSI crosses above 50.
+
+📊 Historical Backtest Performance (1993–Present)
+Market: SPY (S&P 500 ETF)
+
+Historical Win Rate: 90%
+Total Completed Trades: 83
+Average Gain Per Trade: 1.40%
+Equity Curve Profile: Steady long-term upward growth
+
+🔍 Key Lessons for Systematic Traders
+Trend + Extreme Oversold: Combining a long-term trend filter (200-day MA) with strict multi-day RSI weakness produces exceptionally high-win-rate setups.
+
+Low Trade Frequency: Firing only 83 trades across 30+ years means capital remains liquid for other portfolio strategies most of the time.
+
+Execution Realism: Always account for transaction costs, slippage, and drawdown duration—a 90% win rate does not eliminate risk.
+
+💡 Key Takeaway
+Filtering for consecutive RSI weakness during structural bull trends creates a potent mean-reversion edge. Evaluate low-frequency setups by how effectively they deploy capital into high-conviction windows.
+
+ABOUT QUANTIFIED STRATEGIES
+
+Run by former proprietary traders Håkan Samuelsson and Oddmund Groette, Quantified Strategies has published evidence-based research and backtested strategies since 2012. Our newsletter has 25,000+ subscribers, and our trading books have sold 30,000+ copies.
+
+🚀 Want a more disciplined, evidence-driven trading approach?
+
+Join our Skool community for backtested strategies, quantitative research, and systematic risk management.
+
+👉 Link in bio!
+
+#TripleRSI #AlgorithmicTrading",quantifiedstrategies,Quantified Strategies
+41,DfFR5hHobIx,https://www.instagram.com/p/DfFR5hHobIx/,4018696961860416049,2026-10-29 15:01:45,2026-10-29 20:31:45,Video / Reel,True,30,0,0,,0,,,,,https://instagram.fccu1-2.fna.fbcdn.net/v/t51.82787-15/870930250_18096603218480533_8220030586103764444_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=NDAxODY5Njk2MTg2MDQxNjA0OTE4MDk2NjAzMjEyNDgwNTMz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjE5MjAuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=jujyZ18_7z0Q7kNvwEMOD7H&_nc_oc=AdplSSz-lRquqhRdv7DVGz_wpSHAZYp8FqN7-qVRFc57nbLlxp2RcT430paqBNeQLFA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fccu1-2.fna&_nc_gid=EL8KF4TeNwWJQzcrRjdBQA&_nc_ss=7320f&oh=00_AQTEMlZ17WC0Hf1HiNiaAjIYmTKg0ARTIwn0vB78hHf1rg&oe=6AECD8FA,https://instagram.fccu1-2.fna.fbcdn.net/o1/v/t2/f2/m86/AQO6s4YhcuJZvGjXC8jRK5NY6feWJ46RGmONS5SV0JlsU7KOtRG_Dhdby3ajJHrL2xgSuC-nw5ob_clhcdS4GrY5Ig3Fu5Br4I7ZEw0.mp4?_nc_cat=102&_nc_oc=AdoSZDtmRkBfY_XsEvQu9zsAyPeyRJarmuqj-e-TD0rOE7eLDxkbsNOPJMsYXYw_1sI&_nc_sid=5e9851&_nc_ht=instagram.fccu1-2.fna.fbcdn.net&_nc_ohc=uTspZoCSlcsQ7kNvwEyRyu9&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuMTI4MC5kYXNoX2Jhc2VsaW5lXzFfdjEiLCJ4cHZfYXNzZXRfaWQiOjE4MDk2NjAyOTkwNDgwNTMzLCJhc3NldF9hZ2VfZGF5cyI6MiwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjI5OSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=ee76ac0ab690b653&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8yREM1NkJGN0Y2QUI0MjVFOTNBMDUzNDA0Qjc5MDg5Ql92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzM0MTdBNzU3NTRGNTQ2Q0Y4RTFBMEI2OUIzNjU4NjZGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaqspyO97ClQBUCKAJDMywXQHK1wo9cKPYYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=EL8KF4TeNwWJQzcrRjdBQA&_nc_ss=70580&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQS169b2YvYK6Akl8i1mWLIkFKYKtOALlmPmCrw9xIlCkg&oe=6AE8B8BF,"GLD Day Trading Strategy: A 2004–2026 Backtest
+
+Can a system that trades both long and short hold up when we test it with more realistic intraday execution? We examine the historical results, compare both sides, and explore what changes when daily signals face a tougher 5-minute test.
+
+If you are interested in Rule-Based Trading, we would love to have you in our Skool community (Link in bio)",quantifiedstrategies,Quantified Strategies
+42,DfFOid2lnW1,https://www.instagram.com/p/DfFOid2lnW1/,4018682183665743285,2026-10-29 14:31:27,2026-10-29 20:01:27,Video / Reel,True,2,0,2,"#tradingdiscipline, #rulebasedtrading",0,,,,,https://instagram.fccu1-2.fna.fbcdn.net/v/t51.82787-15/870985920_18096597083480533_2957536676094356622_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=NDAxODY4MjE4MzY2NTc0MzI4NTE4MDk2NTk3MDgwNDgwNTMz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcxNi5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=ai5oR1L91UIQ7kNvwE2DZ7r&_nc_oc=AdqH4U-OuGQu5w58b2EaRt9AGNYMGaemznnmQ8mwNJw7mXxeWUlPkC0E4CNKtq5MU7Y&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fccu1-2.fna&_nc_gid=g3CuZr5PazHVFct4Pe6KoQ&_nc_ss=7320f&oh=00_AQRV7gR9DzOcpoGGpMzwqHoTUXdSApJ8TOllokJ5tXnqZw&oe=6AECA913,https://instagram.fccu1-2.fna.fbcdn.net/o1/v/t2/f2/m86/AQPUjadDu8V2lSwNNMSbpVUJs48DwksSnO06bXEGXGxkJtNNMpMTCPbU26ovifiXFjeisNuNljVMQG3xedCAZxNrYAXwrjvSOaYbMRg.mp4?_nc_cat=100&_nc_oc=AdpsZkKctcP8f_4prNtvIBI7hIqqE_YXRP8uA0BI_VoVVX3arY829S_My4MGingJsck&_nc_sid=5e9851&_nc_ht=instagram.fccu1-2.fna.fbcdn.net&_nc_ohc=84RKUgzY2lAQ7kNvwGq69Ld&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzEyLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwOTY1OTY4Njc0ODA1MzMsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=689933bf3ab30873&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC84RjMyNEQ0RUMxMTA0RUQxODc5NzNGRUQyRTlBRDA0NV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0ZCMkFDOERGRDM4MjRFMDk5NzAzQUZGRTk0OTBBNDI0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaq7---ybClQBUCKAJDMywXQCgAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=g3CuZr5PazHVFct4Pe6KoQ&_nc_ss=70580&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRXbTcfbI9y0YnTaPrbaP4u5zZWenufjUfltFSdi-Mgew&oe=6AE8DEED,"⚔️ Bill Dunn: The Market Is a Battlefield
+
+Trading discipline starts long before you place an order. As legendary trend follower Bill Dunn famously stated: ""The market is a battlefield; you must be prepared for the fight."" Success is not about constant action, but rigorous preparation and process control.
+
+📌 6 Core Rules of Market Preparation
+Capital Preservation: Prioritize risk management before evaluating potential upside.
+
+Pre-Defined Trade Rules: Establish exact entry, stop-loss, and profit target parameters prior to execution.
+
+Disciplined Position Sizing: Size every position based on portfolio volatility tolerances.
+
+Scenario Planning: Map out actions for market gap events, high volatility, and trending regimes.
+
+Emotional Detachment: Maintain process integrity during market fluctuations.
+
+Systematic Review: Log trades in a journal to evaluate execution quality over outcome.
+
+🔍 Key Lessons for Portfolio Managers
+Selective Edge: A strategy does not need high trade frequency to add value. Infrequent, non-correlated systems can significantly reduce overall portfolio drawdown.
+
+Out-of-Sample Validation: Incubate frozen rules on fresh market data for 3 to 6 months to verify execution mechanics before capital allocation.
+
+Control What You Can: You cannot control market direction, but you can strictly control your sizing, plan, and execution.
+
+💡 Key Takeaway
+Winning in trading is not about reacting emotionally to market noise. It requires pre-planned rules, strict risk control, and systematic execution.
+
+ABOUT QUANTIFIED STRATEGIES
+
+Run by former proprietary traders Håkan Samuelsson and Oddmund Groette, Quantified Strategies has published evidence-based research and backtested strategies since 2012. Our newsletter has 25,000+ subscribers, and our trading books have sold 30,000+ copies.
+
+🚀 Want a more disciplined, evidence-driven trading approach?
+
+Join our Skool community for backtested strategies, quantitative research, and systematic risk management.
+
+👉 Link in bio!
+
+#TradingDiscipline #RuleBasedTrading",quantifiedstrategies,Quantified Strategies
+43,DfFLAx8m-RZ,https://www.instagram.com/p/DfFLAx8m-RZ/,4018666674639856729,2026-10-29 14:01:16,2026-10-29 19:31:16,Video / Reel,True,29,2,2,"#tradingstrategy, #rsi",0,,,,,https://instagram.fccu1-2.fna.fbcdn.net/v/t51.82787-15/872105500_18096591152480533_7974717368495589960_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ig_cache_key=NDAxODY2NjY3NDYzOTg1NjcyOTE4MDk2NTkxMTQ5NDgwNTMz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyODAuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=6oSIG_aKw-sQ7kNvwFvL_ca&_nc_oc=AdoV2uax3j0KiftNDCtIFQ8mJc72gqAl46k5SvXAWmfzAq_Cx3MKBzKvWnEcULJ9uZk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fccu1-2.fna&_nc_gid=4STeEsAk7r_irMsxGAGn-w&_nc_ss=7320f&oh=00_AQT-nN_26j4MvupNi1A1MW6xSTH7P5-j5KnalQQS_8ocqg&oe=6AECC951,https://instagram.fccu1-2.fna.fbcdn.net/o1/v/t2/f2/m86/AQOWV0ekYa9zs7B4hllkfeQGvzOIw_1NUHbPpb7Ymjfb67KiDSdIwfZJJoMKTy-C2gIGlstQH1gYyCu3kHX2fDUAIiSxvTbG4ki5ByU.mp4?_nc_cat=106&_nc_oc=AdpRbJqiGC72IPRuCEl17mX7mGVAHeQp2ZsRLFoyte20HJPRYoMtyV3SXxoJ0bu13V4&_nc_sid=5e9851&_nc_ht=instagram.fccu1-2.fna.fbcdn.net&_nc_ohc=XBl01amGmZEQ7kNvwHkyov7&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuMTI4MC5kYXNoX2Jhc2VsaW5lXzFfdjEiLCJ4cHZfYXNzZXRfaWQiOjE4MDk2NTkwOTAzNDgwNTMzLCJhc3NldF9hZ2VfZGF5cyI6MiwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjMzNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=aef44036559dee28&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC85NEE3RjQ4N0I4NTk0MDJBQTEzNjg5QTVFQTA0MkFFNl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzIzQUE2RTJGODA0NzRDQzc5NEREMEM0QzRBNUI4MzQyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaqw5SHnbClQBUCKAJDMywXQHUCIMSbpeMYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=4STeEsAk7r_irMsxGAGn-w&_nc_ss=70580&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQuUsUOkdAwe0BdU5iMOwXrNQvlXyRkBIRRsYkMHjbGbg&oe=6AE8ADC7,"Magical RSI Trading Strategy (Backtest & Rules)
+
+If you are interested in Rule-Based Trading, we would love to have you in our Skool community. (Link in bio)
+
+#tradingstrategy #rsi",quantifiedstrategies,Quantified Strategies
+44,DfFJFh7Iz67,https://www.instagram.com/p/DfFJFh7Iz67/,4018658204939665083,2026-10-29 13:43:31,2026-10-29 19:13:31,Carousel (Sidecar),False,2,1,4,"#tradingdiscipline, #markminervini, #tradingpsychology, #quantifiedstrategies",0,,,,,https://instagram.fccu1-2.fna.fbcdn.net/v/t39.30808-6/870076313_1133507205864004_2171657603724065944_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=NDAxODY1ODE3NTU0NTk2ODQzOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTEyMi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=MauK22neBuMQ7kNvwEpfKHI&_nc_oc=Adot-Z3J7L6zNHtpLy776U8IWS_GWnIxUP06OA9S1T68IG1vhnLuzXtArP-0dHdE-WE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fccu1-2.fna&_nc_gid=BKmMrPyE752U5MMHP5iJvQ&_nc_ss=7320f&oh=00_AQRkfEZEXYJ2q27Tkq-wp-6orPUkmWzidXKRkmW1lenmDw&oe=6AECB1C7,,"🚨 STAY DISCIPLINED WHEN WINNING! Most traders focus on how to handle losses, but what happens when your winning streak becomes your biggest risk?
+
+Mark Minervini's trading discipline principles reveal why staying focused during a winning streak is just as important as managing losses.
+
+📈 Winning consistently requires more than a profitable strategy.
+
+✅ Avoid overconfidence after successful trades.
+✅ Stick to your proven trading rules.
+✅ Never increase risk just because you're winning.
+✅ Keep emotions out of trading decisions.
+✅ Follow your trading checklist and review every trade.
+
+The biggest trading mistakes often happen when confidence turns into complacency.
+
+Whether you're a beginner or an experienced trader, mastering trading psychology, risk management, and consistency can help you build better trading habits.
+
+💡 Remember: A winning streak doesn't replace a disciplined trading process.
+
+Save this carousel for your next trading session and share it with a trader who needs this reminder!
+
+ABOUT QUANTIFIED STRATEGIES
+
+Quantified Strategies is run by Håkan Samuelsson and Oddmund Groette, two former proprietary traders with over 25 years of hands-on market experiences.
+
+Since 2012, we have published evidence-based market research, backtested trading strategies, and educational resources for systematic traders. Our research reaches millions of readers, our newsletter has 25,000+ subscribers, and our trading books have sold 30,000+ copies.
+
+🚀 Want to trade with more discipline and confidence?
+
+Join our Skool community for practical rule-based trading education, research, backtested strategies, and support from like-minded traders.
+
+👉 Join today — link in bio!
+
+#TradingDiscipline #MarkMinervini #TradingPsychology #QuantifiedStrategies",quantifiedstrategies,Quantified Strategies
+45,DfFHrE0DthD,https://www.instagram.com/p/DfFHrE0DthD/,4018651988929468483,2026-10-29 13:31:15,2026-10-29 19:01:15,Video / Reel,True,4,1,2,"#daytradingstrategy, #crudeoiltrading",0,,,,,https://instagram.fccu1-2.fna.fbcdn.net/v/t51.82787-15/873850174_18096585143480533_5617355256408188797_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=NDAxODY1MTk4ODkyOTQ2ODQ4MzE4MDk2NTg1MTQwNDgwNTMz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcxNi5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=xH2w4-8i6KUQ7kNvwHtALxB&_nc_oc=AdpnMKx5fggm0_VrzhtRXtKxEgN8syUzuo3ujtXsGGoApuOn_Qw78SHGhmqw379MwXk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fccu1-2.fna&_nc_gid=nlR3EO8LcSVbIa0jPP1Fvg&_nc_ss=7320f&oh=00_AQQPyX33Pj0ny1nXBsIJCLao4IUOTQzduXxiC7H2PjIqtw&oe=6AECD524,https://instagram.fccu1-2.fna.fbcdn.net/o1/v/t2/f2/m86/AQNIls0BwiHO2jErG0akBu3vHVzQdpR3gDwudvXeGO6SsaeBzDXPHGK9XgqNux089NXZAyIdB20EGvnEJovYUUuDCxm3Bfjw-aEsHxc.mp4?_nc_cat=102&_nc_oc=AdrtIEIs6QUAo-THiOABn0WvDQgN1viDq9sG_92KomIPNudAiUevtwtFy-8rIH9CsJs&_nc_sid=5e9851&_nc_ht=instagram.fccu1-2.fna.fbcdn.net&_nc_ohc=tWhLyBMIiNYQ7kNvwHgUhkM&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzEyLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwOTY1ODQ5OTY0ODA1MzMsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=73ce248359080e3c&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9BNThGMENCMDQyMUE0RUM5OTZGMDcxODM2RDdFMDRCNF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0JCMjgxMUUxRjczOTQ2QzlBQzVFNDVGMTYyRkMzNTc2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaqmOeF8a-lQBUCKAJDMywXQCgAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=nlR3EO8LcSVbIa0jPP1Fvg&_nc_ss=70580&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQR4oTzSo06WBGAJ7SDRiLLOsnHCQTNSa1iNDobnezO62g&oe=6AE8AE87,"🛢️ WTI Crude Oil Price Action: 3 Lower Lows & 3 Lower Highs
+Price action patterns look compelling on a chart, but do they hold up under rigorous backtesting? We evaluated a systematic WTI Crude Oil setup using historical NYMEX futures data from 2000 to 2021.
+
+📌 Strategy Setup & Rules
+Market: WTI Crude Oil Futures (NYMEX)
+
+Pattern Setup: Identify a distinct short-term breakdown structure featuring 3 consecutive lower lows and 3 lower highs.
+
+Entry: Open a systematic position upon completion of the 3rd lower high/low structure.
+
+Exit: Execute pre-defined, objective intraday / systematic exit rules.
+
+📊 Historical Backtest Insights (2000–2021)
+Execution Logic: Strictly rule-based entries and exits with zero subjective interpretation.
+
+Tested Asset: NYMEX WTI Crude Oil Futures.
+
+Backtest Findings: Replaced chart guesswork with verifiable historical data across 21 years of energy market cycles.
+
+🔍 Key Lessons for Systematic Traders
+Subjectivity vs. Data: Price action rules must be codified into objective parameters to test their true statistical validity.
+
+Futures Execution Friction: Commodity futures trading requires factoring in roll costs, tick slippage, and volatility shifts.
+
+Forward Testing: Promising historical equity curves serve as baselines; always validate with out-of-sample forward testing before committing capital.
+
+💡 Key Takeaway
+Transforming discretionary price action patterns into quantifiable, backtested rules is essential for verifying true edge and managing risk in volatile commodity markets.
+
+ABOUT QUANTIFIED STRATEGIES
+
+Run by former proprietary traders Håkan Samuelsson and Oddmund Groette, Quantified Strategies has published evidence-based research and backtested strategies since 2012. Our newsletter has 25,000+ subscribers, and our trading books have sold 30,000+ copies.
+
+🚀 Want a more disciplined, evidence-driven trading approach?
+
+Join our Skool community for backtested strategies, quantitative research, and systematic risk management.
+
+👉 Link in bio!
+
+#DayTradingStrategy #CrudeOilTrading",quantifiedstrategies,Quantified Strategies
+46,DfFEKeQGNvN,https://www.instagram.com/p/DfFEKeQGNvN/,4018636554361166797,2026-10-29 13:00:57,2026-10-29 18:30:57,Video / Reel,True,4,0,0,,0,,,,,https://instagram.fccu1-2.fna.fbcdn.net/v/t51.82787-15/870226861_18096579518480533_3845619522572696704_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=NDAxODYzNjU1NDM2MTE2Njc5NzE4MDk2NTc5NTE1NDgwNTMz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEwODAuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=1AMgQfB1hfUQ7kNvwFSc2Pg&_nc_oc=AdpxyuFERYlsHGTbJsBmkKjJDgnjK6ND2n45dQBlRYRAdp54WvxKIMQfixa_rnT1f0Q&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fccu1-2.fna&_nc_gid=LznF5AWlLdJzkwOJ-BlMPw&_nc_ss=7320f&oh=00_AQT8mKE3zvRh81Dnljxj0mitzQvdM3F2eEFQjkIicophbw&oe=6AECD1CB,https://instagram.fccu1-2.fna.fbcdn.net/o1/v/t2/f2/m86/AQN6rugw6YwaHXD9jTJA7bFuTAiv1JoliEQAnvi7yXkx1r8SRtKYl98FkNu_IhBNT7NzB5wuIikxaDV-i92VNpjSEsgnHwKk3Z-O4Z8.mp4?_nc_cat=102&_nc_oc=AdqNhwJDK5l5YBVq0Wkk7TpD1RUNSkt2ipf5-3miTGQiank-AV_rYNr-Vr8XqZxp22g&_nc_sid=5e9851&_nc_ht=instagram.fccu1-2.fna.fbcdn.net&_nc_ohc=hQKwAKStmC8Q7kNvwGp1O_n&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwOTY1NzkxMDQ0ODA1MzMsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MjMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=ad36e1691bbd504e&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8zRTZBRDdDODkwMDU0NTUyOEI5MTQ2M0ExRTM4RjQxQ192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0UzM0VFNTU2QjM4MTRERkNBNjYzQUREMzQxNjYyRkY4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaq9OCSxa-lQBUCKAJDMywXQDcOVgQYk3UYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=LznF5AWlLdJzkwOJ-BlMPw&_nc_ss=70580&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTtNYDvWgFjE_qWH6G6KEHdO5hxyntgtA0D8lxD8OC4qA&oe=6AE8BED7,"I Made a BITCOIN Trading Strategy Work For An Average Person
+
+If you are interested in Rule-Based Trading, we would love to have you in our Skool community (Link in bio)",quantifiedstrategies,Quantified Strategies
+47,DfFAzyxFDwC,https://www.instagram.com/p/DfFAzyxFDwC/,4018621801701850114,2026-10-29 12:31:27,2026-10-29 18:01:27,Video / Reel,True,6,3,2,"#overnighttrading, #spytrading",0,,,,,https://instagram.fccu1-2.fna.fbcdn.net/v/t51.82787-15/877891139_18096574517480533_4010342859638092297_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=NDAxODYyMTgwMTcwMTg1MDExNDE4MDk2NTc0NTE0NDgwNTMz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcxNi5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=uOANs8L-9R8Q7kNvwEErGyj&_nc_oc=AdoYAmU2cn8j_ZOlFVgUeSn947ZDprVtQGw6dR6brPB1TjjFozacjhdDCEqdw8IBuwk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fccu1-2.fna&_nc_gid=TkYmvqUNjrjJ7vY3odiu-Q&_nc_ss=7320f&oh=00_AQSIZrFum9ZhD8jcdcBrVdehL1AD9UNzZVRIxsQ3cq8yzA&oe=6AECD285,https://instagram.fccu1-2.fna.fbcdn.net/o1/v/t2/f2/m86/AQNi6gAv8eeEl6RI4je2_3nE5HWdo4mBZ8_ng_OBkdcc8ALu8smzrQD8yhbJvvX9dMXVjaAz6R-G6LZzA__HQqcwh71pr8yNUcucMoQ.mp4?_nc_cat=110&_nc_oc=AdoNUgDmIFbwioYCdL_p3dRJv9Q-lHuRJVw8NZo0I2v-DeO2FwottOjtFu3cx9v0klw&_nc_sid=5e9851&_nc_ht=instagram.fccu1-2.fna.fbcdn.net&_nc_ohc=f9zXUxuxIW4Q7kNvwFRCLTL&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzEyLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwOTY1NzQzNjE0ODA1MzMsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=5c2e3b030643d654&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8wNTRDOUMxOEVFQUE0MjM4ODA5OURCQzAwNTQ3NzIzNF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzdFN0E3MjQ3OEIzRDREMTA5RDk5NTNBQkJDMzRFNzZFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaqtb3noa-lQBUCKAJDMywXQCgAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=TkYmvqUNjrjJ7vY3odiu-Q&_nc_ss=70580&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRz1kymGJzb5MR9F3w3jkY_-6I3LY71rMiEsjQG8nNvIQ&oe=6AE8AEDF,"📈 SPY Overnight Strategies: Comparing 62% Win Rate Edges
+Two short-holding-period SPY strategies achieved the exact same 62% historical win rate, yet their performance profiles differ significantly. What can their metrics teach us about trade frequency and portfolio design?
+
+📊 Historical Backtest Comparison (SPY)
+
+Strategy 1 (Lower Frequency):
+
+Trades: 457
+Win Rate: 62%
+Avg Gain / Trade: 0.40%
+Profit Factor: 1.9
+Max Drawdown: 15%
+Strategy 2 (Higher Frequency):
+Trades: 714
+Win Rate: 62%
+Avg Gain / Trade: 0.26%
+Profit Factor: 1.7
+Max Drawdown: 17%
+
+🔍 Key Lessons for Systematic Traders
+Beyond Trade Count: Strategy 1 delivered higher average trade gains (+0.40% vs. +0.26%) and lower drawdowns (15% vs. 17%), showing that more trades do not always mean better performance.
+
+Portfolio Fit: High-frequency isn't strictly superior. Lower-frequency strategies with higher profit factors can be exceptionally valuable when their drawdowns offset other active portfolio strategies.
+
+Execution & Incubation: Overnight gap risks and execution friction matter. Monitor frozen rules on fresh market data for 3 to 6 months prior to live capital allocation.
+
+💡 Key Takeaway
+Equal win rates do not mean equal edges. Evaluate strategies by average return, drawdown containment, and portfolio synergy rather than transaction volume alone.
+
+ABOUT QUANTIFIED STRATEGIES
+
+Run by former proprietary traders Håkan Samuelsson and Oddmund Groette, Quantified Strategies has published evidence-based research and backtested strategies since 2012. Our newsletter has 25,000+ subscribers, and our trading books have sold 30,000+ copies.
+
+🚀 Want a more disciplined, evidence-driven trading approach?
+
+Join our Skool community for backtested strategies, quantitative research, and systematic risk management.
+
+👉 Link in bio!
+
+#OvernightTrading #SPYTrading",quantifiedstrategies,Quantified Strategies
+48,DfE58HSE0_K,https://www.instagram.com/p/DfE58HSE0_K/,4018591587160510410,2026-10-29 11:31:27,2026-10-29 17:01:27,Video / Reel,True,9,3,2,"#macdrsi, #tradingstrategies",0,,,,,https://instagram.fccu1-2.fna.fbcdn.net/v/t51.82787-15/864366351_18096563894480533_6215143904978113356_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ig_cache_key=NDAxODU5MTU4NzE2MDUxMDQxMDE4MDk2NTYzODkxNDgwNTMz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcxNi5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=S6Fcim4xrEcQ7kNvwEQ0e7p&_nc_oc=Adryp81EwFDHiOsBF7WMDQkKomhzA7TxXRTW1F2EQ9hbJRpBmIcsxl_tYU8OmKiNKgc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fccu1-2.fna&_nc_gid=j1-e0n3FBd27gGVhgm5lVw&_nc_ss=7320f&oh=00_AQQdqb1uKXjaWvYt_Su3ADp_B3CDTrgWhwfjbcxVaz86PQ&oe=6AECC743,https://instagram.fccu1-2.fna.fbcdn.net/o1/v/t2/f2/m86/AQNLk8eUaJwoAOR5V9hxf7isFDQsRwffMnbPNrpTi9LrARqTykNgZIsiLIawLnQXeOd8ysDiI34usLwL_cBYACAT1nMNEk9Cd1cMD70.mp4?_nc_cat=102&_nc_oc=AdomN5dTkgtMUzWrnJhjuaoamLrp8g959BlQFOV7uGnc1TL1X5IgJgSVgVXjy1insOI&_nc_sid=5e9851&_nc_ht=instagram.fccu1-2.fna.fbcdn.net&_nc_ohc=6-gMqeoCE1gQ7kNvwG8AT0T&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzEyLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwOTY1NjM2NzI0ODA1MzMsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=8312ec31498a0962&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8wQTlCRUE0MjZFQkM0MjZGQjcwQkJFMjIxMTk2M0EwNV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0FERTU1QjNDNTkxRTQ4RjE4NTlEMEYwRDZENDAxOUQyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaq7NOV0q6lQBUCKAJDMywXQCgAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=j1-e0n3FBd27gGVhgm5lVw&_nc_ss=70580&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRpoN0R9tHZCax1yWTWhCFjyR56hJ0wYjnA0O0CinvpDg&oe=6AE8B09B,"📈 MACD + RSI Strategy: 81.41% Historical Win Rate
+
+Can combining two classic indicators create a reliable systematic edge? This strategy pairs MACD and RSI signals with a trend filter to capture high-probability momentum setups while eliminating discretionary guesswork.
+
+📊 Historical Backtest Performance (2001–2022)
+
+Total Completed Trades: 169
+Historical Win Rate: 81.41%
+Average Gain Per Trade: 0.62%
+Worst Year Return (2008): -3.6%
+
+Consistency: Positive performance across most tested calendar years
+
+📌 Strategy Setup & Mechanics
+Indicator Combination: MACD momentum combined with RSI oversold/overbought levels.
+
+Filter Constraint: Pre-defined trend filter to isolate high-quality setups.
+
+Execution: Objective, rule-based entries and exits with zero emotional intervention.
+
+🔍 Key Lessons for Systematic Traders
+High-Win-Rate Dynamics: An 81%+ win rate provides strong psychological stability, but managing position sizing and stop losses remains critical during tail-risk events like 2008.
+
+Evidence-Based Approach: Combining complementary technical indicators creates clearer statistical edges than using single indicators in isolation.
+
+Validation: Historical backtests serve as baseline tendencies—always account for live execution costs, slippage, and forward testing.
+
+ABOUT QUANTIFIED STRATEGIES
+
+Run by former proprietary traders Håkan Samuelsson and Oddmund Groette, Quantified Strategies has published evidence-based research and backtested strategies since 2012. Our newsletter has 25,000+ subscribers, and our trading books have sold 30,000+ copies.
+
+🚀 Want a more disciplined, evidence-driven trading approach?
+
+Join our Skool community for backtested strategies, quantitative research, and systematic risk management.
+
+👉 Link in bio!
+
+#MACDRSI #TradingStrategies",quantifiedstrategies,Quantified Strategies
+49,DfEvihajxSR,https://www.instagram.com/p/DfEvihajxSR/,4018545848048620689,2026-10-29 10:00:17,2026-10-29 15:30:17,Carousel (Sidecar),False,7,1,4,"#spytrading, #orderflowtrading, #backtestedstrategies, #systematictrading",0,,,,,https://instagram.fccu1-2.fna.fbcdn.net/v/t39.30808-6/861749566_1133269879221070_36027819166820491_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ig_cache_key=NDAxODU0NTgyNTAwNTE2NzQ5MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTEyMi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=qTWAc9mrBNwQ7kNvwFlFW3d&_nc_oc=Adoa9lMKwzqXLlAj1g6zPpRAa3jJarWCXzW9K-vOqN8dLFiFOtOkijODuN-2KO3uMJ8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fccu1-2.fna&_nc_gid=x388PLdcDDT9180Nja_nJw&_nc_ss=7320f&oh=00_AQTmy9fhzvKO6I7MiUmCNOvO8jsettmw95wS8rpuiPkGnQ&oe=6AECD2E6,,"SPY Order Flow Strategy: What if a morning imbalance could help explain the next two trading days? 📊
+
+This carousel breaks down a rule-based SPY trading setup using Order Flow Imbalance (OFI) and a 2-day reversal pattern.
+
+Here's what the strategy looks for:
+
+✅ A weakening morning order flow signal
+✅ Two consecutive declining trading days
+✅ An OFI measurement between 9:30 and 10:00 AM ET
+✅ A potential long entry near the market close at 3:59 PM ET
+✅ A rule-based exit at the following day's close
+
+The key lesson? Price doesn't always tell the whole story. Order flow can provide additional context about buying pressure, selling pressure, and potential short-term reversals.
+
+The carousel also highlights an important distinction: 2-day declines may behave differently from 1-day declines or broader 3-day declines.
+
+No win rate or historical return figures are shown here, so this is a strategy concept, not evidence of guaranteed profitability.
+
+In systematic trading, a strategy doesn't need to trade every day to be useful. We focus on combining different trading edges across markets and styles, evaluating each strategy by its contribution to the overall portfolio, including risk and drawdowns.
+
+Before committing capital, we also aim to monitor promising strategies on new data with unchanged rules.
+
+ABOUT QUANTIFIED STRATEGIES
+Quantified Strategies is run by Håkan Samuelsson and Oddmund Groette, two former proprietary traders with over 25 years of hands-on market experiences.
+
+Since 2012, we have published evidence-based market research, backtested trading strategies, and educational resources for systematic traders. Our research reaches millions of readers, our newsletter has 25,000+ subscribers, and our trading books have sold 30,000+ copies.
+
+Want to explore more backtested trading strategies, evidence-based market research, strategy ideas, and practical insights into systematic trading?
+
+Subscribe to our Substack, Quantified Strategies, through the link in bio. 📈
+
+#SPYTrading #OrderFlowTrading #BacktestedStrategies #SystematicTrading",quantifiedstrategies,Quantified Strategies
+50,DfEalNJmxkQ,https://www.instagram.com/p/DfEalNJmxkQ/,4018453673471056144,2026-10-29 06:57:09,2026-10-29 12:27:09,Carousel (Sidecar),False,4,1,4,"#vixtrading, #tradingstrategies, #quantifiedstrategies, #systematictrading",0,,,,,https://instagram.fccu1-2.fna.fbcdn.net/v/t39.30808-6/876819502_1133184085896316_3385819600480863445_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ig_cache_key=NDAxODQ1MzY1MjUwNzkzODY1OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTEyMi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=LiA4mqM4X2EQ7kNvwHJLiqq&_nc_oc=Adp5M9lOBZS8GnCNv3COUxD6SGCpUO4OmepGNwMne-Fvm6XBdJW4OwtqwLkLJz4YaMg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fccu1-2.fna&_nc_gid=dSyXOvzkJJAv5RfqfeciBA&_nc_ss=7320f&oh=00_AQSx12-Vwi3GON9ewhDakwjwkBfK4aTP4WYqWECnaVSbWA&oe=6AECC6FD,,"🚨 2 VIX Trading Strategies with Win Rates of 77% and 75% — Are You Missing These Backtested Trading Setups?
+
+Most traders fear market volatility. Systematic traders look for ways to turn it into an opportunity. 📈
+
+We tested 2 VIX-based SPY trading strategies using historical market data, and the results are worth exploring.
+
+📊 Strategy 1: VIX Breakout
+✅ 252 trades
+✅ 77% win rate
+✅ 0.75% average gain per trade
+✅ 2.5 profit factor
+✅ 5.5% CAGR
+✅ 23% maximum drawdown
+
+📊 Strategy 2: VIX Mean Reversion
+✅ 328 trades
+✅ 75% win rate
+✅ 0.5% average gain per trade
+✅ 2.0 profit factor
+✅ 5.2% CAGR
+✅ 23% maximum drawdown
+
+Both strategies use volatility signals to identify opportunities in the S&P 500 ETF (SPY).
+
+💡 The takeaway? Successful systematic trading isn't about predicting every market move. It's about developing measurable rules, testing historical performance, and understanding risk.
+
+Past backtest performance does not guarantee future results.
+
+ABOUT QUANTIFIED STRATEGIES
+
+Quantified Strategies is run by Håkan Samuelsson and Oddmund Groette, two former proprietary traders with over 25 years of hands-on market experience.
+
+Since 2012, we have published evidence-based market research, backtested trading strategies, and educational resources for systematic traders. Our research reaches millions of readers, our newsletter has 25,000+ subscribers, and our trading books have sold 30,000+ copies.
+
+🚀 Want more rule-based trading strategies, backtests, and trading research?
+
+Join our Skool community to learn alongside systematic traders who value data over guesswork.
+
+👉 Join today — link in bio!
+
+#VIXTrading #TradingStrategies #QuantifiedStrategies #SystematicTrading",quantifiedstrategies,Quantified Strategies
+51,DfC61jWjhR0,https://www.instagram.com/p/DfC61jWjhR0/,4018032584357188724,2026-10-28 17:00:59,2026-10-28 22:30:59,Video / Reel,True,7,0,0,,0,,,,,https://instagram.fccu1-2.fna.fbcdn.net/v/t51.82787-15/871362536_18096429278480533_371548536743930559_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ig_cache_key=NDAxODAzMjU4NDM1NzE4ODcyNDE4MDk2NDI5Mjc1NDgwNTMz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEwODAuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=KdyL6_EX-yQQ7kNvwE5W7gB&_nc_oc=AdpT_WcM4__lOwdOMywbe8mxYwbrb5AvvpZU7Cv2omP1jdMZx59zklXMI4n9hfDV8j8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fccu1-2.fna&_nc_gid=fjULl0w1vpss8wpdREm-KA&_nc_ss=7320f&oh=00_AQT0kHO2uTSthHnh1BrrGH5z9tPyxm95VsFEt_i-xxMTAA&oe=6AECAD56,https://instagram.fccu1-2.fna.fbcdn.net/o1/v/t2/f2/m86/AQPGqh2vQYDewsAKcBnTYvTxKiH1sbk1k7fOKUYbte0AF5LT32OT0TPoHAFXDNKToAQ9WCHhQNt-Js8H-QOTFfOqlcJRC-7d801y1bQ.mp4?_nc_cat=107&_nc_oc=AdqOi9fAw5Vt1MKKYvwAjjFUTakDSA8loE1ZYcEs1ShnytBpdHPkgYZ5fuaQ9M1TQPM&_nc_sid=5e9851&_nc_ht=instagram.fccu1-2.fna.fbcdn.net&_nc_ohc=C0pIk5M2ZosQ7kNvwH-t5Kh&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwOTY0MjkwMDU0ODA1MzMsImFzc2V0X2FnZV9kYXlzIjozLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MzEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=a6fdc835018eda3c&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC81QzJDMTQ1MjA3Mjg0NUIxQTlDMTMzREJFRDM5MDI2OV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzg3RURDQ0M2NzU3QjQ0RTU5NTU2RkM2ODVGQ0I0NjRFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaqiZnp5qalQBUCKAJDMywXQD8IcrAgxJwYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=fjULl0w1vpss8wpdREm-KA&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_ss=70580&oh=00_AQT_jqjeh9ueRTEbILZaoz8UgA5LGIOAVoENWwRIrgCEpA&oe=6AE8B4C4,"Index Trading Strategy (Settings + Backtest)
+
+If you are interested in Rule-Based Trading, we would love to have you in our Skool community (Link in bio)",quantifiedstrategies,Quantified Strategies
+52,DfC3eiRlF_2,https://www.instagram.com/p/DfC3eiRlF_2/,4018017808512475126,2026-10-28 16:31:26,2026-10-28 22:01:26,Video / Reel,True,3,1,2,"#tradingpsychology, #backtestedstrategies",0,,,,,https://instagram.fccu1-2.fna.fbcdn.net/v/t51.82787-15/871842379_18096423941480533_31788353990846836_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ig_cache_key=NDAxODAxNzgwODUxMjQ3NTEyNjE4MDk2NDIzOTM4NDgwNTMz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcxNi5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=-6EM9lFmugcQ7kNvwEi7dP5&_nc_oc=AdokSFct1pmi93web50crebGAUSUKQIChYk6w5wjNckn3Bwq-1lv2SZnEogSS1FDI18&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fccu1-2.fna&_nc_gid=AGGoUQKu0UetgbHlmYZqUg&_nc_ss=7320f&oh=00_AQQRKDoGVLUibvhi0cA8fecL6qqyljX-KkeQJDuX0avR2g&oe=6AECD7E6,https://instagram.fccu1-2.fna.fbcdn.net/o1/v/t2/f2/m86/AQPadR_8OgET6CsYvRv-fs14KUHmVxTpXHWvAAArCMEcwGM0WdfADMn9T1RtTdmOGNxf7JQ2M8-l5pyrq0KLRAu0b1gMu8MJtKZcYGc.mp4?_nc_cat=102&_nc_oc=AdrHzTFif52WAA46B5odib9FoYJPzusFGZd54Do_VLHpIc0HS416r9Q66e8xtDdVjUI&_nc_sid=5e9851&_nc_ht=instagram.fccu1-2.fna.fbcdn.net&_nc_ohc=j4Bzys6qH3UQ7kNvwGVWN8n&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzEyLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwOTY0MjM3MjI0ODA1MzMsImFzc2V0X2FnZV9kYXlzIjozLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=ea4a8e15e522cc36&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC81MERFOEQ5NUM4RTQ0QTYxOUEwQkUzRjcyQzkzQkIzN192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0I0RTFCRDk4OEQ5ODRDQThCNzE0Q0NDQzk0NDhCQ0M0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaqzve6v6alQBUCKAJDMywXQCgAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=AGGoUQKu0UetgbHlmYZqUg&_nc_ss=70580&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSKzTBMOZReDdujHt2-dGGqkG5anuBm6Cb4wLQ6sGWpwA&oe=6AE8E13B,"⚠️ Trading Psychology: Stop Taking Losses Personally
+If every losing trade feels like a personal failure, you are holding back your long-term consistency. As Market Wizards author Jack D. Schwager famously stated: ""If you personalize losses, you can't trade.""
+
+📌 5 Rules to Eliminate Emotional Trading
+Define Risk First: Know your exact loss limit before placing any trade.
+
+Think in Probabilities: Accept that even high-edge systems have losing runs.
+
+Journal Your Trades: Track execution data instead of reacting to emotions.
+
+Evaluate Process, Not PnL: A well-executed losing trade is still a correct decision.
+
+Detach & Reset: Never let your previous trade dictate your next entry.
+
+🔍 Key Takeaways
+Avoid Emotional Traps: Personalizing losses leads to revenge trading, ignored stops, and oversized risk.
+
+Focus on Edge: Long-term profitability comes from consistent process execution across hundreds of trades, not individual outcomes.
+
+ABOUT QUANTIFIED STRATEGIES
+
+Run by former proprietary traders Håkan Samuelsson and Oddmund Groette, Quantified Strategies has published evidence-based research and backtested strategies since 2012. Our newsletter has 25,000+ subscribers, and our trading books have sold 30,000+ copies.
+
+🚀 Want a more disciplined, evidence-driven trading approach?
+
+Join our Skool community for backtested strategies, quantitative research, and systematic risk management.
+
+👉 Link in bio!
+
+#TradingPsychology #BacktestedStrategies",quantifiedstrategies,Quantified Strategies
+53,DfCz8CbCQM5,https://www.instagram.com/p/DfCz8CbCQM5/,4018002243709633337,2026-10-28 16:00:14,2026-10-28 21:30:14,Carousel (Sidecar),False,5,3,4,"#backtesting, #tradingstrategies, #systematictrading, #quantifiedstrategies",0,,,,,https://instagram.fccu1-2.fna.fbcdn.net/v/t39.30808-6/861105746_1132421559305902_472287842053585974_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ig_cache_key=NDAxODAwMjIyNjExMDMzNTE3Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTEyMi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=UeBNjtPKiyAQ7kNvwFdY_x0&_nc_oc=AdofOZJxLuwNMb9jhpAdvFVcV-L0dYNq2_w6oc1VKI7prRAwQoNrLcnQzFlwE1_qeUs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fccu1-2.fna&_nc_gid=NuMxFwQuFdw1yN5k7jYJmw&_nc_ss=7320f&oh=00_AQTUTj1obJtLSW-SIFzg2syrQvAbue8KgkpBjdt0oGIcuw&oe=6AECC3E7,,"Why Backtesting Changes Everything: What if your best trading idea looks great on paper but fails when tested against real historical market data?
+
+Before risking your money, you need more than a promising chart or a convincing theory.
+
+Backtesting helps you discover how a trading strategy would have performed in the past, including its strengths, weaknesses, win rate, risk-to-reward ratio, and maximum drawdown.
+
+In this carousel, you'll learn:
+✅ Why historical data matters
+✅ How backtesting replaces guesswork with evidence
+✅ What to measure before trading a strategy
+✅ Why testing and refining your rules matters
+
+A strategy doesn't need to trade every day to be useful. We look for different trading edges across markets, assets, and trading styles, then evaluate how they contribute to a diversified portfolio. Strategies with drawdowns at different times may help smooth portfolio returns, although diversification cannot eliminate risk.
+
+We also aim to monitor promising strategies on new data with unchanged rules for 3–6 months or longer before committing capital. Even then, historical performance cannot guarantee future results.
+
+The goal isn't to predict the market. It's to make better-informed, rule-based trading decisions.
+
+ABOUT QUANTIFIED STRATEGIES
+Quantified Strategies is run by Håkan Samuelsson and Oddmund Groette, two former proprietary traders with over 25 years of hands-on market experiences.
+
+Since 2012, we have published evidence-based market research, backtested trading strategies, and educational resources for systematic traders. Our research reaches millions of readers, our newsletter has 25,000+ subscribers, and our trading books have sold 30,000+ copies.
+
+Want to explore more backtested trading strategies, evidence-based market research, strategy ideas, and practical insights into systematic and rule-based trading?
+
+Subscribe to our Substack, Quantified Strategies, through the link in bio. We'd love to have you reading along!
+
+#Backtesting #TradingStrategies #SystematicTrading #QuantifiedStrategies",quantifiedstrategies,Quantified Strategies
+54,DfCwoAQleut,https://www.instagram.com/p/DfCwoAQleut/,4017987672857766829,2026-10-28 15:31:36,2026-10-28 21:01:36,Video / Reel,True,8,1,2,"#tradingstrategies, #quantifiedstrategies",0,,,,,https://instagram.fccu1-2.fna.fbcdn.net/v/t51.82787-15/871842396_18096413852480533_2916483228788027793_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=NDAxNzk4NzY3Mjg1Nzc2NjgyOTE4MDk2NDEzODQ5NDgwNTMz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcxNi5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=kcoSUj0jxj8Q7kNvwEuYf8s&_nc_oc=AdrY1Q4KbVnv8XhDzN4PP-yOqKTj5PGR-acAs0r5IezsGvfcRyC4VxdusLn8BNff2LI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fccu1-2.fna&_nc_gid=7OfnkN0MS2cvrvQzfmTrQg&_nc_ss=7320f&oh=00_AQRbgqq_PgUHUWwywVUvsNhDtNFqTvnUPJy9z8QQ6O7zVQ&oe=6AECC168,https://instagram.fccu1-2.fna.fbcdn.net/o1/v/t2/f2/m86/AQP2PUB3MY61A4qXAmpBLzEuxPqbylSyNW-0u0ffa6LLwpY_WYng8NYjlwZrMmC_-3lr7gpcYrHy91ULhd3F0CnIoRaPLSQLsJInFf8.mp4?_nc_cat=108&_nc_oc=AdpviUTYM8_HsQDzF4JjQprtAjFRWhaX1Pu0myJ4RqnQvaX73_HJCcfyEt_joSk06_8&_nc_sid=5e9851&_nc_ht=instagram.fccu1-2.fna.fbcdn.net&_nc_ohc=23NRhSf-CzMQ7kNvwFaoYdO&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzEyLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwOTY0MTM2NDg0ODA1MzMsImFzc2V0X2FnZV9kYXlzIjozLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=d8911413ec6fe898&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC80OTlGQzhDM0NEMDY0Q0E1QTM3RjIzMDVDQTVFMDkzRV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0ZBNTYzRTZBRUFGQTRCMDZCOTBFNzIxOTQ3MUU4QkIxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaqpM-z9KWlQBUCKAJDMywXQCgAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=7OfnkN0MS2cvrvQzfmTrQg&_nc_ss=70580&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRbr0Q6d-YQINyChqQ1ZPwBihKpRBIJu2KSBhRfWTUTVQ&oe=6AE8E525,"🚨 The 8-Day Turn-of-the-Month Anomaly
+What if just 8 trading days per month accounted for over 100% of global equity returns? A 30-year study across 30 international markets reveals a powerful seasonal pattern.
+
+📌 Strategy Rules
+
+Entry: Open long 4 business days before month-end.
+
+Exit: Close after the 4th trading day of the new month.
+
+Exposure: 8 trading days per month.
+
+Drivers: Institutional cash flows and portfolio rebalancing.
+
+📊 Key Research Findings
+
+Window Return: ~0.10% average daily return.
+
+Remaining Days: Average daily return near zero.
+
+Global Impact: >100% of annual gains contributed in 25/30 countries.
+
+Trend: Anomaly has strengthened in recent years.
+
+🔍 Key Takeaways
+
+Clustered Returns: Market gains are concentrated in specific calendar windows.
+
+Capital Efficiency: Partial month exposure frees capital for non-correlated strategies.
+
+Execution: Account for transaction costs and out-of-sample forward testing.
+
+ABOUT QUANTIFIED STRATEGIES
+
+Run by former proprietary traders Håkan Samuelsson and Oddmund Groette, Quantified Strategies has published evidence-based research and backtested strategies since 2012. Our newsletter has 25,000+ subscribers, and our trading books have sold 30,000+ copies.
+
+🚀 Want a more disciplined, evidence-driven trading approach?
+
+Join our Skool community for backtested strategies, quantitative research, and systematic risk management.
+
+👉 Link in bio!
+
+#TradingStrategies #QuantifiedStrategies",quantifiedstrategies,Quantified Strategies
+55,DfCtKwoiI_w,https://www.instagram.com/p/DfCtKwoiI_w/,4017972469075316720,2026-10-28 15:02:57,2026-10-28 20:32:57,Video / Reel,True,35,3,0,,0,,,,,https://instagram.fccu1-2.fna.fbcdn.net/v/t51.82787-15/872368023_18096409442480533_5109511135856540092_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=NDAxNzk3MjQ2OTA3NTMxNjcyMDE4MDk2NDA5NDM5NDgwNTMz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjE5MjAuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=E_urBe2YeSsQ7kNvwG4_vV8&_nc_oc=AdrQQv-z3O0Vk9z4-2NvG7NSZ_4I2n0gdfeSEm7ixlRr6uAe7Tsqmte3DFgT6mR3tmI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fccu1-2.fna&_nc_gid=oUuHwSlORYFHAD4afY11pg&_nc_ss=7320f&oh=00_AQRB_d05ZAlExrlaKPNNOUlkzDtTc1z4jZTZRxXyre8O2g&oe=6AECA986,https://instagram.fccu1-2.fna.fbcdn.net/o1/v/t2/f2/m86/AQMOtfKuqhcaRs4FRb7qlo4zmP2zlLb1cf5G2IN7ff8xIBbyoTPBH7b9bUnCv_bUC9QKKK0d5hJ3QZlcFAaMiV9S40dMTSfh62IT0ic.mp4?_nc_cat=103&_nc_oc=AdrLXsCibycDY9fOKYWpztw5cVybvw__q1Z3crMqvnOhyDIZtKI9v2aTLJuXohxKuGc&_nc_sid=5e9851&_nc_ht=instagram.fccu1-2.fna.fbcdn.net&_nc_ohc=9ESxN5hXodkQ7kNvwHHjRPj&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuMTI4MC5kYXNoX2Jhc2VsaW5lXzFfdjEiLCJ4cHZfYXNzZXRfaWQiOjE4MDk2NDA5MTUxNDgwNTMzLCJhc3NldF9hZ2VfZGF5cyI6MywidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjM3OCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=cddb7d3ed01c5064&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC84QTQwQTBBNEYyNjM0NDE0QTE1N0UxNTc0ODdDQkJCN192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzFDRjRGMEIxMzIyRDQwMTJCN0Y2N0U1RDE0NDNEQzg2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaqi_ny0qWlQBUCKAJDMywXQHeh64UeuFIYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=oUuHwSlORYFHAD4afY11pg&_nc_ss=70580&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSBwwbUvKanf7INoQ_Y0xTgP3HFv_e5iIPbT592z-3RSA&oe=6AE8B78C,"We Tested 1,260 RSI + ADX + IBS Settings. One Held Up
+
+If you are interested in Rule-Based Trading, we would love to have you in our Skool community (Link in bio)",quantifiedstrategies,Quantified Strategies
+56,DfCpvfSkU6F,https://www.instagram.com/p/DfCpvfSkU6F/,4017957400887774853,2026-10-28 14:31:26,2026-10-28 20:01:26,Video / Reel,True,6,2,2,"#bollingerbands, #systematictrading",0,,,,,https://instagram.fccu1-2.fna.fbcdn.net/v/t51.82787-15/869977419_18096405272480533_3552245706230680608_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ig_cache_key=NDAxNzk1NzQwMDg4Nzc3NDg1MzE4MDk2NDA1MjY5NDgwNTMz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcxNi5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=E7pqKByFbUYQ7kNvwHaKiwO&_nc_oc=AdpBLPqDYeSu2wbvL8Rrfk1_Y6YY2h47JvzTTdsp8hqnJ5UvqrFxfZQJVRAe79dJq4I&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fccu1-2.fna&_nc_gid=a1HyKxe7jSppO53nxe2Ujw&_nc_ss=7320f&oh=00_AQRSCRGKrQfV7qlF3uRhYwMW5CpUaW0fTdy207OjRQWAPA&oe=6AECAAAA,https://instagram.fccu1-2.fna.fbcdn.net/o1/v/t2/f2/m86/AQP7jTozHjrfilYfaudZxFixJNJiSxnaRirqpCk5c0zJyAu1V3JAg8KHIEIFDbSsJZ44EhHoMOdpDMmSnKnFWuzZ1GGlqeSDVGBY1xQ.mp4?_nc_cat=110&_nc_oc=Adr521NEclGJ7zyy_cO0zjxH73NAdvTfRgGlWwLYblcJZOcoHyPVYTQU3iqjM95W8eQ&_nc_sid=5e9851&_nc_ht=instagram.fccu1-2.fna.fbcdn.net&_nc_ohc=MuExdI-eLa4Q7kNvwHCPVhl&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzEyLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwOTY0MDUxMTA0ODA1MzMsImFzc2V0X2FnZV9kYXlzIjozLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=7c87163412c3a2c9&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC82QTZBQTRCQTE2Mzg0QkRCQUFGRTM1RThDMTgxOTI0NV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzM2MjRCN0MyMjc5MjQxRjk5QUYyQ0Y3NzREMDZCN0VFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaq-pLltKWlQBUCKAJDMywXQCgAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=a1HyKxe7jSppO53nxe2Ujw&_nc_ss=70580&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTXun4pevxgr-RhRXIHGU7JN4WMij3HPKEnu6_Esq1n2w&oe=6AE8DD6B,"📈 Larry Connors’ %b Strategy: High Edge with Rare Signals
+Can a Bollinger %b mean-reversion setup deliver high performance despite firing infrequent trades? Originally introduced by Larry Connors in High Probability Trading (2009), this strategy captures severe short-term pullbacks within structural uptrends.
+
+📌 Strategy Setup & Rules
+Trend Filter: Close price must be above its 200-day moving average.
+
+Pullback Condition: Bollinger %b must remain below 0.2 for 3 consecutive days.
+
+Entry: Buy at the market close when both conditions are met.
+
+Exit: Sell at the market close when Bollinger %b rises above 0.8.
+
+📊 Historical Backtest Highlights (QQQ & SPY)
+Performance Profile: Strong long-term equity growth on QQQ and SPY.
+
+Trade Frequency: Low trade count (infrequent signals).
+
+Reproducibility Note: Modern backtests validate the core edge in major equity ETFs, though original 2008 book figures vary due to unstated secondary parameter details.
+
+🔍 Key Lessons for Systematic Traders
+Quality Over Frequency: Signal volume does not dictate strategy worth. Infrequent, high-conviction signals free up capital for other edges.
+
+Portfolio Role: Rare mean-reversion setups offer unique return profiles that complement higher-frequency models and smooth portfolio drawdowns.
+
+Forward Incubation: Monitor frozen rules on fresh market data for 3 to 6 months or longer before live capital deployment.
+
+💡 Key Takeaway
+Bollinger %b effectively pinpoints extreme oversold dips during ongoing bull trends. Evaluate low-frequency strategies by their portfolio-level risk contribution rather than standalone trade volume.
+
+ABOUT QUANTIFIED STRATEGIES
+
+Run by former proprietary traders Håkan Samuelsson and Oddmund Groette, Quantified Strategies has published evidence-based research and backtested strategies since 2012. Our newsletter has 25,000+ subscribers, and our trading books have sold 30,000+ copies.
+
+🚀 Want a more disciplined, evidence-driven trading approach?
+
+Join our Skool community for backtested strategies, quantitative research, and systematic risk management.
+
+👉 Link in bio!
+#BollingerBands #SystematicTrading",quantifiedstrategies,Quantified Strategies
+57,DfCmOo2lPph,https://www.instagram.com/p/DfCmOo2lPph/,4017941949273406049,2026-10-28 14:01:39,2026-10-28 19:31:39,Video / Reel,True,8,0,0,,0,,,,,https://instagram.fccu1-2.fna.fbcdn.net/v/t51.82787-15/869165802_18096400193480533_685802759640158179_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ig_cache_key=NDAxNzk0MTk0OTI3MzQwNjA0OTE4MDk2NDAwMTkwNDgwNTMz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyODAuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=0FNWERLmo58Q7kNvwEIPGLF&_nc_oc=AdoperhgYOvR2Xu_7zcWotxd7dJkinxl2ljawdVjKKYjkJn55YJ_HuTO1uZkWNJ3FbA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fccu1-2.fna&_nc_gid=D5fljrSvf9c66iyi2uO84Q&_nc_ss=7320f&oh=00_AQQACLJ0SQ5J1b_MZO5Ol7Pqi1Od0V4mOuQkAjWdN6cdxA&oe=6AECBE4A,https://instagram.fccu1-2.fna.fbcdn.net/o1/v/t2/f2/m86/AQObcgHeBoEkM11NDQhGMI9q3pCrr4d4ObcdRJjZD5PSXLEdMAVdCYga44gwN9HK782DOe3tM_GiFR4UrDR6L5cDCdmYNKTTYnxmzSA.mp4?_nc_cat=101&_nc_oc=Adoq8ZBGC76Z5RHOjLuROFuKLI5NFwDkD9H-XfTFTBF2JWf5cltwO40pVUJ77meK4TE&_nc_sid=5e9851&_nc_ht=instagram.fccu1-2.fna.fbcdn.net&_nc_ohc=ioaxM0FTBvQQ7kNvwEKa7Il&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuMTI4MC5kYXNoX2Jhc2VsaW5lXzFfdjEiLCJ4cHZfYXNzZXRfaWQiOjE4MDk2Mzk4ODQ2NDgwNTMzLCJhc3NldF9hZ2VfZGF5cyI6MywidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjM2NywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=aa80de89ab406bec&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9DOUU0RDYwNTY0REE0NDEzQTU1MEY1QzE1MzM4RjMxNl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzYzMjNBMDAyMUEyMDQ5MDg5MUQwMjY1NjhCNzNGMDFEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaqwqqPhqWlQBUCKAJDMywXQHb4AAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=D5fljrSvf9c66iyi2uO84Q&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_ss=70580&oh=00_AQQyKy-z10EM0gw-UZeQThJF0TKk5EL2tHCz0gw878rR6w&oe=6AE8C3D2,"IBS – Internal Bar Strength Trading Strategy (Statistics & Backtest)
+
+The Internal Bar Strength (IBS) indicator measures where the closing price sits within a day's high-low range. 
+
+It can be used to develop simple, rule-based trading strategies and test whether short-term price movements offer a potential edge.
+
+Interested in rule-based trading? Link in bio.",quantifiedstrategies,Quantified Strategies
+58,DfCi4Mvj6Xm,https://www.instagram.com/p/DfCi4Mvj6Xm/,4017927213122823654,2026-10-28 13:31:28,2026-10-28 19:01:28,Video / Reel,True,5,3,2,"#spytradingstrategy, #rsitrading",0,,,,,https://instagram.fccu1-2.fna.fbcdn.net/v/t51.82787-15/873263846_18096394904480533_3553585029704064395_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ig_cache_key=NDAxNzkyNzIxMzEyMjgyMzY1NDE4MDk2Mzk0OTAxNDgwNTMz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcxNi5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=4Un-Clwx4RcQ7kNvwF6Lwao&_nc_oc=AdrVuztS3JYfDuxFv4SJ6XElScq6rKmdyOfANO9cBDn1319ylTyEj5_SuUwrjb4EPxs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fccu1-2.fna&_nc_gid=E8_IleZN1qXF7Uy5WqdZQg&_nc_ss=7320f&oh=00_AQSM5vFCtPpZXyelb8oDiEJB_I2y-KtR_3lUFHnqubQG3A&oe=6AECA5BA,https://instagram.fccu1-2.fna.fbcdn.net/o1/v/t2/f2/m86/AQPPIiQBjpHB5FwbE90iH5aprHTbojq3QtxfEaA0PwJSDD28oyFgeguV6FkcxP1U3gXdrJXffLY9OUiDr2fwRCGpUoChusWcBYnbljI.mp4?_nc_cat=108&_nc_oc=Adqsgwr0nqBa7uJ8ZgMv3UWc703C4XU79XpnYwK7wvQagXOKCHMK_vgL6FGawLQDTeA&_nc_sid=5e9851&_nc_ht=instagram.fccu1-2.fna.fbcdn.net&_nc_ohc=ARKtTmhw-LEQ7kNvwGxxBS8&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzEyLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwOTYzOTQ2MzE0ODA1MzMsImFzc2V0X2FnZV9kYXlzIjozLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTIsIndhdGNoX3RpbWVfcyI6MTc3OSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=fb1adb67f226e34f&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9EQkJDRDAxQjAzOTU0OEQzODE5NzIwRjE1RTMzQkNFQl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzhBNjA1RDVCRUJGODQ2QzhBMDQ0MzgwMjRBNUMyQTA4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaqk8zb5qSlQBUCKAJDMywXQCgAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=E8_IleZN1qXF7Uy5WqdZQg&_nc_ss=70580&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQSIJ1VT-dRphRiJelXSJlNVucW1GK-J6lKCRN1_vXy_w&oe=6AE8CD45,"📈 SPY Trading Strategy Using RSI — Could Two Simple Rules Make a Difference?
+Most traders spend hours searching for the perfect indicator. But what if a straightforward RSI trading strategy could offer valuable insights into historical S&P 500 market behavior?
+
+We tested a rule-based SPY trading strategy using the 2-period Relative Strength Index (RSI), with historical backtest data stretching from 1993 onward.
+
+The accumulated equity curve shows substantial long-term growth, raising an interesting question: Can simple, systematic trading rules outperform complicated decision-making?
+
+🔍 The trading rules are surprisingly straightforward:
+🔴 Buy Signal: Enter SPY at the close when RSI(2) falls below 15.
+🔴 Sell Signal: Exit at the close when today's closing price is higher than yesterday's high.
+
+📊 Historical Backtest: Examine the equity curve, trading conditions, and long-term performance shown in our research.
+
+This approach demonstrates how quantitative trading, technical indicators, and clearly defined entry and exit rules can be combined into a systematic trading strategy.
+
+Of course, historical performance does not guarantee future profits, and transaction costs, drawdowns, and market conditions matter.
+
+👉 Explore our 6-slide carousel to understand the setup, trading rules, backtest results, and key takeaways.
+
+💬 We'd love your opinion: Would you add another technical indicator to improve this RSI trading strategy, or keep it simple? Let us know in the comments!
+
+ABOUT QUANTIFIED STRATEGIES
+
+Run by former proprietary traders Håkan Samuelsson and Oddmund Groette, Quantified Strategies has published evidence-based research and backtested strategies since 2012. Our newsletter has 25,000+ subscribers, and our trading books have sold 30,000+ copies.
+
+🚀 Want a more disciplined, evidence-driven trading approach?
+
+Join our Skool community for backtested strategies, quantitative research, and systematic risk management.
+
+👉 Link in bio!
+#SPYTradingStrategy #RSITrading",quantifiedstrategies,Quantified Strategies
+59,DfCfXh4jDh7,https://www.instagram.com/p/DfCfXh4jDh7/,4017911773939906683,2026-10-28 13:00:57,2026-10-28 18:30:57,Video / Reel,True,2,0,0,,0,,,,,https://instagram.fccu1-2.fna.fbcdn.net/v/t51.82787-15/871304858_18096390581480533_7556465265769987209_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=NDAxNzkxMTc3MzkzOTkwNjY4MzE4MDk2MzkwNTc4NDgwNTMz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEwODAuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=MtXoeDkiKdEQ7kNvwEuc8_7&_nc_oc=AdqtXP6yRk4ma-LJ6Jq3xyboNAD3IcNvwnhsjycToBLkFGJWmdw6YNJjFbxFtyanCqo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fccu1-2.fna&_nc_gid=EzLM-foXSWzO_QyPqWqf9Q&_nc_ss=7320f&oh=00_AQSoIzKI2F2ovoDBLgseuoJfK_PTcVugqn6wb50R-8OCAA&oe=6AECA2F6,https://instagram.fccu1-2.fna.fbcdn.net/o1/v/t2/f2/m86/AQMuhvvin5lpRwEe6X8JYdBLDISwh4WCVMEnvNsl6OUYr0Q9-Vdo7UZJaxRbEnomYKSA_eiWlDfC6q0lQd8QyHkzBzMYKFxpTjSS4fo.mp4?_nc_cat=108&_nc_oc=Adr1Kq_xpNTZoKaelHp4PIPRZi8XFA94l7Yt-RRBzIbbYyjH-snuB0VFGi_N4B-fjTs&_nc_sid=5e9851&_nc_ht=instagram.fccu1-2.fna.fbcdn.net&_nc_ohc=vRcrIyuXpXUQ7kNvwF0jZzw&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwOTYzOTA0MTk0ODA1MzMsImFzc2V0X2FnZV9kYXlzIjozLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MzcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=b0a83fc8757419cb&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9GMTNBOEZENjAxRUI0NzVGQUM2MDI4MTFCRTI2RjQwQ192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzM0MDk3NUJCNzNERjRDOTg4MjU4NUZBRUFGNDM3MTc3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaq_9uqx6SlQBUCKAJDMywXQELztkWhysEYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=EzLM-foXSWzO_QyPqWqf9Q&_nc_ss=70580&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTHXZP_7FphTuu-twUEtpOXlXT7UdDTUhHpnIP-Hs9ScA&oe=6AE8E235,"Bollinger Bands Strategy (Backtest)
+
+If you are interested in Rule-Based Trading, we would love to have you in our Skool community (Link in bio)",quantifiedstrategies,Quantified Strategies
+60,DfCfV6tDA2T,https://www.instagram.com/p/DfCfV6tDA2T/,4017911663151549843,2026-10-28 13:00:16,2026-10-28 18:30:16,Carousel (Sidecar),False,8,3,5,"#1, #williamspercentr, #tradingstrategies, #backtesting, #quantifiedstrategies",0,,,,,https://instagram.fccu1-2.fna.fbcdn.net/v/t39.30808-6/865677500_1132390069309051_1410577475443348525_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=NDAxNzkxMTY0NDg4MTE5NzU5NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTEyMi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=zl7OmG6C_3IQ7kNvwF5dORo&_nc_oc=AdrbhTIOCN1TiPxuqSYOxVI5Yh055Ut-7zljylxmr5R8qtoVdSRNUI4FZoK4a350PBI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fccu1-2.fna&_nc_gid=IdTaAo8siP0FTFfTGVI7zA&_nc_ss=7320f&oh=00_AQQGHBLkCnigNVfinGkZ9AjQnuLTkMCI4Ljux2HF44jseg&oe=6AECD39B,,"🚨 Williams %R Trading Strategy: 95 out of 101 Nasdaq-100 stocks showed a profit factor above 1! Are you overlooking a powerful short-term trading strategy? 📈
+
+We tested the Williams %R indicator across 101 Nasdaq-100 stocks using approximately 10 years of historical market data—and the results were eye-opening!
+
+📊 HERE'S WHAT OUR BACKTEST REVEALED:
+
+✅ 95 of 101 stocks achieved a profit factor above 1
+
+✅ 58 stocks exceeded a 1.5 profit factor
+
+✅ 26 stocks exceeded a 2.0 profit factor
+
+✅ 66.5% median win rate
+
+✅ 1.57 median profit factor
+
+✅ 0.64% median average trade
+
+🏆 THE STANDOUT? APPLE (AAPL)
+
+Apple ranked #1 among qualifying stocks, delivering a 3.08 profit factor, 72.1% win rate, and 1.19% average trade across 165 completed trades.
+
+The strategy? A simple Williams %R(2) mean-reversion setup designed to capture short-term price rebounds.
+
+But here's the important lesson: the same rules produced very different results across individual stocks.
+
+These are historical backtest results, not guaranteed future returns. Commissions and slippage were excluded.
+
+💡 Swipe through all 6 slides to discover the strategy, trading rules, backtest results, and key takeaways!
+
+ABOUT QUANTIFIED STRATEGIES
+
+Quantified Strategies is run by Håkan Samuelsson and Oddmund Groette, two former proprietary traders with over 25 years of hands-on market experience.
+
+Since 2012, we have published evidence-based market research, backtested trading strategies, and educational resources for systematic traders. Our research reaches millions of readers, our newsletter has 25,000+ subscribers, and our trading books have sold 30,000+ copies.
+
+🎯 Want access to more rule-based trading strategies, backtests, research, and educational resources?
+
+👉 Join our Skool community today — link in bio!
+
+#WilliamsPercentR #TradingStrategies #Backtesting #QuantifiedStrategies",quantifiedstrategies,Quantified Strategies
