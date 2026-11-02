@@ -1,6 +1,6 @@
 # Master Workspace Directory Guide
 
-This workspace has been cleanly categorized and organized into **4 dedicated project directories**:
+This workspace is categorized into dedicated project directories:
 
 ---
 
@@ -24,24 +24,7 @@ This workspace has been cleanly categorized and organized into **4 dedicated pro
 
 ---
 
-## 📁 2. `02_Delta_Crypto_Backtest_Lab/`
-> **Purpose**: The algorithmic backtesting and quantitative strategy laboratory for Delta Exchange India (BTC/USD).
-
-- **`Market_Data/`**:
-  - `delta_india_btcusd_15m.csv`: 15-minute candlestick historical data.
-  - `delta_india_btcusd_1h.csv`: 1-hour candlestick historical data.
-- **`Backtest_Results/`**:
-  - `delta_audited_monthly.csv` & `delta_audited_trades.csv`: Audited PnL distributions.
-  - `delta_backtest_monthly.csv` & `delta_backtest_trades.csv`: Backtest performance logs.
-- **`Backtest_Engines_And_Audits/`**:
-  - Auditing scripts (`audit_scaled.py`, `audit_true_htf.py`, `audit_waterfall.py`, `audit_winner.py`).
-  - Strategy engines (`true_htf_swing_engine.py`, `run_intraday_scalper.py`, `run_backtest_delta.py`).
-  - Signal tests (`test_vwap_scalper.py`, `test_smc_sweep.py`, `test_liquidity_reclaim.py`, `test_trend_breakout.py`, etc.).
-  - Regime optimizers (`tune_regime.py`, `tune_system.py`, `optimize_high_profit.py`).
-
----
-
-## 📁 3. `03_Local_Business_Leads_Scraper/`
+## 📁 2. `03_Local_Business_Leads_Scraper/`
 > **Purpose**: The original lead generation and business scraping project for local businesses across Banjara Hills, Singur, Nalikul, and Haripal.
 
 - **`Lead_Datasets_And_Dossiers/`**:
@@ -57,7 +40,7 @@ This workspace has been cleanly categorized and organized into **4 dedicated pro
 
 ---
 
-## 📁 4. `04_Sub_Repositories/`
+## 📁 3. `04_Sub_Repositories/`
 > **Purpose**: Standalone sub-repositories and agent tools.
 
 - `Agent-Reach/`

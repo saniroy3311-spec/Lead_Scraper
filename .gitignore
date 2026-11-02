@@ -15,6 +15,7 @@ ENV/
 env/
 
 # Cloned reference repositories
+02_Delta_Crypto_Backtest_Lab/
 04_Sub_Repositories/
 Agent-Reach/
 gods-eye-view/
